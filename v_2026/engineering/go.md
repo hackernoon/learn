@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [go](https://hackernoon.com/tagged/go)
-### Let's learn about [Go](https://hackernoon.com/tagged/go) via these 235 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Go](https://hackernoon.com/tagged/go) via these 235 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Go is an open-source programming language developed by Google, known for its simplicity, efficiency, and strong support for concurrent programming. It is increasingly popular for building scalable network services and high-performance systems.
+Go is an open-source programming language developed by Google, known for its simplicity, efficiency, and strong support for concurrent programming. Go is increasingly popular for building scalable network services, microservices, and high-performance systems.
 
 ### [1. In-Memory Caching in Golang](https://hackernoon.com/in-memory-caching-in-golang)
 ![](https://cdn.hackernoon.com/images/uUy2hcEeUBUzpB2avIU9bM9u8Gt2-o2037pl.jpeg)

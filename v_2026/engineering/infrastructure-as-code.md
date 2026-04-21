@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [infrastructure-as-code](https://hackernoon.com/tagged/infrastructure-as-code)
-### Let's learn about [Infrastructure As Code](https://hackernoon.com/tagged/infrastructure-as-code) via these 92 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Infrastructure As Code](https://hackernoon.com/tagged/infrastructure-as-code) via these 92 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Infrastructure as Code (IaC) is the practice of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration. It enables automated, consistent, and scalable infrastructure deployment, drastically reducing manual errors and increasing efficiency.
+Infrastructure as Code (IaC) is the practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools. IaC enables automated, consistent, and repeatable infrastructure deployments, significantly improving efficiency and reducing errors.
 
 ### [1. Automating App Architecture Diagrams: How I Built a Tool to Map Codebases from the Source](https://hackernoon.com/automating-app-architecture-diagrams-how-i-built-a-tool-to-map-codebases-from-the-source)
 ![](https://cdn.hackernoon.com/images/EgbcflnJ52QSu5zjHCT9Xao2qAg2-raj33kk.jpeg)

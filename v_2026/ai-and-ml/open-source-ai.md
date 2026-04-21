@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [open-source-ai](https://hackernoon.com/tagged/open-source-ai)
-### Let's learn about [Open Source Ai](https://hackernoon.com/tagged/open-source-ai) via these 52 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Open Source Ai](https://hackernoon.com/tagged/open-source-ai) via these 52 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Open-source AI refers to artificial intelligence technologies and models released under open-source licenses, promoting collaboration, transparency, and innovation across the AI community. It democratizes access to powerful AI tools and accelerates collective progress in the field.
+Open-source AI refers to artificial intelligence models, frameworks, and tools whose source code is freely available for anyone to use, modify, and distribute. This fosters collaboration, accelerates innovation, and democratizes access to powerful AI technologies for a wider community.
 
 ### [1. Open-Source: The Next Step in AI Revolution](https://hackernoon.com/open-source-the-next-step-in-ai-revolution)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-84831op.jpeg)

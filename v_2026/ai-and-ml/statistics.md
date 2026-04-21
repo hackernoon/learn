@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [statistics](https://hackernoon.com/tagged/statistics)
-### Let's learn about [Statistics](https://hackernoon.com/tagged/statistics) via these 118 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Statistics](https://hackernoon.com/tagged/statistics) via these 118 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Statistics is the science of collecting, analyzing, interpreting, presenting, and organizing data to derive insights and make informed decisions. It is crucial across all scientific and business fields for understanding patterns, predicting outcomes, and validating hypotheses.
+The science of collecting, analyzing, interpreting, presenting, and organizing data, fundamental for making informed decisions and understanding complex phenomena in various fields.
 
 ### [1. Crossentropy, Logloss, and Perplexity: Different Facets of Likelihood](https://hackernoon.com/crossentropy-logloss-and-perplexity-different-facets-of-likelihood)
 ![](https://cdn.hackernoon.com/images/a-robot-playing-with-dice-g782y0ff0enmij1relt7tlij.png)

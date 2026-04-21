@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [art](https://hackernoon.com/tagged/art)
-### Let's learn about [Art](https://hackernoon.com/tagged/art) via these 175 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Art](https://hackernoon.com/tagged/art) via these 175 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Art is whatever you want it to be.
 

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [big-tech](https://hackernoon.com/tagged/big-tech)
-### Let's learn about [Big Tech](https://hackernoon.com/tagged/big-tech) via these 105 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Big Tech](https://hackernoon.com/tagged/big-tech) via these 105 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Big Tech refers to the largest and most dominant technology companies, such as Amazon, Apple, Google, and Meta. These companies wield significant influence over global markets, economies, and societies, shaping technological landscapes and consumer behavior.
+Big Tech refers to the largest and most dominant technology companies, typically including firms like Apple, Amazon, Google, Meta, and Microsoft. These companies matter due to their immense influence on global economies, innovation, and daily digital life, often raising concerns about market power and data privacy.
 
 ### [1. Demystifying “Genius Design”: A Dive into Big Tech's Design Process](https://hackernoon.com/demystifying-genius-design-a-dive-into-big-techs-design-process)
 ![](https://cdn.hackernoon.com/images/NFIHgLylSjetW6KhhxUWX8oPpqn2-goa3ns9.jpeg)

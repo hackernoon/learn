@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [uniswap](https://hackernoon.com/tagged/uniswap)
-### Let's learn about [Uniswap](https://hackernoon.com/tagged/uniswap) via these 67 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Uniswap](https://hackernoon.com/tagged/uniswap) via these 67 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Uniswap is a decentralized exchange (DEX) protocol built on Ethereum that facilitates automated trading of cryptocurrency tokens without traditional intermediaries. It's a cornerstone of the DeFi ecosystem, enabling permissionless token swaps and liquidity provision.
+Uniswap is a popular decentralized exchange (DEX) protocol on Ethereum, enabling automated trading of DeFi tokens. It matters for facilitating peer-to-peer cryptocurrency trading without intermediaries, central to the DeFi ecosystem.
 
 ### [1. 3 Promising Cryptocurrencies to Invest In For 2021 & 2022](https://hackernoon.com/3-promising-cryptocurrencies-to-look-out-for-2021-2022-v2w372z)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-ile635tf.jpeg)

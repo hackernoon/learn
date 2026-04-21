@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [flutter](https://hackernoon.com/tagged/flutter)
-### Let's learn about [Flutter](https://hackernoon.com/tagged/flutter) via these 192 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Flutter](https://hackernoon.com/tagged/flutter) via these 192 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Google's open source UI development kit, used to develop cross platform applications.
 

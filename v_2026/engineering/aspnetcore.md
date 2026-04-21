@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [aspnetcore](https://hackernoon.com/tagged/aspnetcore)
-### Let's learn about [Aspnetcore](https://hackernoon.com/tagged/aspnetcore) via these 72 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Aspnetcore](https://hackernoon.com/tagged/aspnetcore) via these 72 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-ASP.NET Core is an open-source, cross-platform framework for building modern, cloud-based, internet-connected applications using C#. It enables developers to create high-performance web APIs and web applications across various operating systems.
+ASP.NET Core is a free, open-source web framework from Microsoft for building modern, cloud-based, internet-connected applications on Windows, macOS, and Linux. It enables developers to create high-performance web APIs and web UIs with full control over the development environment.
 
 ### [1. ASP.NET Core — How to use Dependency Injection in Entity Framework Core](https://hackernoon.com/asp-net-core-how-to-use-dependency-injection-in-entity-framework-core-4388fc5c148b)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ln03b4l.png)

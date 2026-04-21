@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [phishing](https://hackernoon.com/tagged/phishing)
-### Let's learn about [Phishing](https://hackernoon.com/tagged/phishing) via these 146 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Phishing](https://hackernoon.com/tagged/phishing) via these 146 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Phishing is a cybercrime tactic where attackers attempt to deceive individuals into revealing sensitive information, such as passwords or financial details, posing a significant threat to personal and organizational security. It matters as a pervasive threat that can lead to data breaches, financial loss, and identity theft, requiring constant vigilance.
+Phishing is a type of cyberattack where attackers attempt to trick individuals into revealing sensitive information, often through deceptive emails or websites. It matters as a pervasive threat that can lead to data breaches, financial fraud, and identity theft, making cybersecurity awareness critical.
 
 ### [1. What Is FraudGPT?](https://hackernoon.com/what-is-fraudgpt)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-xx93sjx.jpeg)

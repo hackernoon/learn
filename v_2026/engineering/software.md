@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [software](https://hackernoon.com/tagged/software)
-### Let's learn about [Software](https://hackernoon.com/tagged/software) via these 354 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Software](https://hackernoon.com/tagged/software) via these 354 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Tell a computer what to do.
 

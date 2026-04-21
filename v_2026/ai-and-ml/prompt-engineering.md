@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [prompt-engineering](https://hackernoon.com/tagged/prompt-engineering)
-### Let's learn about [Prompt Engineering](https://hackernoon.com/tagged/prompt-engineering) via these 235 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Prompt Engineering](https://hackernoon.com/tagged/prompt-engineering) via these 236 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Prompt engineering is the art and science of crafting effective inputs (prompts) for AI models to achieve desired outputs, crucial for optimizing the performance of large language models and generative AI. It matters by unlocking the full potential of AI systems, enabling users to precisely control and refine AI-generated content and insights.
+Prompt engineering is the art and science of crafting effective inputs (prompts) to guide AI models, especially large language models, to generate desired outputs. It matters for maximizing the utility and accuracy of AI systems, enabling nuanced control over their behavior and applications.
 
 ### [1. Prompt Engineering 101 - I: Unveiling Principles & Techniques of Effective Prompt Crafting](https://hackernoon.com/prompt-engineering-101-i-unveiling-principles-and-techniques-of-effective-prompt-crafting)
 ![](https://cdn.hackernoon.com/images/JypOKD4Hf5McguMqED3zmTXpMiH2-hj92p0b.jpeg)
@@ -951,4 +951,8 @@ Are LLMs a blessing or a curse for education? Though they may seem like a curse,
 ### [235. Why Chain-of-Thought Prompts Are the Key to Smarter AI Agents](https://hackernoon.com/why-chain-of-thought-prompts-are-the-key-to-smarter-ai-agents)
 ![](https://cdn.hackernoon.com/images/sqikqQONSrXUL7vAoPYr39FQroe2-6f125yr.png)
 In this article, we look at the chain of thought prompting technique and how it is key to shaping smarter AI Agents. 
+
+### [236. Best Practices in Prompt Engineering for AI Agents in Solidity Smart Contract Auditing](https://hackernoon.com/best-practices-in-prompt-engineering-for-ai-agents-in-solidity-smart-contract-auditing)
+![](https://cdn.hackernoon.com/images/txUmpVK9x1douYVN85XfpdQ9Fku1-gc83ipc.png)
+Learn how to use AI for smart contract audits the right way. Avoid costly mistakes with structured prompts, verification steps, and real exploit validation.
 

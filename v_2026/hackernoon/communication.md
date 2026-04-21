@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [communication](https://hackernoon.com/tagged/communication)
-### Let's learn about [Communication](https://hackernoon.com/tagged/communication) via these 251 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Communication](https://hackernoon.com/tagged/communication) via these 251 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 We've all heard that we need to be better communicators from our partners, but we also need communication in business and tech too. So pay attention.
 

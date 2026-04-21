@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [android-app-development](https://hackernoon.com/tagged/android-app-development)
-### Let's learn about [Android App Development](https://hackernoon.com/tagged/android-app-development) via these 213 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Android App Development](https://hackernoon.com/tagged/android-app-development) via these 213 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Want to dive head first into the world of android app development? Well, this is the place for you.
 

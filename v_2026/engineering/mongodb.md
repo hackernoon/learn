@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mongodb](https://hackernoon.com/tagged/mongodb)
-### Let's learn about [Mongodb](https://hackernoon.com/tagged/mongodb) via these 114 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Mongodb](https://hackernoon.com/tagged/mongodb) via these 114 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-MongoDB is a popular NoSQL database that stores data in flexible, JSON-like documents, ideal for handling large volumes of unstructured data and offering high scalability and performance. It matters by providing a agile and powerful solution for modern applications that require flexible data models and horizontal scaling.
+MongoDB is a popular NoSQL document database. It matters because its flexible document model allows for rapid development and handling of large volumes of unstructured data, making it ideal for modern web applications and scalable data storage.
 
 ### [1. Building a MongoDB NoSQL E-Commerce Data Model](https://hackernoon.com/building-a-mongodb-nosql-e-commerce-data-model-fn8135bc)
 ![](https://cdn.hackernoon.com/images/luNcoaJnkJhoplfHFMeY40nJYoJ3-jl4y33hc.jpeg)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [swift](https://hackernoon.com/tagged/swift)
-### Let's learn about [Swift](https://hackernoon.com/tagged/swift) via these 168 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Swift](https://hackernoon.com/tagged/swift) via these 168 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS." - Apple Developer Website
 

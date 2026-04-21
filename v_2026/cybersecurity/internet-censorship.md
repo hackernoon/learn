@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [internet-censorship](https://hackernoon.com/tagged/internet-censorship)
-### Let's learn about [Internet Censorship](https://hackernoon.com/tagged/internet-censorship) via these 169 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Internet Censorship](https://hackernoon.com/tagged/internet-censorship) via these 169 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Internet censorship is the control or suppression of what can be accessed, published, or viewed on the internet. It matters as it impacts freedom of speech, access to information, and digital rights, shaping political and social discourse globally.
+Internet censorship refers to the control or suppression of what can be accessed, published, or viewed on the internet. It matters as it impacts freedom of expression, access to information, and can have significant political, social, and economic implications.
 
 ### [1. Nintendo Shuts Down Kickstarter Campaign For Violating Animal Crossing Copyrights](https://hackernoon.com/nintendo-shuts-down-kickstarter-campaign-for-violating-animal-crossing-copyrights-ni1o3wi0)
 ![](https://images.unsplash.com/photo-1555864326-5cf22ef123cf?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

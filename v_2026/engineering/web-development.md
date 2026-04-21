@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web-development](https://hackernoon.com/tagged/web-development)
-### Let's learn about [Web Development](https://hackernoon.com/tagged/web-development) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Web Development](https://hackernoon.com/tagged/web-development) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 HTML/CSS, Javascript, Angular, React, and other stories by those who build the frontend of the Internet. 
 

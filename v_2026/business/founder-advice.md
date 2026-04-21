@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [founder-advice](https://hackernoon.com/tagged/founder-advice)
-### Let's learn about [Founder Advice](https://hackernoon.com/tagged/founder-advice) via these 172 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Founder Advice](https://hackernoon.com/tagged/founder-advice) via these 172 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 “Chase the vision, not the money, the money will end up following you.” – Tony Hsieh, Zappos CEO
 

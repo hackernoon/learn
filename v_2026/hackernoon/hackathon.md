@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hackathon](https://hackernoon.com/tagged/hackathon)
-### Let's learn about [Hackathon](https://hackernoon.com/tagged/hackathon) via these 85 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Hackathon](https://hackernoon.com/tagged/hackathon) via these 85 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A hackathon is an event where programmers, designers, and other creative individuals collaborate intensively on software projects over a short period, fostering innovation and rapid prototyping. It's a vital environment for developing new ideas, learning new skills, and networking within the tech community.
+A hackathon is an event where participants collaboratively engage in intensive computer programming or design over a short period to solve a problem or build a project. Hackathons foster innovation, collaboration, and rapid prototyping, often leading to novel ideas and solutions.
 
 ### [1. Sending Secret Messages with the Courier API and Node.js](https://hackernoon.com/sending-secret-messages-with-the-courier-api-and-nodejs)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-cd93o1o.jpeg)

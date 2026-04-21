@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [langchain](https://hackernoon.com/tagged/langchain)
-### Let's learn about [Langchain](https://hackernoon.com/tagged/langchain) via these 59 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Langchain](https://hackernoon.com/tagged/langchain) via these 59 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-LangChain is a framework designed for developing applications powered by large language models (LLMs), streamlining the integration and orchestration of AI capabilities. It is crucial for building sophisticated AI agents and applications by connecting LLMs with external data and computation.
+LangChain is a framework designed to simplify the creation of applications using large language models (LLMs), providing tools to chain together LLMs with other components. It enables developers to build complex, context-aware LLM applications more efficiently, unlocking advanced AI capabilities.
 
 ### [1. A Practical 5-Step Guide to Do Semantic Search on Your Private Data With the Help of LLMs](https://hackernoon.com/a-practical-5-step-guide-to-do-semantic-search-on-your-private-data-with-the-help-of-llms)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-gn93kv6.jpeg)

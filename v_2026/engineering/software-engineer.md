@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [software-engineer](https://hackernoon.com/tagged/software-engineer)
-### Let's learn about [Software Engineer](https://hackernoon.com/tagged/software-engineer) via these 127 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Software Engineer](https://hackernoon.com/tagged/software-engineer) via these 127 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Why did the developer go broke? Because he used up all his cache. - Elijah Manor
 

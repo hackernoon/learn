@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [startups-of-the-year](https://hackernoon.com/tagged/startups-of-the-year)
-### Let's learn about [Startups Of The Year](https://hackernoon.com/tagged/startups-of-the-year) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Startups Of The Year](https://hackernoon.com/tagged/startups-of-the-year) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Startups of the Year, hosted by HackerNoon, honors almost 40k startups all over the world in cities with 100k+ population. Visit startups.hackernoon.com to vote up your fave startups! 
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [startup](https://hackernoon.com/tagged/startup)
-### Let's learn about [Startup](https://hackernoon.com/tagged/startup) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Startup](https://hackernoon.com/tagged/startup) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Startups are early stage potentially high growth businesses. Usually they fail. HackerNoon is thrilled to highlight the best ones for every city in the world: statups.hackernoon.com
 

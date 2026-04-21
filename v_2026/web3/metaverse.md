@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [metaverse](https://hackernoon.com/tagged/metaverse)
-### Let's learn about [Metaverse](https://hackernoon.com/tagged/metaverse) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Metaverse](https://hackernoon.com/tagged/metaverse) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "In its current meaning, metaverse generally refers to the concept of a highly immersive virtual world where people gather to socialize, play, and work." - Merriam-Webster
 

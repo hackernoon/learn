@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [crypto](https://hackernoon.com/tagged/crypto)
-### Let's learn about [Crypto](https://hackernoon.com/tagged/crypto) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Crypto](https://hackernoon.com/tagged/crypto) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 crypto is what the cool kids call cryptocurrencies. You gotta hand it to the kids, "Do You even crypto, bro." has a better ring than the alternative. 
 

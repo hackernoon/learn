@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [software-engineering](https://hackernoon.com/tagged/software-engineering)
-### Let's learn about [Software Engineering](https://hackernoon.com/tagged/software-engineering) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Software Engineering](https://hackernoon.com/tagged/software-engineering) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job." - Mosher’s Law of Software Engineering
 

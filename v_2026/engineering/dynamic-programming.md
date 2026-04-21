@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dynamic-programming](https://hackernoon.com/tagged/dynamic-programming)
-### Let's learn about [Dynamic Programming](https://hackernoon.com/tagged/dynamic-programming) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Dynamic Programming](https://hackernoon.com/tagged/dynamic-programming) via these 50 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results to avoid redundant computations. It is crucial for optimizing algorithms in computer science, leading to efficient solutions for various computational challenges.
+Dynamic programming is a method for solving complex problems by breaking them down into simpler overlapping subproblems and storing their results. It matters for efficiently tackling optimization challenges in computer science, significantly improving algorithmic performance.
 
 ### [1. Kadane’s Algorithm Explained with Examples](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
 ![](https://cdn.hackernoon.com/hn-images/1*XuUYS-A4W7gk4RCrI4aAaw.jpeg)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [webdev](https://hackernoon.com/tagged/webdev)
-### Let's learn about [Webdev](https://hackernoon.com/tagged/webdev) via these 452 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Webdev](https://hackernoon.com/tagged/webdev) via these 452 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Resources generated from and catering to the development of a website for internet or intranet.
 

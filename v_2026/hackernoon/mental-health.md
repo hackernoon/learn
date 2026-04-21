@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mental-health](https://hackernoon.com/tagged/mental-health)
-### Let's learn about [Mental Health](https://hackernoon.com/tagged/mental-health) via these 351 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Mental Health](https://hackernoon.com/tagged/mental-health) via these 351 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 If your mind is not right, nothing it produces or caters to will be. HackerNoon's mental health stories address how to care for your most valuable asset 
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [github](https://hackernoon.com/tagged/github)
-### Let's learn about [Github](https://hackernoon.com/tagged/github) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Github](https://hackernoon.com/tagged/github) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 If Hacker Noon community built something using GitHub and wrote about it, you will find it right here. (Psst, if you did the same, we’d love to hear from you too)
 

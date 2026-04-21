@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blockchain-oracles](https://hackernoon.com/tagged/blockchain-oracles)
-### Let's learn about [Blockchain Oracles](https://hackernoon.com/tagged/blockchain-oracles) via these 65 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Blockchain Oracles](https://hackernoon.com/tagged/blockchain-oracles) via these 65 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Blockchain oracles are third-party services that connect smart contracts with real-world data and off-chain systems. Oracles are essential for enabling smart contracts to interact with external events, making them more powerful and practical for real-world applications.
+Blockchain oracles are third-party services that provide smart contracts with external information not natively available on the blockchain. They matter by bridging the gap between blockchain ecosystems and the real world, enabling more complex and useful smart contract applications.
 
 ### [1. Is Chainlink The One 'Ring' To Rule Them All?](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283)
 ![](https://cdn.hackernoon.com/images/ZsqW93kD80YxD4F0ErYukeM6Sem1-h3a34vt.jpeg)

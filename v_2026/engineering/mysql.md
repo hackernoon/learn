@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mysql](https://hackernoon.com/tagged/mysql)
-### Let's learn about [Mysql](https://hackernoon.com/tagged/mysql) via these 109 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Mysql](https://hackernoon.com/tagged/mysql) via these 109 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-MySQL is an open-source relational database management system (RDBMS) widely used for web applications due to its speed, reliability, and ease of use. It is a cornerstone for data storage in countless popular websites and applications globally.
+A widely used open-source relational database management system, valued for its speed, reliability, and ease of use in web applications.
 
 ### [1. [MySQL] Note: Relation: 1–1, 1-n, n-n, nest](https://hackernoon.com/mysql-tutorial-example-relation-foreign-key-database-funtion-join-table-query-one-namy-nest-41dd09648fbd)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-st03b2x.jpeg)

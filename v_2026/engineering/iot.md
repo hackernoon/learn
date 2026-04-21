@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [iot](https://hackernoon.com/tagged/iot)
-### Let's learn about [Iot](https://hackernoon.com/tagged/iot) via these 394 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Iot](https://hackernoon.com/tagged/iot) via these 394 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Where we can read how startups are attempting to make our experiences with IoT look more like what we imagined when we were sci-fi loving kids.
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptocurrency-news](https://hackernoon.com/tagged/cryptocurrency-news)
-### Let's learn about [Cryptocurrency News](https://hackernoon.com/tagged/cryptocurrency-news) via these 125 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Cryptocurrency News](https://hackernoon.com/tagged/cryptocurrency-news) via these 125 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 What's new in the world of crypto? Go beyond bitcoin price falling and bitcoin price rising.
 

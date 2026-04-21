@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [product-management](https://hackernoon.com/tagged/product-management)
-### Let's learn about [Product Management](https://hackernoon.com/tagged/product-management) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Product Management](https://hackernoon.com/tagged/product-management) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Happy, Horror, and Inspirational stories from managers tasked with the unenviable task of getting stuff done.
 

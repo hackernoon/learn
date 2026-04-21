@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [csharp](https://hackernoon.com/tagged/csharp)
-### Let's learn about [Csharp](https://hackernoon.com/tagged/csharp) via these 206 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Csharp](https://hackernoon.com/tagged/csharp) via these 207 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Like Java, but it sucks less.
 
@@ -836,4 +836,8 @@ Noonies interview with Sukhpinder Singh, Senior Engineer at SourceFuse.
 ### [206. The Noonification: Moai (8/13/2023)](https://hackernoon.com/8-13-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_723_t8sjll825fx85bamu2i9vipd.png)
 8/13/2023: Top 5 stories on the Hackernoon homepage!
+
+### [207. C# Read Excel Files: 12 Approaches Ranked for Enterprise .NET Development](https://hackernoon.com/c-read-excel-files-12-approaches-ranked-for-enterprise-net-development)
+![](https://cdn.hackernoon.com/images/EhJAC2f5SPYT506kSzAJw5fsX612-yi838r4.png)
+12 distinct approaches to reading MS Excel files in C#, each with working code, honest strengths and weaknesses, and a clear enterprise verdict.
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [fix-the-internet](https://hackernoon.com/tagged/fix-the-internet)
-### Let's learn about [Fix The Internet](https://hackernoon.com/tagged/fix-the-internet) via these 78 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Fix The Internet](https://hackernoon.com/tagged/fix-the-internet) via these 78 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The internet functions, but does it work? Too often it works for shareholders and not the individual. We can rebuild it. 
 

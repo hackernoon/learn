@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [project-gutenberg](https://hackernoon.com/tagged/project-gutenberg)
-### Let's learn about [Project Gutenberg](https://hackernoon.com/tagged/project-gutenberg) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Project Gutenberg](https://hackernoon.com/tagged/project-gutenberg) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Project Gutenberg is a volunteer effort to digitize and archive cultural works, offering a library of over 60,000 free eBooks. It's significant for preserving and democratizing access to literature and knowledge worldwide.
+Project Gutenberg is a volunteer effort to digitize and archive cultural works, creating a vast library of free eBooks. It is important for preserving literature and making classic texts accessible to everyone globally, fostering education and intellectual curiosity.
 
 ### [1. The Trail of Death](https://hackernoon.com/the-trail-of-death)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ru93tsa.jpeg)

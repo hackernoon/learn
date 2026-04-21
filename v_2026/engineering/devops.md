@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [devops](https://hackernoon.com/tagged/devops)
-### Let's learn about [Devops](https://hackernoon.com/tagged/devops) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Devops](https://hackernoon.com/tagged/devops) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 How Devs from Venus and Ops from Mars get along for fast and furious software development? Is DevOps with CI/CD the nitromethane to your SDLC?
 

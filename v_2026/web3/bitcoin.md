@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [bitcoin](https://hackernoon.com/tagged/bitcoin)
-### Let's learn about [Bitcoin](https://hackernoon.com/tagged/bitcoin) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Bitcoin](https://hackernoon.com/tagged/bitcoin) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The birth of digital currency. Bitcoin is the mascot of decentralized and reliable digital currency.
 

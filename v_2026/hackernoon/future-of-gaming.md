@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [future-of-gaming](https://hackernoon.com/tagged/future-of-gaming)
-### Let's learn about [Future Of Gaming](https://hackernoon.com/tagged/future-of-gaming) via these 358 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Future Of Gaming](https://hackernoon.com/tagged/future-of-gaming) via these 358 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 $15,900 in prizes given to the best future-of-gaming stories each month.
 Submit stories about anything related to The Future of Gaming, where the industry is headed, and these related topics: Play-to-earn,Blockchain games, Metaverse, NFTs, Esports, Gaming & Mobile Gaming.

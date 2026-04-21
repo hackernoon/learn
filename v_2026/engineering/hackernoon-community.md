@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hackernoon-community](https://hackernoon.com/tagged/hackernoon-community)
-### Let's learn about [Hackernoon Community](https://hackernoon.com/tagged/hackernoon-community) via these 186 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Hackernoon Community](https://hackernoon.com/tagged/hackernoon-community) via these 186 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-The HackerNoon Community refers to the global network of writers, readers, and technologists engaging with HackerNoon's platform. It matters as it fosters knowledge sharing, supports emerging tech voices, and drives discourse on the future of technology.
+HackerNoon Community refers to the global network of writers, readers, and technologists engaging with HackerNoon's platform. It matters as it fosters a vibrant ecosystem for sharing knowledge, insights, and stories about technology, promoting collective learning and industry discourse.
 
 ### [1. The Linux Writing Contest by Linode and HackerNoon](https://hackernoon.com/the-linux-writing-contest-by-linode-and-hackernoon)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-4293z0k.jpeg)

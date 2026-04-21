@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [kafka](https://hackernoon.com/tagged/kafka)
-### Let's learn about [Kafka](https://hackernoon.com/tagged/kafka) via these 91 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Kafka](https://hackernoon.com/tagged/kafka) via these 91 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Apache Kafka is a distributed streaming platform that enables real-time processing of data streams, acting as a high-throughput, fault-tolerant message broker. It's crucial for building scalable, resilient data pipelines and real-time analytics applications, underpinning many modern data architectures.
+Kafka is a distributed streaming platform enabling applications to publish, subscribe to, store, and process stream records in real-time. It matters as a highly scalable and fault-tolerant solution for building real-time data pipelines and streaming applications.
 
 ### [1. Setting up Kafka on Docker for Local Development](https://hackernoon.com/setting-up-kafka-on-docker-for-local-development)
 ![](https://cdn.hackernoon.com/images/ytHm0Rre9BVDv1aC08GvG7El0JO2-ogb3ou1.jpeg)

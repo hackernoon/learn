@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cybersecurity](https://hackernoon.com/tagged/cybersecurity)
-### Let's learn about [Cybersecurity](https://hackernoon.com/tagged/cybersecurity) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Cybersecurity](https://hackernoon.com/tagged/cybersecurity) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Hacking is not a crime! Or is it? Well, it depends on which hat you are wearing. Find all about Offense-Defense dilemmas, theories, and practicals here!
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [productivity](https://hackernoon.com/tagged/productivity)
-### Let's learn about [Productivity](https://hackernoon.com/tagged/productivity) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Productivity](https://hackernoon.com/tagged/productivity) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Looking for a #LifeHack? You're in the right place. But first ask yourself, how many Pomodoros have you even done today?
 

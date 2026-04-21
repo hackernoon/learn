@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [proof-of-stake](https://hackernoon.com/tagged/proof-of-stake)
-### Let's learn about [Proof Of Stake](https://hackernoon.com/tagged/proof-of-stake) via these 106 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Proof Of Stake](https://hackernoon.com/tagged/proof-of-stake) via these 106 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Proof of Stake (PoS) is a consensus mechanism used by some cryptocurrencies to validate transactions and create new blocks, offering an energy-efficient alternative to Proof of Work. It relies on validators who stake their coins as collateral, promoting network security and decentralization.
+Proof of Stake is a consensus mechanism used by some blockchain networks to validate transactions and create new blocks, where validators are chosen based on the amount of cryptocurrency they 'stake' as collateral. It offers a more energy-efficient alternative to Proof of Work.
 
 ### [1. What Advantage Do Programmable NFTs Bring to Users?](https://hackernoon.com/what-advantage-do-programmable-nfts-bring-to-users)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6x93usp.jpeg)

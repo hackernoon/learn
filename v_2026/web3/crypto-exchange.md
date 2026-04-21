@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [crypto-exchange](https://hackernoon.com/tagged/crypto-exchange)
-### Let's learn about [Crypto Exchange](https://hackernoon.com/tagged/crypto-exchange) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Crypto Exchange](https://hackernoon.com/tagged/crypto-exchange) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Delve into the technologies, algorithms, marketing, and even, shady activities that enable you to buy crypto from strangers online.
 

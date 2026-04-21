@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [youtubers](https://hackernoon.com/tagged/youtubers)
-### Let's learn about [Youtubers](https://hackernoon.com/tagged/youtubers) via these 109 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Youtubers](https://hackernoon.com/tagged/youtubers) via these 109 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-YouTubers are content creators who produce and upload videos to the YouTube platform, shaping digital culture and influencing audiences through entertainment, education, and commentary. They matter by democratizing media production and creating new forms of digital entrepreneurship and community engagement.
+YouTubers are individuals who create and share video content on the YouTube platform. They matter as key influencers and content creators, shaping digital culture and offering diverse information and entertainment to global audiences.
 
 ### [1. How to Talk to ChatGPT: An Intro to Prompt Engineering](https://hackernoon.com/how-to-talk-to-chatgpt-an-intro-to-prompt-engineering)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uta3kw8.jpeg)

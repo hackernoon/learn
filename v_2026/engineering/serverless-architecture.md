@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [serverless-architecture](https://hackernoon.com/tagged/serverless-architecture)
-### Let's learn about [Serverless Architecture](https://hackernoon.com/tagged/serverless-architecture) via these 73 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Serverless Architecture](https://hackernoon.com/tagged/serverless-architecture) via these 73 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Serverless architecture is a cloud execution model where the cloud provider dynamically manages server allocation, allowing developers to build and run applications without managing infrastructure. It offers cost efficiency and scalability, enabling focus on code rather than operations.
+Serverless architecture is a cloud execution model where the cloud provider dynamically manages server allocation, allowing developers to focus solely on writing code. This approach significantly reduces operational overhead and can lead to cost savings and increased development speed.
 
 ### [1. How Costly is AWS Redshift Serverless? ](https://hackernoon.com/how-costly-is-aws-redshift-serverless)
 ![](https://cdn.hackernoon.com/images/0oE78w6ioeWYSogyLYhNZoB8wC02-1h92nti.jpeg)

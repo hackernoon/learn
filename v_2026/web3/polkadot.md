@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [polkadot](https://hackernoon.com/tagged/polkadot)
-### Let's learn about [Polkadot](https://hackernoon.com/tagged/polkadot) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Polkadot](https://hackernoon.com/tagged/polkadot) via these 103 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Polkadot is a multi-chain blockchain platform designed to enable different blockchains to communicate and transfer value seamlessly. It aims to create a decentralized web (Web3) by connecting specialized chains, fostering interoperability and scalability within the blockchain ecosystem.
+Polkadot is a multi-chain framework that enables different blockchains to communicate and share data securely. It aims to create a truly interoperable and scalable decentralized web (Web3) by connecting specialized blockchains.
 
 ### [1. 3 Promising Cryptocurrencies to Invest In For 2021 & 2022](https://hackernoon.com/3-promising-cryptocurrencies-to-look-out-for-2021-2022-v2w372z)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-ile635tf.jpeg)

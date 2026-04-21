@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [life-lessons](https://hackernoon.com/tagged/life-lessons)
-### Let's learn about [Life Lessons](https://hackernoon.com/tagged/life-lessons) via these 262 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Life Lessons](https://hackernoon.com/tagged/life-lessons) via these 262 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 'The roots of education are bitter, but the fruit is sweet.' Aristotle
 

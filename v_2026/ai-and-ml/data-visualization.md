@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-visualization](https://hackernoon.com/tagged/data-visualization)
-### Let's learn about [Data Visualization](https://hackernoon.com/tagged/data-visualization) via these 228 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Data Visualization](https://hackernoon.com/tagged/data-visualization) via these 228 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 When your data can't be explained by plain words. 
 

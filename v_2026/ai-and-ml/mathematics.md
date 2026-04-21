@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mathematics](https://hackernoon.com/tagged/mathematics)
-### Let's learn about [Mathematics](https://hackernoon.com/tagged/mathematics) via these 153 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Mathematics](https://hackernoon.com/tagged/mathematics) via these 153 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 I don't like math, but you might. The wonderous world of numbers awaits!
 

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [learn-javascript](https://hackernoon.com/tagged/learn-javascript)
-### Let's learn about [Learn Javascript](https://hackernoon.com/tagged/learn-javascript) via these 69 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Learn Javascript](https://hackernoon.com/tagged/learn-javascript) via these 69 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-"Learn JavaScript" describes the process of acquiring skills in JavaScript, the foundational programming language for web development, enabling interactive and dynamic functionality on websites. It matters by providing the essential language for front-end development and a significant portion of back-end and mobile development, making it a crucial skill for modern programmers.
+Learning JavaScript involves acquiring proficiency in the JavaScript programming language. It matters because JavaScript is essential for web development, powering interactive front-end experiences and increasingly backend services, making it a critical skill for modern developers.
 
 ### [1. JavaScript Practical Coding Challenges For Beginners](https://hackernoon.com/javascript-practical-coding-challenges-for-beginners-4bq3ugr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd4eCS2jiqecKKoHIteUYrhKUXUU2-c5jk3upf.jpeg?alt=media&token=fee6163f-e79f-4eda-89a4-ab87b2377a3f)

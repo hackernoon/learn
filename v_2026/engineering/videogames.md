@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [videogames](https://hackernoon.com/tagged/videogames)
-### Let's learn about [Videogames](https://hackernoon.com/tagged/videogames) via these 104 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Videogames](https://hackernoon.com/tagged/videogames) via these 104 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Need a break from playing video games? Why don't you READ about video games instead?
 

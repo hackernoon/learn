@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [coronavirus](https://hackernoon.com/tagged/coronavirus)
-### Let's learn about [Coronavirus](https://hackernoon.com/tagged/coronavirus) via these 409 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Coronavirus](https://hackernoon.com/tagged/coronavirus) via these 409 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
  "Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus." - WHO
 

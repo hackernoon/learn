@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [azure](https://hackernoon.com/tagged/azure)
-### Let's learn about [Azure](https://hackernoon.com/tagged/azure) via these 140 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Azure](https://hackernoon.com/tagged/azure) via these 140 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Azure is Microsoft's cloud computing platform, offering a vast array of services for building, deploying, and managing applications and services through a global network of data centers. It matters by providing scalable, flexible, and secure infrastructure that empowers businesses to innovate and operate globally without managing physical hardware.
+Azure is Microsoft's comprehensive cloud computing platform. It matters for providing a vast array of services, from computing and storage to AI and IoT, enabling businesses to build, deploy, and manage applications and infrastructure at scale globally.
 
 ### [1. Logging in Azure with Application Insights and Serilog](https://hackernoon.com/logging-in-azure-with-application-insights-and-serilog)
 ![](https://cdn.hackernoon.com/images/FUmMuBwNhpPp6qgj0iLHAWTb8SH3-nag2k3k.jpeg)

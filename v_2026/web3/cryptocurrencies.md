@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptocurrencies](https://hackernoon.com/tagged/cryptocurrencies)
-### Let's learn about [Cryptocurrencies](https://hackernoon.com/tagged/cryptocurrencies) via these 71 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Cryptocurrencies](https://hackernoon.com/tagged/cryptocurrencies) via these 71 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Comparing different cryptocurrencies from a technical, marketing, and business perspectives is what's up in this Hacker Noon page.
 

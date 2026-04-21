@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [website-development](https://hackernoon.com/tagged/website-development)
-### Let's learn about [Website Development](https://hackernoon.com/tagged/website-development) via these 247 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Website Development](https://hackernoon.com/tagged/website-development) via these 247 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 We're well into the 21st century, it's crucial for your business to have a website. Here are guides and explanations on how to develop your own.
 

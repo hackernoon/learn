@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dex](https://hackernoon.com/tagged/dex)
-### Let's learn about [Dex](https://hackernoon.com/tagged/dex) via these 116 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Dex](https://hackernoon.com/tagged/dex) via these 116 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A Decentralized Exchange (DEX) is a cryptocurrency exchange that operates without a central authority, facilitating peer-to-peer trading directly from users' wallets. DEXs enhance security, privacy, and censorship resistance by removing intermediaries from the trading process.
+A Decentralized Exchange (DEX) is a cryptocurrency exchange that operates without a central authority, allowing users to trade directly peer-to-peer. DEXs enhance security and user control by eliminating the need for intermediaries.
 
 ### [1. Understanding Decentralized Exchanges](https://hackernoon.com/understanding-decentralized-exchanges-51b70ed3fe67)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-px03bzp.jpeg)

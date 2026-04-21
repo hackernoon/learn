@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [content-marketing](https://hackernoon.com/tagged/content-marketing)
-### Let's learn about [Content Marketing](https://hackernoon.com/tagged/content-marketing) via these 489 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Content Marketing](https://hackernoon.com/tagged/content-marketing) via these 489 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Content marketing is the process of creating targeted, strategic content for businesses.
 

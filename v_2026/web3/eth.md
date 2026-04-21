@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [eth](https://hackernoon.com/tagged/eth)
-### Let's learn about [Eth](https://hackernoon.com/tagged/eth) via these 87 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Eth](https://hackernoon.com/tagged/eth) via these 87 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-ETH refers to Ethereum, a decentralized open-source blockchain with smart contract functionality, serving as a foundational platform for cryptocurrencies and decentralized applications. It is crucial for the development of Web3, enabling new forms of digital interaction and ownership.
+ETH, short for Ether, is the native cryptocurrency of the Ethereum blockchain, serving as "gas" to power transactions and smart contract execution. Ethereum's robust ecosystem, fueled by ETH, enables decentralized applications (dApps) and the broader Web3 movement.
 
 ### [1. Ethereum Gas Fees for Dummies](https://hackernoon.com/ethereum-gas-fees-for-dummies-oj8135nn)
 ![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-ll5l35fh.jpeg)

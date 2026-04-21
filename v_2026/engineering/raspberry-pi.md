@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [raspberry-pi](https://hackernoon.com/tagged/raspberry-pi)
-### Let's learn about [Raspberry Pi](https://hackernoon.com/tagged/raspberry-pi) via these 73 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Raspberry Pi](https://hackernoon.com/tagged/raspberry-pi) via these 73 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 
 Small computer, or emulation powerhouse. You decide.

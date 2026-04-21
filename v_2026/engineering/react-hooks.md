@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [react-hooks](https://hackernoon.com/tagged/react-hooks)
-### Let's learn about [React Hooks](https://hackernoon.com/tagged/react-hooks) via these 55 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [React Hooks](https://hackernoon.com/tagged/react-hooks) via these 55 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-React Hooks are functions that let you
+React Hooks are functions that let you 'hook into' React state and lifecycle features from function components. They simplify state management and side effects, making component logic more reusable and easier to test within React applications.
 
 ### [1. Cleanup Functions in React’s UseEffect Hook — Explained with examples](https://hackernoon.com/cleanup-functions-in-reacts-useeffect-hook-explained)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-owa3u68.jpeg)

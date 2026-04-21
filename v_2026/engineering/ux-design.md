@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ux-design](https://hackernoon.com/tagged/ux-design)
-### Let's learn about [Ux Design](https://hackernoon.com/tagged/ux-design) via these 335 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ux Design](https://hackernoon.com/tagged/ux-design) via these 335 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The consumer is always right, or are they? HackerNoon's UX design stories spotlight an industry that always puts the consumer at its center.
 

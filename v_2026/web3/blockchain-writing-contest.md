@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blockchain-writing-contest](https://hackernoon.com/tagged/blockchain-writing-contest)
-### Let's learn about [Blockchain Writing Contest](https://hackernoon.com/tagged/blockchain-writing-contest) via these 250 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Blockchain Writing Contest](https://hackernoon.com/tagged/blockchain-writing-contest) via these 250 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The #blockchain writing contest is bought to you by Tatum and HackerNoon!
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [kotlin](https://hackernoon.com/tagged/kotlin)
-### Let's learn about [Kotlin](https://hackernoon.com/tagged/kotlin) via these 171 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Kotlin](https://hackernoon.com/tagged/kotlin) via these 171 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "Kotlin is a modern, cross-platform, multi-purpose programming language." - Kotlin official press kit
 

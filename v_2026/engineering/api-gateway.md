@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [api-gateway](https://hackernoon.com/tagged/api-gateway)
-### Let's learn about [Api Gateway](https://hackernoon.com/tagged/api-gateway) via these 76 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Api Gateway](https://hackernoon.com/tagged/api-gateway) via these 76 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-An API Gateway is a server that acts as a single entry point for a set of APIs. It is essential for managing and securing microservices, providing features like authentication, rate limiting, and request routing to streamline API consumption.
+An API Gateway is a server that acts as an entry point for APIs, routing requests to the appropriate microservices. It matters for managing, securing, and optimizing API traffic, providing a unified and efficient interface for external consumers.
 
 ### [1. The Basics Of Designing an API Architecture](https://hackernoon.com/the-basics-of-designing-an-api-architecture)
 ![]()

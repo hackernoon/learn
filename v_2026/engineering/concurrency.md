@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [concurrency](https://hackernoon.com/tagged/concurrency)
-### Let's learn about [Concurrency](https://hackernoon.com/tagged/concurrency) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Concurrency](https://hackernoon.com/tagged/concurrency) via these 62 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Concurrency is the ability of different parts of a program or system to be executed out-of-order or in partial order without affecting the final outcome. It is crucial for building efficient, responsive, and high-performance applications, especially in multi-core processor environments.
+The ability of different parts of a program or multiple programs to execute out-of-order or in partial order without affecting the final outcome, crucial for maximizing resource utilization and responsiveness in modern systems.
 
 ### [1. Async/Await in Golang: An Introductory Guide](https://hackernoon.com/asyncawait-in-golang-an-introductory-guide-ol1e34sg)
 ![](https://cdn.hackernoon.com/images/3Ur17PtJhkV5UkAAJFu6z8t0fKg1-eh2032xi.jpeg)

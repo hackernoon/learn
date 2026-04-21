@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [recruiting](https://hackernoon.com/tagged/recruiting)
-### Let's learn about [Recruiting](https://hackernoon.com/tagged/recruiting) via these 164 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Recruiting](https://hackernoon.com/tagged/recruiting) via these 164 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 There is immense value in picking the right staff or partners. HackerNoon's diligently curated stories on recruiting help navigate this potential mine field.
 

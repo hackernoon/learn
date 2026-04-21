@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-structures-and-algorithms](https://hackernoon.com/tagged/data-structures-and-algorithms)
-### Let's learn about [Data Structures And Algorithms](https://hackernoon.com/tagged/data-structures-and-algorithms) via these 55 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Data Structures And Algorithms](https://hackernoon.com/tagged/data-structures-and-algorithms) via these 55 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Data structures are ways of organizing data, while algorithms are step-by-step procedures for solving computational problems. They are fundamental concepts in computer science, essential for efficient problem-solving and developing high-performance software.
+Fundamental concepts in computer science dealing with organizing and processing data efficiently, essential for solving complex computational problems and writing optimized code.
 
 ### [1. Implementing a Singly or Doubly Linked List in Java (A LeetCode Question)](https://hackernoon.com/implementing-a-singly-or-doubly-linked-list-in-java-a-leetcode-question)
 ![](https://cdn.hackernoon.com/images/e2lhyGaGa6ZVTWmBikAWsw2Fj0O2-f5a3n6k.jpeg)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [latest-tech-stories](https://hackernoon.com/tagged/latest-tech-stories)
-### Let's learn about [Latest Tech Stories](https://hackernoon.com/tagged/latest-tech-stories) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Latest Tech Stories](https://hackernoon.com/tagged/latest-tech-stories) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 We publish curious and insightful technologists without pop up ads, paywalls, or a lengthy review process. 
 

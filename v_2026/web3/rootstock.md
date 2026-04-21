@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [rootstock](https://hackernoon.com/tagged/rootstock)
-### Let's learn about [Rootstock](https://hackernoon.com/tagged/rootstock) via these 59 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Rootstock](https://hackernoon.com/tagged/rootstock) via these 59 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Rootstock is a smart contract platform built on the Bitcoin blockchain, enabling decentralized finance (DeFi) and dApps to leverage Bitcoin's security and network effect. It matters by extending Bitcoin's utility beyond just a store of value, fostering innovation in the blockchain space.
+Rootstock is a smart contract platform that allows developers to build decentralized applications secured by the Bitcoin network. It matters by extending Bitcoin's utility beyond just a store of value.
 
 ### [1. Exploring the RIF Token: Bringing Utility to Bitcoin](https://hackernoon.com/exploring-the-rif-token-bringing-utility-to-bitcoin)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-tr0348k.png)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [bitcoin-spotlight](https://hackernoon.com/tagged/bitcoin-spotlight)
-### Let's learn about [Bitcoin Spotlight](https://hackernoon.com/tagged/bitcoin-spotlight) via these 367 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Bitcoin Spotlight](https://hackernoon.com/tagged/bitcoin-spotlight) via these 367 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Taking a closer look a crypto-currency's super star Bitcoin and its effects on the growing crypto market
 

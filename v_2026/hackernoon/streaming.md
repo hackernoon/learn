@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [streaming](https://hackernoon.com/tagged/streaming)
-### Let's learn about [Streaming](https://hackernoon.com/tagged/streaming) via these 145 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Streaming](https://hackernoon.com/tagged/streaming) via these 145 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Streaming is the continuous transmission of audio or video data over a network, allowing instant consumption without full downloads. It has revolutionized media consumption, making content accessible worldwide and driving interactive experiences.
+Streaming is the continuous transmission of audio, video, or data over a network, consumed by the recipient in real-time. It revolutionized media consumption, providing instant access to entertainment, live events, and information, and fostering new forms of content creation and interaction.
 
 ### [1. How to Use DeepAR For AR Effects on Amazon IVS Live Streams ](https://hackernoon.com/how-to-use-deepar-for-ar-effects-on-amazon-ivs-live-streams)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-wbf3uyj.jpeg)

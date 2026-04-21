@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [obyte](https://hackernoon.com/tagged/obyte)
-### Let's learn about [Obyte](https://hackernoon.com/tagged/obyte) via these 283 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Obyte](https://hackernoon.com/tagged/obyte) via these 283 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Obyte is a DAG-based distributed ledger platform that enables fast, feeless, and immutable transactions and smart contracts without a traditional blockchain. It offers an alternative approach to decentralized ledger technology, emphasizing speed and cost-efficiency for various applications.
+Obyte is a distributed ledger platform that uses a Directed Acyclic Graph (DAG) for transaction ordering instead of a traditional blockchain. It matters by offering an alternative, potentially more scalable and fee-less approach to distributed ledger technology.
 
 ### [1. Exploring the Best Decentralized Escrow Platforms: Top 5 Picks](https://hackernoon.com/exploring-the-best-decentralized-escrow-platforms-top-5-picks)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-kea3zqf.jpeg)

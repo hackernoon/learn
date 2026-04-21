@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [product-manager](https://hackernoon.com/tagged/product-manager)
-### Let's learn about [Product Manager](https://hackernoon.com/tagged/product-manager) via these 130 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Product Manager](https://hackernoon.com/tagged/product-manager) via these 130 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A product manager is responsible for guiding the success of a product and leading the cross-functional team that improves it. This role is crucial for aligning business goals with market needs, ensuring products deliver value to both users and the company.
+A product manager is responsible for the strategy, roadmap, and feature definition of a product. This role is crucial for ensuring a product meets market needs and business goals, guiding its lifecycle from conception to launch and iteration.
 
 ### [1. Entry Level Resources for Becoming a Product Manager](https://hackernoon.com/entry-level-resources-for-becoming-a-product-manager-p06j32fl)
 ![](https://cdn.hackernoon.com/drafts/90o3yjq.png)

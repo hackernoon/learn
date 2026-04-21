@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blockchain-top-story](https://hackernoon.com/tagged/blockchain-top-story)
-### Let's learn about [Blockchain Top Story](https://hackernoon.com/tagged/blockchain-top-story) via these 205 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Blockchain Top Story](https://hackernoon.com/tagged/blockchain-top-story) via these 205 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The best of the best of the blockchain stories.
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [remote-work](https://hackernoon.com/tagged/remote-work)
-### Let's learn about [Remote Work](https://hackernoon.com/tagged/remote-work) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Remote Work](https://hackernoon.com/tagged/remote-work) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Welcome to working from home! The place where the hours you work are entirely made up and your pants don't matter.
 

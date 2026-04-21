@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [deep-learning](https://hackernoon.com/tagged/deep-learning)
-### Let's learn about [Deep Learning](https://hackernoon.com/tagged/deep-learning) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Deep Learning](https://hackernoon.com/tagged/deep-learning) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Curious about the deepfakes and self-driving cars? One must have an opinion on the algorithms mimicking the human brain. 
 
@@ -1784,243 +1784,243 @@ Explore the role of Fisher information, KL divergence, and natural gradients in 
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7k83zf5.png)
 Explore the impact of loss functions and data set sizes on neural network performance in diffusion prediction models.
 
-### [442. Disentangled Motion Representation: Encoding Full-Body Avatars into Discrete Latent Spaces](https://hackernoon.com/disentangled-motion-representation-encoding-full-body-avatars-into-discrete-latent-spaces)
-![](https://cdn.hackernoon.com/images/disentangled-abstract-dpupdrqws2mamvn6d3bhpbat.png)
-This article describes the technique for achieving disentangled motion representation by splitting full-body kinematics into upper and lower halves.
-
-### [443. Data Strategy for MaGGIe: Bridging the Gap in Matting Resources](https://hackernoon.com/data-strategy-for-maggie-bridging-the-gap-in-matting-resources)
+### [442. Data Strategy for MaGGIe: Bridging the Gap in Matting Resources](https://hackernoon.com/data-strategy-for-maggie-bridging-the-gap-in-matting-resources)
 ![](https://cdn.hackernoon.com/images/data-flowing-abstract-q6dtpzarpid3gvgglil7ln3q.png)
 To address the lack of public task-specific data, MaGGIe utilizes synthesized training sets from instance-agnostic sources for robust evaluation
 
-### [444. Predictive Process Monitoring Using Graph Neural Networks](https://hackernoon.com/predictive-process-monitoring-using-graph-neural-networks)
+### [443. Predictive Process Monitoring Using Graph Neural Networks](https://hackernoon.com/predictive-process-monitoring-using-graph-neural-networks)
 ![](https://cdn.hackernoon.com/images/a-detailed-architecture-diagram-of-pgt-net-pcoreo0dlfwqg0p4vxcvy4n7.png)
 Using a modular Graph Transformer, PGTNet converts event logs into graphs with rich edge traits and uses regression to forecast process completion times.
 
-### [445. How AI Chooses What Information Matters Most](https://hackernoon.com/how-ai-chooses-what-information-matters-most)
+### [444. How AI Chooses What Information Matters Most](https://hackernoon.com/how-ai-chooses-what-information-matters-most)
 ![](https://cdn.hackernoon.com/images/algorithm-on-a-laptop-screen-x48ok55tcyifmlzndgriorn0.png)
 Selection mechanisms in AI redefine gating, hypernetworks, and data dependence, powering structured state space models (SSMs) like Mamba.
 
-### [446. Enhancing Long-Tailed Segmentation with Gradient Cache and BSGAL](https://hackernoon.com/enhancing-long-tailed-segmentation-with-gradient-cache-and-bsgal)
+### [445. Enhancing Long-Tailed Segmentation with Gradient Cache and BSGAL](https://hackernoon.com/enhancing-long-tailed-segmentation-with-gradient-cache-and-bsgal)
 ![](https://cdn.hackernoon.com/images/a-nine-tailed-fox-animated-kzaad65y5zuaifp9krd9dj6n.png)
 Proposes BSGAL, a Generative Active Learning algorithm that uses gradient cache to filter unlimited synthetic data for long-tailed instance segmentation.
 
-### [447. How AI Detects the Undetectable: Deep Learning for Anomaly Detection in Usage-Based Billing](https://hackernoon.com/how-ai-detects-the-undetectable-deep-learning-for-anomaly-detection-in-usage-based-billing)
+### [446. How AI Detects the Undetectable: Deep Learning for Anomaly Detection in Usage-Based Billing](https://hackernoon.com/how-ai-detects-the-undetectable-deep-learning-for-anomaly-detection-in-usage-based-billing)
 ![](https://cdn.hackernoon.com/images/GU3lTBcIFCUX44yyDzMD2qut3Cn2-8c03b6o.png)
 AI-driven deep learning transforms anomaly detection in usage-based billing, uncovering patterns invisible to traditional systems.
 
-### [448. Deep Lake, a Lakehouse for Deep Learning: Abstract and Intro](https://hackernoon.com/deep-lake-a-lakehouse-for-deep-learning-abstract-and-intro)
+### [447. Deep Lake, a Lakehouse for Deep Learning: Abstract and Intro](https://hackernoon.com/deep-lake-a-lakehouse-for-deep-learning-abstract-and-intro)
 ![](https://cdn.hackernoon.com/images/lake-made-of-numbers-gkfykqnnmwcsfctnxtakp68u.png)
 Researchers introduce Deep Lake, an open-source lakehouse for deep learning, optimizing complex data storage and streaming for deep learning frameworks.
 
-### [449. Multiple Instance Learning: Review of Instance and Embedding Level Approaches](https://hackernoon.com/multiple-instance-learning-review-of-instance-and-embedding-level-approaches)
+### [448. Multiple Instance Learning: Review of Instance and Embedding Level Approaches](https://hackernoon.com/multiple-instance-learning-review-of-instance-and-embedding-level-approaches)
 ![](https://cdn.hackernoon.com/images/a-colorful-skyscraper-sketch-neon-mlbusplxfybpehw9dd3hacjn.png)
 Reviews Multiple Instance Learning, contrasting instance-level and embedding-level approaches, while focusing on neural network pooling methods.
 
-### [450. Creating a Dataset Sucks. Here's What I've Learned to Make it a Little Bit Easier](https://hackernoon.com/creating-a-dataset-sucks-heres-what-ive-learned-to-make-it-a-little-bit-easier-5av3ed1)
+### [449. Creating a Dataset Sucks. Here's What I've Learned to Make it a Little Bit Easier](https://hackernoon.com/creating-a-dataset-sucks-heres-what-ive-learned-to-make-it-a-little-bit-easier-5av3ed1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkQaDBRMy75MUM8K8ggJdfAyHgyH3-pf3t3unc.jpeg?alt=media&token=e49ca8ca-975d-41b9-85de-04d95d834848)
 Multiple models trained on your data perform surprisingly poorly, despite having decent metrics on the validation set. The code seems fine, so you decide to take a closer look at your training data. You check a random sample - the label is wrong. So is the next. Your stomach sinks and you start looking through your data in batches*. Thirty minutes later, you realize that x% of your data is incorrect.
 
-### [451. Overcoming Training Costs in Index Advising: The Need for IA2](https://hackernoon.com/overcoming-training-costs-in-index-advising-the-need-for-ia2)
+### [450. Overcoming Training Costs in Index Advising: The Need for IA2](https://hackernoon.com/overcoming-training-costs-in-index-advising-the-need-for-ia2)
 ![](https://cdn.hackernoon.com/images/a-track-star-jumping-over-a-hurdle-waterpaint-h8rag608ec0o0rtyz4yte7xq.png)
 Current RL-based index selection methods like SWIRL support multi-attribute indexes but face high training costs and complex pruning rules.
 
-### [452. Deep Lake, a Lakehouse for Deep Learning: Machine Learning Use Cases](https://hackernoon.com/deep-lake-a-lakehouse-for-deep-learning-machine-learning-use-cases)
+### [451. Deep Lake, a Lakehouse for Deep Learning: Machine Learning Use Cases](https://hackernoon.com/deep-lake-a-lakehouse-for-deep-learning-machine-learning-use-cases)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-d0831pn.jpeg)
 Researchers introduce Deep Lake, an open-source lakehouse for deep learning, optimizing complex data storage and streaming for deep learning frameworks.
 
-### [453. Experiments and Evaluation: Benchmarking OW‑VISCap Across Open‑World Video Tasks](https://hackernoon.com/experiments-and-evaluation-benchmarking-owviscap-across-openworld-video-tasks)
+### [452. Experiments and Evaluation: Benchmarking OW‑VISCap Across Open‑World Video Tasks](https://hackernoon.com/experiments-and-evaluation-benchmarking-owviscap-across-openworld-video-tasks)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-bt0368o.jpeg)
 This article evaluates OW‑VISCap on open‑ and closed‑world segmentation and dense video object captioning, setting new benchmarks on multiple datasets.
 
-### [454. Deep Learning via Continuous-Time Systems: Neural ODEs and Normalizing Flows Explained](https://hackernoon.com/deep-learning-via-continuous-time-systems-neural-odes-and-normalizing-flows-explained)
+### [453. Deep Learning via Continuous-Time Systems: Neural ODEs and Normalizing Flows Explained](https://hackernoon.com/deep-learning-via-continuous-time-systems-neural-odes-and-normalizing-flows-explained)
 ![](https://cdn.hackernoon.com/images/a-grandfather-clock-falling-into-the-ocean-muhbtorzergiod52gbiw21d3.png)
 Learn how Neural ODEs and Normalizing Flows revolutionize Deep Learning by framing machine learning tasks as continuous-time optimal control problems.
 
-### [455. The AI Industry's Obsession With Transformers Might Finally Be Waning](https://hackernoon.com/the-ai-industrys-obsession-with-transformers-might-finally-be-waning)
+### [454. The AI Industry's Obsession With Transformers Might Finally Be Waning](https://hackernoon.com/the-ai-industrys-obsession-with-transformers-might-finally-be-waning)
 ![](https://cdn.hackernoon.com/images/9UZEuI0lyjelqdRoxPpGQmMF3Tx1-uu03n1i.png)
 Newer versions such as Mamba of State Space Models (SSMs) appear to be winning some favor.
 
-### [456. AI Breakthrough Sharpens Telescope Images-Astronomy’s Next Big Leap](https://hackernoon.com/ai-breakthrough-sharpens-telescope-images-astronomys-next-big-leap)
+### [455. AI Breakthrough Sharpens Telescope Images-Astronomy’s Next Big Leap](https://hackernoon.com/ai-breakthrough-sharpens-telescope-images-astronomys-next-big-leap)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-cz030fw.jpeg)
 Applies efficient Transformers to restore and enhance astronomical images, matching JWST quality and outperforming traditional methods in precision.
 
-### [457. AI and Signal Processing Unite to Diagnose Machine Faults Faster](https://hackernoon.com/ai-and-signal-processing-unite-to-diagnose-machine-faults-faster)
+### [456. AI and Signal Processing Unite to Diagnose Machine Faults Faster](https://hackernoon.com/ai-and-signal-processing-unite-to-diagnose-machine-faults-faster)
 ![](https://cdn.hackernoon.com/images/signal-noise-on-a-laptop-screen-tndrn2ivphr9irhnqix0wwfx.png)
 Discover ClassBD: A novel AI-based framework integrating blind deconvolution with deep learning for accurate bearing fault diagnosis under heavy noise.
 
 
-### [458. A Simple Introduction to Edge AI](https://hackernoon.com/a-simple-introduction-to-edge-ai-yj3v3tw3)
+### [457. A Simple Introduction to Edge AI](https://hackernoon.com/a-simple-introduction-to-edge-ai-yj3v3tw3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-io1l3tbp.jpeg?alt=media&token=c4ee1d05-1de1-482d-bae3-b124fcbd6c0d)
 Edge AI starts with edge computing. Also called edge processing, edge computing is a network technology that positions servers locally near devices. This helps to reduce system processing load and resolve data transmission delays. These processes are performed at the location where the sensor or device generates the data, also called the edge.
 
-### [459. Learn About Google DeepMind –](https://hackernoon.com/learn-about-google-deepmind-mi143up7)
+### [458. Learn About Google DeepMind –](https://hackernoon.com/learn-about-google-deepmind-mi143up7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGL2u4Ho48vbrAlD9O5BAaueWDzy2-04i3unt.jpeg?alt=media&token=7d2d21dc-a52c-4da3-b16b-0f27497a75e0)
 DeepMind may allude to two things: the innovation behind Google’s man-made reasoning (AI) venture, and the organization that is liable for it. The organization DeepMind is an auxiliary of Alphabet, the parent organization of Google.
 
-### [460. The Kuramoto Model: Synchronization and Dynamics of Coupled Oscillators](https://hackernoon.com/the-kuramoto-model-synchronization-and-dynamics-of-coupled-oscillators)
+### [459. The Kuramoto Model: Synchronization and Dynamics of Coupled Oscillators](https://hackernoon.com/the-kuramoto-model-synchronization-and-dynamics-of-coupled-oscillators)
 ![](https://cdn.hackernoon.com/images/perfect-symmetric-synchronization-abstract-yo09gqrjc3oabwonmurkcymn.png)
 Explore the Kuramoto model, the 1975 paradigm for synchronization phenomena in ensembles of coupled phase oscillators and their ODE dynamics.
 
-### [461. Optimizing Video Matting: Curriculum Learning and Motion Blur Augmentation](https://hackernoon.com/optimizing-video-matting-curriculum-learning-and-motion-blur-augmentation)
+### [460. Optimizing Video Matting: Curriculum Learning and Motion Blur Augmentation](https://hackernoon.com/optimizing-video-matting-curriculum-learning-and-motion-blur-augmentation)
 ![](https://cdn.hackernoon.com/images/speed-of-light-abstract-riddzbrd6tonfh4wxm1nkbq1.png)
 MaGGIe achieves feature temporal consistency in videos using bidirectional Conv-GRU. It utilizes A100 GPUs and AdamW optimization for robust results.
 
-### [462. Mamba’s Performance in DNA, Audio, and Speed Benchmarks](https://hackernoon.com/mambas-performance-in-dna-audio-and-speed-benchmarks)
+### [461. Mamba’s Performance in DNA, Audio, and Speed Benchmarks](https://hackernoon.com/mambas-performance-in-dna-audio-and-speed-benchmarks)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-y6033l7.png)
 Mamba, a selective SSM model, outperforms HyenaDNA in long-sequence DNA modeling, excels in speech generation benchmarks, and delivers superior efficiency 
 
-### [463. LinkedIn Feed Evolution: More Granular and Powerful Machine Learning, Humans Still in the Loop](https://hackernoon.com/linkedin-feed-evolution-more-granular-and-powerful-machine-learning-humans-still-in-the-loop)
+### [462. LinkedIn Feed Evolution: More Granular and Powerful Machine Learning, Humans Still in the Loop](https://hackernoon.com/linkedin-feed-evolution-more-granular-and-powerful-machine-learning-humans-still-in-the-loop)
 ![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-ng92ywk.jpeg)
 LinkedIn is a case study in terms of how its newsfeed has evolved over the years. Recently, a major update was rolled out; here's how it works
 
-### [464. The Inevitable Symbiosis of Cybersecurity and AI](https://hackernoon.com/the-inevitable-symbiosis-of-cybersecurity-and-ai-sn3w314h)
+### [463. The Inevitable Symbiosis of Cybersecurity and AI](https://hackernoon.com/the-inevitable-symbiosis-of-cybersecurity-and-ai-sn3w314h)
 ![](https://cdn.hackernoon.com/images/iNch3995k4UfRvBEl2KxrXjqJ2g2-3q743web.jpeg)
 While improvements in AI and Deep Learning move forward at an ever increasingly rapid rate, people have started to ask questions. Questions about jobs being made obsolete, questions about the inherent biases programmed into the neural networks, questions about whether or not AI will eventually consider humans as dead-weight and unnecessary to achieve the goals they've been tasked programmed with.
 
-### [465. 278 Stories To Learn About Machine Learning](https://hackernoon.com/278-stories-to-learn-about-machine-learning)
+### [464. 278 Stories To Learn About Machine Learning](https://hackernoon.com/278-stories-to-learn-about-machine-learning)
 ![](https://cdn.hackernoon.com/images/github/machine-learning-890.png)
 Learn everything you need to know about Machine Learning via these 278 free HackerNoon stories.
 
-### [466. ControlNet: Changing The Image Generation Game with Precise Spatial Control](https://hackernoon.com/controlnet-changing-the-image-generation-game-with-precise-spatial-control)
+### [465. ControlNet: Changing The Image Generation Game with Precise Spatial Control](https://hackernoon.com/controlnet-changing-the-image-generation-game-with-precise-spatial-control)
 ![](https://cdn.hackernoon.com/images/OjTeRhc0SEbypqZ4jlXRwi5DzWJ2-we82xdt.jpeg)
 Models like GPT-4V would not have been possible without the idea of ControlNet
 
-### [467. Consensus Algorithms on Manifolds: Stiefel, Siegel, and Kuramoto Dynamics](https://hackernoon.com/consensus-algorithms-on-manifolds-stiefel-siegel-and-kuramoto-dynamics)
+### [466. Consensus Algorithms on Manifolds: Stiefel, Siegel, and Kuramoto Dynamics](https://hackernoon.com/consensus-algorithms-on-manifolds-stiefel-siegel-and-kuramoto-dynamics)
 ![](https://cdn.hackernoon.com/images/algorithms-abstract-ythj8sroxfompg5t8rkr5v2r.png)
 Explore consensus algorithms on Stiefel manifolds and Siegel domains. Learn how Kuramoto models act as continuous-time algorithms to minimize disagreement.
 
-### [468. Mamba: A Generalized Sequence Model Backbone for AI](https://hackernoon.com/mamba-a-generalized-sequence-model-backbone-for-ai)
+### [467. Mamba: A Generalized Sequence Model Backbone for AI](https://hackernoon.com/mamba-a-generalized-sequence-model-backbone-for-ai)
 ![](https://cdn.hackernoon.com/images/algorithm-on-a-laptop-screen-um23w32vebnwuewza3n0nt5v.png)
 Mamba introduces a selection mechanism to structured state space models (SSMs), achieving state-of-the-art results in genomics, audio, and sequence modeling.
 
-### [469. Assessing the Justification for Integrating Deep Learning in Combinatorial Optimization](https://hackernoon.com/assessing-the-justification-for-integrating-deep-learning-in-combinatorial-optimization)
+### [468. Assessing the Justification for Integrating Deep Learning in Combinatorial Optimization](https://hackernoon.com/assessing-the-justification-for-integrating-deep-learning-in-combinatorial-optimization)
 ![](https://cdn.hackernoon.com/images/neural-networks-f57wexkhv55gk8xa7pytdgvd.png)
 Explore the intersection of combinatorial optimization and machine learning through a comprehensive evaluation of integrated heuristics.
 
-### [470. Deep Geometrized Cartoon Line Inbetweening: Conclusion and References](https://hackernoon.com/deep-geometrized-cartoon-line-inbetweening-conclusion-and-references)
+### [469. Deep Geometrized Cartoon Line Inbetweening: Conclusion and References](https://hackernoon.com/deep-geometrized-cartoon-line-inbetweening-conclusion-and-references)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-gj82p9q.png)
 AnimeInbet: A novel approach for inbetweening line drawings using geometric graphs, enhancing detail preservation with the MixamoLine240 dataset.
 
-### [471. Synthesizing Images of Marine Plastic Using Deep Convolutional Generative Adversarial Networks](https://hackernoon.com/synthesizing-images-of-marine-plastic-using-deep-convolutional-generative-adversarial-networks)
+### [470. Synthesizing Images of Marine Plastic Using Deep Convolutional Generative Adversarial Networks](https://hackernoon.com/synthesizing-images-of-marine-plastic-using-deep-convolutional-generative-adversarial-networks)
 ![](https://cdn.hackernoon.com/images/1HXA1i7N41OPVjZWsNnp1Bdi72p2-lt038vu.png)
 A generative approach towards synthesizing images of marine plastic using DCGANs
 
-### [472. Will Deepfakes Be Part of Our Lives?](https://hackernoon.com/will-deepfakes-be-part-of-our-lives-7d2j3ubf)
+### [471. Will Deepfakes Be Part of Our Lives?](https://hackernoon.com/will-deepfakes-be-part-of-our-lives-7d2j3ubf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-j7d28f0.jpeg?alt=media&token=c2d08fed-51df-4095-9334-7b2cd9aaf764)
 I was receiving a particular forwarded meme of a famous Hollywood actor over WhatsApp from so many of my contacts since last a few days. This one might have gone viral. It superimposes the actor’s face on the body of Superhero Hulk and makes him do some nasty stuffs. Oh! Quite ridiculous but people are liking it. The video was made with extreme perfection and the finishing touch was superb. I came to know later on that it was made by an internet user only. 
 
-### [473. Quantitative Evaluation of O3D-SIM: Success Rate on Matterport3D VLN Tasks](https://hackernoon.com/quantitative-evaluation-of-o3d-sim-success-rate-on-matterport3d-vln-tasks)
+### [472. Quantitative Evaluation of O3D-SIM: Success Rate on Matterport3D VLN Tasks](https://hackernoon.com/quantitative-evaluation-of-o3d-sim-success-rate-on-matterport3d-vln-tasks)
 ![](https://cdn.hackernoon.com/images/green-success-business-charts-h0z9ds6ajaitbj550tgjwk7i.png)
 Quantitatively evaluates O3D-SIM using the Matterport3D dataset and Success Rate metric in the Habitat simulator
 
-### [474. MIVPG on E-commerce: Multi-Image/Multi-Patch Aggregation for Captioning](https://hackernoon.com/mivpg-on-e-commerce-multi-imagemulti-patch-aggregation-for-captioning)
+### [473. MIVPG on E-commerce: Multi-Image/Multi-Patch Aggregation for Captioning](https://hackernoon.com/mivpg-on-e-commerce-multi-imagemulti-patch-aggregation-for-captioning)
 ![](https://cdn.hackernoon.com/images/digitized-quilt-blanket-qzo1z82ag587ypn55kehp4fp.png)
 MIVPG uses hierarchical MIL to outperform patch concatenation and single-image baselines, proving CSA is key for correlation.
 
-### [475. Evolution of Index Selection: From Traditional Greedy Approaches to IA2](https://hackernoon.com/evolution-of-index-selection-from-traditional-greedy-approaches-to-ia2)
+### [474. Evolution of Index Selection: From Traditional Greedy Approaches to IA2](https://hackernoon.com/evolution-of-index-selection-from-traditional-greedy-approaches-to-ia2)
 ![](https://cdn.hackernoon.com/images/the-evolution-of-the-computer-sketch-wxtlqj592agj2rd527iez8l0.png)
 Traditional index selection methods, from greedy approaches to the Extend algorithm, struggle with index interdependencies and large candidate spaces.
 
-### [476. MaGGIe Architecture: Efficient Mask-Guided Instance Matting](https://hackernoon.com/maggie-architecture-efficient-mask-guided-instance-matting)
+### [475. MaGGIe Architecture: Efficient Mask-Guided Instance Matting](https://hackernoon.com/maggie-architecture-efficient-mask-guided-instance-matting)
 ![](https://cdn.hackernoon.com/images/house-of-card-architecture-flayw0pqu0q4bbc0o8semho9.png)
 MaGGIe introduces an efficient framework using Cross-Attention, Self-Attention, and Sparse Convolutions for mask-guided instance matting, ensuring high accuracy
 
-### [477. TryOnDiffusion: A Tale of Two UNets: Experiments](https://hackernoon.com/tryondiffusion-a-tale-of-two-unets-experiments)
+### [476. TryOnDiffusion: A Tale of Two UNets: Experiments](https://hackernoon.com/tryondiffusion-a-tale-of-two-unets-experiments)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bp0345y.png)
 Explore a comprehensive evaluation of TryOnDiffusion through extensive experiments, comparing it to other methods. 
 
-### [478. Introducing ML News](https://hackernoon.com/introducing-ml-news-04l3e00)
+### [477. Introducing ML News](https://hackernoon.com/introducing-ml-news-04l3e00)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsLmWCS92IHb5Gtn6E4OzAUA9Bxo1-nja3tz3.jpeg?alt=media&token=0127ff21-e6c3-4f94-97aa-d6d15dead2f6)
 I know.
 
-### [479. Tell If Your SMS is Spam](https://hackernoon.com/tell-if-your-sms-is-spam-tx2c3yc9)
+### [478. Tell If Your SMS is Spam](https://hackernoon.com/tell-if-your-sms-is-spam-tx2c3yc9)
 ![](https://cdn.hackernoon.com/images/yvey3ya4.jpg)
 Introduction
 
-### [480. Hardware-aware Algorithm For Selective SSMs](https://hackernoon.com/hardware-aware-algorithm-for-selective-ssms)
+### [479. Hardware-aware Algorithm For Selective SSMs](https://hackernoon.com/hardware-aware-algorithm-for-selective-ssms)
 ![](https://cdn.hackernoon.com/images/algorithm-on-a-laptop-screen-maxl7j1whhiqfbgd76l8qlmp.png)
 Linear Attention and long-context models are reshaping AI's handling of sequence data. 
 
-### [481. Hawk and Griffin: Efficient RNN Models Redefining AI Performance](https://hackernoon.com/hawk-and-griffin-efficient-rnn-models-redefining-ai-performance)
+### [480. Hawk and Griffin: Efficient RNN Models Redefining AI Performance](https://hackernoon.com/hawk-and-griffin-efficient-rnn-models-redefining-ai-performance)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-49030id.jpeg)
 This research introduces Hawk and Griffin models, efficient RNN alternatives to Transformers, with reduced latency and strong long-sequence performance.
 
-### [482. Semantic Instance Extraction: CLIP and DINO Features for 3D Mapping](https://hackernoon.com/semantic-instance-extraction-clip-and-dino-features-for-3d-mapping)
+### [481. Semantic Instance Extraction: CLIP and DINO Features for 3D Mapping](https://hackernoon.com/semantic-instance-extraction-clip-and-dino-features-for-3d-mapping)
 ![](https://cdn.hackernoon.com/images/extraction-point-abstract-ud4joqgeuwv8ynns9xilf236.png)
 Details the O3D-SIM pipeline for VLN. It extracts open-set semantic instance information (masks, CLIP/DINO features) from RGB-D images
 
-### [483. Online vs. Offline Active Learning: Performance Comparison Across Iterations](https://hackernoon.com/online-vs-offline-active-learning-performance-comparison-across-iterations)
+### [482. Online vs. Offline Active Learning: Performance Comparison Across Iterations](https://hackernoon.com/online-vs-offline-active-learning-performance-comparison-across-iterations)
 ![](https://cdn.hackernoon.com/images/a-teacher-on-a-green-monitor-screen-retro-futuristic-deu920sfj1ww5yu9t5lzmuw9.png)
 These ablation studies BSGAL's key hyperparameters: momentum coefficient and contribution threshold. It also compares online vs. offline learning performance
 
-### [484. Skimming Articles is Killing My Deep Learning](https://hackernoon.com/skimming-articles-is-killing-my-deep-learning)
+### [483. Skimming Articles is Killing My Deep Learning](https://hackernoon.com/skimming-articles-is-killing-my-deep-learning)
 ![](https://cdn.hackernoon.com/images/HsB4HuAYtQaOibGPVhzXVAKqBq92-v53397f.jpeg)
 Using quick AI-generated summaries is killing my ability to understand complex topics.
 
-### [485. Deep Lake, a Lakehouse for Deep Learning: Discussion and Limitations](https://hackernoon.com/deep-lake-a-lakehouse-for-deep-learning-discussion-and-limitations)
+### [484. Deep Lake, a Lakehouse for Deep Learning: Discussion and Limitations](https://hackernoon.com/deep-lake-a-lakehouse-for-deep-learning-discussion-and-limitations)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-6t83236.jpeg)
 Researchers introduce Deep Lake, an open-source lakehouse for deep learning, optimizing complex data storage and streaming for deep learning frameworks.
 
-### [486. Reinforcement Learning: 'Practice Makes a Machine Perfect'](https://hackernoon.com/reinforcement-learning-practice-makes-a-machine-perfect)
+### [485. Reinforcement Learning: 'Practice Makes a Machine Perfect'](https://hackernoon.com/reinforcement-learning-practice-makes-a-machine-perfect)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-9i136ph.jpeg)
 Reinforcement learning is the fastest growing branches of machine learning. Embark your RL journey by getting a soft introduction to reinforcement learning now.
 
-### [487. Supervised Learning for Swarms on Manifolds: Training Kuramoto Networks and Stochastic Optimization](https://hackernoon.com/supervised-learning-for-swarms-on-manifolds-training-kuramoto-networks-and-stochastic-optimization)
+### [486. Supervised Learning for Swarms on Manifolds: Training Kuramoto Networks and Stochastic Optimization](https://hackernoon.com/supervised-learning-for-swarms-on-manifolds-training-kuramoto-networks-and-stochastic-optimization)
 ![](https://cdn.hackernoon.com/images/birds-circling-around-a-school-watercolor-dz20d5dmhqexxk62vvg2c4is.png)
 Explore Maximum Likelihood, Score Matching, and Evolutionary Optimization (CMA ES) on manifolds.
 
-### [488. Non-Trivial Temporal Patterns in Two-Population Kuramoto Ensembles](https://hackernoon.com/non-trivial-temporal-patterns-in-two-population-kuramoto-ensembles)
+### [487. Non-Trivial Temporal Patterns in Two-Population Kuramoto Ensembles](https://hackernoon.com/non-trivial-temporal-patterns-in-two-population-kuramoto-ensembles)
 ![](https://cdn.hackernoon.com/images/colorful-patterns-in-the-sky-abstract-c3r1ps2is5asj4uiup6m24fi.png)
 Learn about global coupling dynamics, inter-ensemble interactions, and the complex synchronization of phase oscillators.
 
-### [489. MaGGIe: Achieving Temporal Consistency in Video Instance Matting](https://hackernoon.com/maggie-achieving-temporal-consistency-in-video-instance-matting)
+### [488. MaGGIe: Achieving Temporal Consistency in Video Instance Matting](https://hackernoon.com/maggie-achieving-temporal-consistency-in-video-instance-matting)
 ![](https://cdn.hackernoon.com/images/a-retro-photograph-of-the-sky-vintage-qk8m44xar0xjfi7unjjflin2.png)
 MaGGIe is an efficient framework for multi-instance human matting using sparse convolution and transformer attention to ensure temporal consistency in videos.
 
-### [490. DIY Fake News Detector: Unmask misinformation with Recurrent Neural Networks](https://hackernoon.com/diy-fake-news-detector-unmask-misinformation-with-recurrent-neural-networks)
+### [489. DIY Fake News Detector: Unmask misinformation with Recurrent Neural Networks](https://hackernoon.com/diy-fake-news-detector-unmask-misinformation-with-recurrent-neural-networks)
 ![](https://cdn.hackernoon.com/images/WFZ8CuQDbrQL9MxiEq25Wcqg6qv1-o7a341l.jpeg)
 Explore the power of RNNs in fake news detection, from data preprocessing to model evaluation, showcasing their potential to combat misinformation.
 
-### [491. Simplifying Transformer Models for Faster Training and Better Performance](https://hackernoon.com/simplifying-transformer-models-for-faster-training-and-better-performance)
+### [490. Simplifying Transformer Models for Faster Training and Better Performance](https://hackernoon.com/simplifying-transformer-models-for-faster-training-and-better-performance)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bf93yy6.png)
 Simplifying transformer models by removing unnecessary components boosts training speed and reduces parameters, enhancing performance and efficiency.
 
 
-### [492. MaGGIe's Coarse Alpha Matte Prediction: Temporal Feature Aggregation](https://hackernoon.com/maggies-coarse-alpha-matte-prediction-temporal-feature-aggregation)
+### [491. MaGGIe's Coarse Alpha Matte Prediction: Temporal Feature Aggregation](https://hackernoon.com/maggies-coarse-alpha-matte-prediction-temporal-feature-aggregation)
 ![](https://cdn.hackernoon.com/images/alpha-wolf-majestic-xftybdofmbx7wvjgfyj7ww2n.png)
 MaGGIe ensures temporal consistency in video matting using bidirectional Conv-GRU to fuse feature maps and predict coarse alpha mattes
 
-### [493. The Future of Rail Sustainability: Nampalli’s Deep Learning Approach to Energy Efficiency](https://hackernoon.com/the-future-of-rail-sustainability-nampallis-deep-learning-approach-to-energy-efficiency)
+### [492. The Future of Rail Sustainability: Nampalli’s Deep Learning Approach to Energy Efficiency](https://hackernoon.com/the-future-of-rail-sustainability-nampallis-deep-learning-approach-to-energy-efficiency)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9u03b3q.png)
 Rama Chandra Rao Nampalli uses AI and deep learning to optimize rail electrification, reduce energy use, and advance sustainable railway systems.
 
-### [494. How to Get Started With AI in 2021 and Keep Up with Latest Innovations in ML](https://hackernoon.com/how-to-get-started-with-ai-in-2021-and-keep-up-with-latest-innovations-in-ml-id2133k2)
+### [493. How to Get Started With AI in 2021 and Keep Up with Latest Innovations in ML](https://hackernoon.com/how-to-get-started-with-ai-in-2021-and-keep-up-with-latest-innovations-in-ml-id2133k2)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-7x1m33lv.jpeg)
 How to start machine learning & Ways to keep up with the latest developments in Machine Learning.
 
-### [495. Cutting-Edge Techniques That Speed Up AI Without Extra Costs](https://hackernoon.com/cutting-edge-techniques-that-speed-up-ai-without-extra-costs)
+### [494. Cutting-Edge Techniques That Speed Up AI Without Extra Costs](https://hackernoon.com/cutting-edge-techniques-that-speed-up-ai-without-extra-costs)
 ![](https://cdn.hackernoon.com/images/ai-algorithm-on-a-laptop-screen-kjlw8iugw7iekxvgx9o56f1y.png)
 Learn how new techniques make AI models faster, smarter, and more efficient by reducing memory use and speeding up training.
 
-### [496. Building Machine Learning Models With TensorFlow](https://hackernoon.com/building-machine-learning-models-with-tensorflow-xr3c35fe)
+### [495. Building Machine Learning Models With TensorFlow](https://hackernoon.com/building-machine-learning-models-with-tensorflow-xr3c35fe)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-yl212954.jpeg)
 In this article, I will share with you some useful tips and guidelines that you can use to better build better deep learning models.
 
-### [497. Beyond Adversarial Training: A Robust Counterpart Approach to HSVM](https://hackernoon.com/beyond-adversarial-training-a-robust-counterpart-approach-to-hsvm)
+### [496. Beyond Adversarial Training: A Robust Counterpart Approach to HSVM](https://hackernoon.com/beyond-adversarial-training-a-robust-counterpart-approach-to-hsvm)
 ![](https://cdn.hackernoon.com/images/a-large-student-hall-with-students-studying-sketch-color-yfkzqvcgt2agnowsbwg1gieu.png)
 The Robust HSVM manages data uncertainty structures using robust counterpart formulations and SDP relaxation for stable non-convex optimization.
 
-### [498. Mathematics of Differential Machine Learning in Derivative Pricing and Hedging: Choice of Basis](https://hackernoon.com/mathematics-of-differential-machine-learning-in-derivative-pricing-and-hedging-choice-of-basis)
+### [497. Mathematics of Differential Machine Learning in Derivative Pricing and Hedging: Choice of Basis](https://hackernoon.com/mathematics-of-differential-machine-learning-in-derivative-pricing-and-hedging-choice-of-basis)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-2w0361n.jpeg)
 Drawing from Barron, Hornik, and Telgarsky, it proves neural networks yield superior efficiency in higher‑dimensional pricing tasks.
 
 
 
-### [499. Multi-Token Prediction: Mastering Algorithmic Reasoning with Enhanced Resource Use](https://hackernoon.com/multi-token-prediction-mastering-algorithmic-reasoning-with-enhanced-resource-use)
+### [498. Multi-Token Prediction: Mastering Algorithmic Reasoning with Enhanced Resource Use](https://hackernoon.com/multi-token-prediction-mastering-algorithmic-reasoning-with-enhanced-resource-use)
 ![](https://cdn.hackernoon.com/images/tech-and-data-abstract-z1hzidahrc6i5t80xxrbxnph.png)
 Discover how multi-token prediction improves LLM algorithmic reasoning, potentially by learning to allocate computational resources more efficiently
 
-### [500. The Machine Learning Stack Is Being Rebuilt From Scratch Here's What Developers Need to Know in 2026](https://hackernoon.com/the-machine-learning-stack-is-being-rebuilt-from-scratch-heres-what-developers-need-to-know-in-2026)
+### [499. The Machine Learning Stack Is Being Rebuilt From Scratch Here's What Developers Need to Know in 2026](https://hackernoon.com/the-machine-learning-stack-is-being-rebuilt-from-scratch-heres-what-developers-need-to-know-in-2026)
 ![](https://cdn.hackernoon.com/images/WRKXsk2LTlf1y3hllka3QO7Bfvy2-ms83ept.jpeg)
 From foundation models to agentic pipelines - 6 machine learning trends developers must understand to build reliable AI systems in 2026. 
+
+### [500. Overcoming Locality in Auto-Regressive Transformers](https://hackernoon.com/overcoming-locality-in-auto-regressive-transformers)
+![](https://cdn.hackernoon.com/images/a-technical-diagram-showing-the-inductive-scratchpad-attention-masking-mechanism-the-sequence-is-structured-as-q-start-s-1-by9kkfe0eobuf8s3d3h28usj.png)
+Using specific focus masks, researchers created inductive scratchpads that let Transformers acquire recursive reasoning, allowing for length generalizations.
 

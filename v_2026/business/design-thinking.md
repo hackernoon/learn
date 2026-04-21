@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [design-thinking](https://hackernoon.com/tagged/design-thinking)
-### Let's learn about [Design Thinking](https://hackernoon.com/tagged/design-thinking) via these 82 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Design Thinking](https://hackernoon.com/tagged/design-thinking) via these 82 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Design thinking is a human-centered approach to innovation that integrates the needs of people, the possibilities of technology, and the requirements for business success. It fosters creative problem-solving and ensures solutions are desirable, feasible, and viable.
+Design thinking is a human-centered approach to innovation that involves empathizing with users, defining problems, ideating solutions, prototyping, and testing. It fosters creative problem-solving and helps develop solutions that are desirable, feasible, and viable for users.
 
 ### [1. Top 10 Principles of Good Web Design](https://hackernoon.com/top-10-principles-of-good-web-design)
 ![](https://cdn.hackernoon.com/images/eXbjnJiJe2aOQkBtxJGZZ8FlvYW2-n693o3t.jpeg)

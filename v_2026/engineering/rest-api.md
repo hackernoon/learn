@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [rest-api](https://hackernoon.com/tagged/rest-api)
-### Let's learn about [Rest Api](https://hackernoon.com/tagged/rest-api) via these 259 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Rest Api](https://hackernoon.com/tagged/rest-api) via these 259 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-REST API (Representational State Transfer Application Programming Interface) is a set of architectural constraints for building scalable, efficient, and stateless web services. It's fundamental for enabling communication between different software systems and applications on the web.
+REST API (Representational State Transfer Application Programming Interface) is a set of architectural constraints for building web services. REST APIs are fundamental for enabling communication between different software systems over the internet, driving the functionality of modern web and mobile applications.
 
 ### [1. API testing with Jest](https://hackernoon.com/api-testing-with-jest-d1ab74005c0a)
 ![](https://cdn.hackernoon.com/images/djp30zm.jpg)

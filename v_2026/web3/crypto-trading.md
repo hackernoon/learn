@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [crypto-trading](https://hackernoon.com/tagged/crypto-trading)
-### Let's learn about [Crypto Trading](https://hackernoon.com/tagged/crypto-trading) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Crypto Trading](https://hackernoon.com/tagged/crypto-trading) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Everything about trading sats, alts, and shitcoins. The crypto trading tag is sponsored by BYDFi. Write a crypto trading story and qualify to win $1000!
 

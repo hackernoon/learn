@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [economics](https://hackernoon.com/tagged/economics)
-### Let's learn about [Economics](https://hackernoon.com/tagged/economics) via these 282 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Economics](https://hackernoon.com/tagged/economics) via these 282 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Oh, so you’re ready to dive deeper into how topics like tech, crypto, and DeFi affect the economics around us? We like your determination. Go for it.
 

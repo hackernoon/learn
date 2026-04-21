@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [transformers](https://hackernoon.com/tagged/transformers)
-### Let's learn about [Transformers](https://hackernoon.com/tagged/transformers) via these 61 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Transformers](https://hackernoon.com/tagged/transformers) via these 61 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Transformers are a neural network architecture particularly effective for natural language processing tasks, revolutionizing AI models like ChatGPT and significantly advancing machine translation and text generation. They are crucial for developing highly capable and context-aware AI systems.
+In AI, transformers are a novel neural network architecture primarily used for processing sequential data, particularly prominent in natural language processing (NLP). They have revolutionized AI models like BERT and GPT, enabling unprecedented advancements in understanding and generating human language.
 
 ### [1. Decoding Transformers' Superiority over RNNs in NLP Tasks](https://hackernoon.com/decoding-transformers-superiority-over-rnns-in-nlp-tasks)
 ![](https://cdn.hackernoon.com/images/natural-language-processing-transformers-mauaimd796wfkoa8oslub7d9.png)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tailwindcss](https://hackernoon.com/tagged/tailwindcss)
-### Let's learn about [Tailwindcss](https://hackernoon.com/tagged/tailwindcss) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Tailwindcss](https://hackernoon.com/tagged/tailwindcss) via these 50 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs directly in your markup, accelerating UI development without writing custom CSS. It matters by boosting development speed and consistency, allowing developers to quickly create unique and responsive user interfaces.
+Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It matters because it accelerates front-end development by providing low-level utility classes directly in HTML, reducing context switching and promoting consistency.
 
 ### [1. How to Centre an Element in CSS with Tailwind](https://hackernoon.com/how-to-centre-an-element-in-css-with-tailwind)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9n93pxk.jpeg)

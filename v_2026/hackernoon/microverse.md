@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [microverse](https://hackernoon.com/tagged/microverse)
-### Let's learn about [Microverse](https://hackernoon.com/tagged/microverse) via these 81 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Microverse](https://hackernoon.com/tagged/microverse) via these 81 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Microverse is a global online school that trains aspiring software developers through a unique peer-to-peer learning model, providing accessible education and career opportunities in tech. It is crucial for bridging the skills gap and empowering individuals from diverse backgrounds to enter the tech industry.
+Microverse is an online coding school that offers a tuition-free, remote learning program where students learn software development through pair programming. It aims to make world-class education accessible globally, equipping individuals with in-demand tech skills without upfront costs.
 
 ### [1. The Best CSS Unit For a Responsive Design](https://hackernoon.com/the-best-css-unit-for-a-responsive-design-ku6q37to)
 ![](https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

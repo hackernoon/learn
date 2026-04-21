@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web3](https://hackernoon.com/tagged/web3)
-### Let's learn about [Web3](https://hackernoon.com/tagged/web3) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Web3](https://hackernoon.com/tagged/web3) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Web3 is is a reimagination of the sorts of things that we already use the Web for, but with a fundamentally different model for the interactions between parties. 
 

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [website](https://hackernoon.com/tagged/website)
-### Let's learn about [Website](https://hackernoon.com/tagged/website) via these 115 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Website](https://hackernoon.com/tagged/website) via these 115 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A website is a collection of related web pages, including multimedia content, identified with a common domain name and published on at least one web server. Websites serve as fundamental digital presences for businesses, organizations, and individuals, enabling global communication and information sharing.
+A website is a collection of related web pages and other digital assets hosted on a web server and accessible via the internet. It matters as a primary digital presence for individuals, businesses, and organizations to communicate information and engage with audiences.
 
 ### [1. How I Create Websites: The Process of Web Development](https://hackernoon.com/how-i-create-websites-the-process-of-web-development-1s993y3t)
 ![](https://cdn.hackernoon.com/images/j3rj3y6t.jpg)

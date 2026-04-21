@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [humanity](https://hackernoon.com/tagged/humanity)
-### Let's learn about [Humanity](https://hackernoon.com/tagged/humanity) via these 153 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Humanity](https://hackernoon.com/tagged/humanity) via these 153 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Humanity refers to the human race and its collective characteristics, including culture, society, and values. Understanding humanity's relationship with technology is vital for ethical development and ensuring that technological advancements serve societal good and improve quality of life.
+Humanity encompasses the human race, human nature, and qualities like compassion and benevolence. In a tech context, it often refers to the ethical and societal implications of technological advancements on people and society, urging responsible innovation.
 
 ### [1. The Objective Need for Decentralization: Reality Consensus](https://hackernoon.com/the-objective-need-for-decentralization-reality-consensus)
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-kza3ro7.jpeg)

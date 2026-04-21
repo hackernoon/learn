@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [terraform](https://hackernoon.com/tagged/terraform)
-### Let's learn about [Terraform](https://hackernoon.com/tagged/terraform) via these 99 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Terraform](https://hackernoon.com/tagged/terraform) via these 99 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Terraform is an Infrastructure as Code (IaC) tool that allows users to define and provision datacenter infrastructure using a declarative configuration language. It enables consistent and automated environment deployments, significantly streamlining cloud and on-premises resource management.
+Terraform is an Infrastructure as Code (IaC) tool used for provisioning and managing cloud resources. It enables consistent and automated deployments across various cloud providers by defining infrastructure in human-readable configuration files.
 
 ### [1. Introduction to AWS With Terraform](https://hackernoon.com/introduction-to-aws-with-terraform-7a8daf261dc0)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-zo03b0z.png)

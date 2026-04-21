@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tensorflow](https://hackernoon.com/tagged/tensorflow)
-### Let's learn about [Tensorflow](https://hackernoon.com/tagged/tensorflow) via these 93 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Tensorflow](https://hackernoon.com/tagged/tensorflow) via these 93 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-TensorFlow is an open-source machine learning framework that simplifies the development and deployment of AI models across various platforms, making advanced analytics accessible for applications from research to production. It matters by democratizing AI, enabling developers to build sophisticated intelligent systems with robust tooling.
+TensorFlow is an open-source machine learning framework that enables developers to build and deploy sophisticated AI models across various platforms. It matters because it provides the tools and flexibility for advanced deep learning research and production-scale applications.
 
 ### [1. Deep Learning CNN’s in Tensorflow with GPUs](https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2)
 ![](https://hackernoon.com/hn-images/1*4-9rcFvShvsA4mhCpRHaSg.jpeg)

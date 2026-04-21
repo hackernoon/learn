@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [aws-lambda](https://hackernoon.com/tagged/aws-lambda)
-### Let's learn about [Aws Lambda](https://hackernoon.com/tagged/aws-lambda) via these 218 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Aws Lambda](https://hackernoon.com/tagged/aws-lambda) via these 218 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Serverless computing.
 

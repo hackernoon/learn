@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [solidity](https://hackernoon.com/tagged/solidity)
-### Let's learn about [Solidity](https://hackernoon.com/tagged/solidity) via these 215 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Solidity](https://hackernoon.com/tagged/solidity) via these 216 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Solidity is an object-oriented, high-level programming language used for implementing smart contracts on blockchain platforms like Ethereum. It's crucial for developing decentralized applications and driving innovation in the Web3 space.
+Solidity is an object-oriented, high-level language for implementing smart contracts, primarily on the Ethereum blockchain. Solidity is essential for developing decentralized applications (dApps) and managing digital assets on blockchain platforms, forming the backbone of Web3.
 
 ### [1. How to Implement a Merkle Tree in Solidity](https://hackernoon.com/how-to-implement-a-merkle-tree-in-solidity)
 ![](https://cdn.hackernoon.com/images/lokbjQEefQRUe8qF8EHzsPop2hP2-qd93wko.jpeg)
@@ -870,4 +870,8 @@ Get an overview of how the Ethereum Community is trying to get more secure and u
 ### [215. How to Master Custom Errors in Solidity: Beyond Default Messages](https://hackernoon.com/how-to-master-custom-errors-in-solidity-beyond-default-messages)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-p29353d.jpeg)
 Beyond Default Messages: Mastering Custom Errors in Solidity
+
+### [216. Best Practices in Prompt Engineering for AI Agents in Solidity Smart Contract Auditing](https://hackernoon.com/best-practices-in-prompt-engineering-for-ai-agents-in-solidity-smart-contract-auditing)
+![](https://cdn.hackernoon.com/images/txUmpVK9x1douYVN85XfpdQ9Fku1-gc83ipc.png)
+Learn how to use AI for smart contract audits the right way. Avoid costly mistakes with structured prompts, verification steps, and real exploit validation.
 

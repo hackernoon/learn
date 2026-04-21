@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [amazon-web-services](https://hackernoon.com/tagged/amazon-web-services)
-### Let's learn about [Amazon Web Services](https://hackernoon.com/tagged/amazon-web-services) via these 117 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Amazon Web Services](https://hackernoon.com/tagged/amazon-web-services) via these 117 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Amazon Web Services (AWS) is a comprehensive suite of cloud computing services offered by Amazon, providing on-demand computing power, storage, and databases. AWS is a foundational platform for countless businesses, enabling flexible, scalable, and cost-effective IT infrastructure globally.
+Amazon Web Services (AWS) is a comprehensive suite of on-demand cloud computing platforms and APIs. It matters by providing scalable, flexible, and cost-effective infrastructure solutions for businesses of all sizes, underpinning much of the modern internet.
 
 ### [1. AWS/Azure/Google Certifications are More Important than Linux Certs](https://hackernoon.com/awsazuregoogle-certifications-are-more-important-than-linux-certs-gf6834uo)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-uq3h347r.jpeg)

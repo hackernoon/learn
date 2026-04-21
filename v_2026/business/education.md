@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [education](https://hackernoon.com/tagged/education)
-### Let's learn about [Education](https://hackernoon.com/tagged/education) via these 465 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Education](https://hackernoon.com/tagged/education) via these 465 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Education should be free, fun, and accessible for all. That is why you are here! - the convivial resource for techies, educationists, and hackers worldwide.
 

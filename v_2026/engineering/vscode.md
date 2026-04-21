@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [vscode](https://hackernoon.com/tagged/vscode)
-### Let's learn about [Vscode](https://hackernoon.com/tagged/vscode) via these 104 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Vscode](https://hackernoon.com/tagged/vscode) via these 104 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-VS Code (Visual Studio Code) is a free, open-source code editor developed by Microsoft, known for its extensibility, integrated debugging, and robust feature set. It has become an indispensable tool for developers across various programming languages and platforms due to its efficiency and versatility.
+Visual Studio Code, a free, open-source code editor developed by Microsoft, widely popular for its extensibility, debugging features, and cross-platform support.
 
 ### [1. Top 10 Popular VS Code Themes You Need to Try in 2023](https://hackernoon.com/top-10-popular-vs-code-themes-you-need-to-try-in-2023)
 ![](https://cdn.hackernoon.com/images/541r0RExUOQ3nFAQs7oJuST9Axf2-n5k3p1j.jpeg)

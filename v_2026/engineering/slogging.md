@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [slogging](https://hackernoon.com/tagged/slogging)
-### Let's learn about [Slogging](https://hackernoon.com/tagged/slogging) via these 470 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Slogging](https://hackernoon.com/tagged/slogging) via these 470 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Your Slack? Insightful words everyday by your highly intelligent people. Your company's blog? Not so much. The future of tech publishing revolves around transparency and distribution. Slogging will empower you to curate and distribute your best organic discussions via Hacker Noon. 
 

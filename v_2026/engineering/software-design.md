@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [software-design](https://hackernoon.com/tagged/software-design)
-### Let's learn about [Software Design](https://hackernoon.com/tagged/software-design) via these 111 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Software Design](https://hackernoon.com/tagged/software-design) via these 111 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Software design is the process of planning and structuring a software solution, crucial for ensuring the application is robust, maintainable, scalable, and meets user requirements effectively. It matters by laying the groundwork for successful software development, preventing costly errors and ensuring the longevity and adaptability of systems.
+Software design is the process of defining the architecture, components, interfaces, and other characteristics of a system or component. It matters for creating robust, scalable, and maintainable software by addressing requirements and constraints early in the development cycle, ensuring long-term success.
 
 ### [1. Resolving the Blocked a Frame with Origin "null" From Accessing a Cross-Origin Frame Error](https://hackernoon.com/resolving-the-blocked-a-frame-with-origin-null-from-accessing-a-cross-origin-frame-error)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-fd93p6m.jpeg)

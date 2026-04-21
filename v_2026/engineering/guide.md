@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [guide](https://hackernoon.com/tagged/guide)
-### Let's learn about [Guide](https://hackernoon.com/tagged/guide) via these 310 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Guide](https://hackernoon.com/tagged/guide) via these 310 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A guide is a comprehensive resource offering instructions, advice, or explanations on a particular topic. Guides are invaluable for learning new skills, navigating complex systems, and optimizing processes.
+A guide offers comprehensive instructions or advice designed to help users navigate a process, understand a topic, or achieve a goal. Guides are invaluable resources for learning, problem-solving, and skill acquisition, making complex subjects accessible and actionable.
 
 ### [1. Minecraft: How to Make an Invisibility Potion](https://hackernoon.com/minecraft-how-to-make-an-invisibility-potion)
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-ggd3ljy.jpeg)

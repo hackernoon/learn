@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dotnet](https://hackernoon.com/tagged/dotnet)
-### Let's learn about [Dotnet](https://hackernoon.com/tagged/dotnet) via these 281 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Dotnet](https://hackernoon.com/tagged/dotnet) via these 282 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-.NET is a free, cross-platform, open-source developer platform for building many different types of applications. It provides a robust ecosystem for creating high-performance web, mobile, desktop, and cloud services.
+Dotnet is a free, open-source development platform for building many types of applications, including web, mobile, desktop, and cloud services. It provides a robust framework and ecosystem for developers to create high-performance software across various platforms.
 
 ### [1. Overloading Vs. Overriding in C#](https://hackernoon.com/overloading-vs-overriding-in-c-nn1331h4)
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-f99h31qw.jpeg)
@@ -1140,4 +1140,8 @@ In my previous post, I discussed the eager root collection as an aggressive 
 ### [281. How A Headless CMS Could Help Your Team To Be Awesome](https://hackernoon.com/how-a-headless-cms-could-help-your-team-to-be-awesome-ftc93xc5)
 ![](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 OK, so the headless CMS is nothing new. There are many headless CMS providers to choose from. Some examples of providers are  Contentful, Prismic, and Kentico Kontent. For the most part, they provide very similar features and price plans.  Let's take a look at what the headless CMS is and why you should consider it for your team.
+
+### [282. C# Read Excel Files: 12 Approaches Ranked for Enterprise .NET Development](https://hackernoon.com/c-read-excel-files-12-approaches-ranked-for-enterprise-net-development)
+![](https://cdn.hackernoon.com/images/EhJAC2f5SPYT506kSzAJw5fsX612-yi838r4.png)
+12 distinct approaches to reading MS Excel files in C#, each with working code, honest strengths and weaknesses, and a clear enterprise verdict.
 

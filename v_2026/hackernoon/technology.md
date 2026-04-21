@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [technology](https://hackernoon.com/tagged/technology)
-### Let's learn about [Technology](https://hackernoon.com/tagged/technology) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Technology](https://hackernoon.com/tagged/technology) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 “Any sufficiently advanced technology is indistinguishable from magic.” ― Arthur C. Clarke, Profiles of the Future: An Inquiry Into the Limits of the Possible
 

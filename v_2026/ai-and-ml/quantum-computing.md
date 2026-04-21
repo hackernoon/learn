@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [quantum-computing](https://hackernoon.com/tagged/quantum-computing)
-### Let's learn about [Quantum Computing](https://hackernoon.com/tagged/quantum-computing) via these 223 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Quantum Computing](https://hackernoon.com/tagged/quantum-computing) via these 224 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Quantum computing is a new type of computation that leverages quantum-mechanical phenomena to solve complex problems intractable for classical computers. It promises to revolutionize fields like medicine, materials science, and cryptography by unlocking unprecedented processing power.
+Quantum computing is a new type of computing that uses principles of quantum mechanics to perform computations far beyond the capabilities of classical computers. It holds the potential to solve complex problems in fields like medicine, materials science, and cryptography.
 
 ### [1. What is Quantum Immortality And Why It Doesn't Make you Immortal](https://hackernoon.com/quantum-immortality-summed-up-in-5-key-points)
 ![](https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-xe337es.jpeg)
@@ -904,4 +904,8 @@ Qubits can encode lattice model turns for protein folding, mapping coordinate di
 ### [223. 2025 Will Be an Exciting Year for Technology](https://hackernoon.com/2025-will-be-an-exciting-year-for-technology)
 ![](https://cdn.hackernoon.com/images/nlbb7kYPJSWh1Px3enDoYP3AcYu1-hi02u9y.jpeg)
 Already we are seeing exciting announcements for new computers, smart watches, smart TVs, and a multitude of products.
+
+### [224. The Quantum Clock Is Ticking — But Crypto Has More Time Than the Headlines Suggest](https://hackernoon.com/the-quantum-clock-is-ticking-but-crypto-has-more-time-than-the-headlines-suggest)
+![](https://cdn.hackernoon.com/images/jCkfq1LW0RQR4f2S33BH5Y3EfdY2-chd321j.jpeg)
+Quantum computers could crack crypto wallets sooner than expected. Here's what the latest 2026 research actually says — and how much time we really have.
 

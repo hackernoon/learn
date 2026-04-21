@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nestjs](https://hackernoon.com/tagged/nestjs)
-### Let's learn about [Nestjs](https://hackernoon.com/tagged/nestjs) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Nestjs](https://hackernoon.com/tagged/nestjs) via these 50 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications, leveraging TypeScript. It combines elements of object-oriented, functional, and reactive programming, providing a robust architecture for enterprise-grade solutions.
+NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. It leverages TypeScript and combines elements of OOP, Functional Programming, and FRP to provide a robust architecture.
 
 ### [1. Quick and Easy CRUD with NestJS, @nestjsx/crud and TestMace](https://hackernoon.com/quick-and-easy-crud-with-nestjs-nestjsxcrud-and-testmace-t9cn313h)
 ![](https://cdn.hackernoon.com/drafts/5n6sq31nn.png)

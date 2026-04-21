@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [trading](https://hackernoon.com/tagged/trading)
-### Let's learn about [Trading](https://hackernoon.com/tagged/trading) via these 324 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Trading](https://hackernoon.com/tagged/trading) via these 324 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 You’re most likely looking at crypto trading related articles right now, no? But occasionally the community may surprise you with something more traditional.
 

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ai-ethics](https://hackernoon.com/tagged/ai-ethics)
-### Let's learn about [Ai Ethics](https://hackernoon.com/tagged/ai-ethics) via these 221 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ai Ethics](https://hackernoon.com/tagged/ai-ethics) via these 221 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-AI ethics is the study and application of ethical principles to the design, development, and deployment of artificial intelligence systems. It's crucial for ensuring AI is developed responsibly, mitigating biases, and preventing harm to individuals and society, fostering trust in AI technologies.
+AI ethics is the study of moral questions surrounding AI development and use, including bias, privacy, and accountability. It matters to ensure AI systems are developed responsibly, serving humanity's best interests without causing harm.
 
 ### [1. Decoding the Algorithm: The Ethics of Data Analysis in AI Decision-Making](https://hackernoon.com/decoding-the-algorithm-the-ethics-of-data-analysis-in-ai-decision-making)
 ![](https://cdn.hackernoon.com/images/Fc5NlqNsggaqXcuds6cTvIKxF9J2-q382hyr.jpeg)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [css3](https://hackernoon.com/tagged/css3)
-### Let's learn about [Css3](https://hackernoon.com/tagged/css3) via these 193 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Css3](https://hackernoon.com/tagged/css3) via these 193 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-CSS3 is the latest evolution of Cascading Style Sheets, a stylesheet language used for describing the presentation of a document written in HTML or XML. It is fundamental for web design, enabling rich visual experiences and responsive layouts across devices.
+The latest evolution of Cascading Style Sheets, used for describing the presentation of web pages, offering advanced styling capabilities and responsiveness.
 
 ### [1. The Best CSS Unit For a Responsive Design](https://hackernoon.com/the-best-css-unit-for-a-responsive-design-ku6q37to)
 ![](https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [self-improvement](https://hackernoon.com/tagged/self-improvement)
-### Let's learn about [Self Improvement](https://hackernoon.com/tagged/self-improvement) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Self Improvement](https://hackernoon.com/tagged/self-improvement) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "There's no genre more discredited than self-help. It's become synonymous with sentimentality, idiocy and hucksterism. This verdict is not unfair. The book covers are frequently garish; the promises overblown. But to dismiss the idea that underpins self-help—that one might at points stand in urgent need of solace and education—seems an austerely perverse prejudice." — Alain de Botton
 

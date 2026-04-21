@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nextjs](https://hackernoon.com/tagged/nextjs)
-### Let's learn about [Nextjs](https://hackernoon.com/tagged/nextjs) via these 211 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Nextjs](https://hackernoon.com/tagged/nextjs) via these 211 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Next.js is a flexible React framework that gives you building blocks to create fast web applications. It's used on internet pages like this one :-) 
 

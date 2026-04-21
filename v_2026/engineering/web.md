@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web](https://hackernoon.com/tagged/web)
-### Let's learn about [Web](https://hackernoon.com/tagged/web) via these 193 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Web](https://hackernoon.com/tagged/web) via these 193 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-The Web refers to the World Wide Web, a global system of interconnected computer networks that uses standard communication protocols to link billions of devices. It is the primary platform for information sharing, communication, and digital services worldwide.
+The Web, or World Wide Web, is a global system of interconnected computer networks that uses standard internet protocols to link billions of users worldwide. It is the primary platform for information sharing, communication, and digital services in the modern era.
 
 ### [1. 11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 ![](https://hackernoon.com/hn-images/1*Y1xY5s_DFPRaZzTwpfb_WQ.png)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [smart-contract-security](https://hackernoon.com/tagged/smart-contract-security)
-### Let's learn about [Smart Contract Security](https://hackernoon.com/tagged/smart-contract-security) via these 56 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Smart Contract Security](https://hackernoon.com/tagged/smart-contract-security) via these 57 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Smart contract security involves identifying and mitigating vulnerabilities within self-executing contracts on blockchain networks. Ensuring smart contract security is paramount to prevent financial losses and maintain trust in decentralized applications, protecting users and assets.
+Smart contract security is the practice of identifying and mitigating vulnerabilities in self-executing contracts on a blockchain. It matters immensely as flaws can lead to significant financial losses and undermine trust in decentralized applications.
 
 ### [1. Hack Solidity: Reentrancy Attack](https://hackernoon.com/hack-solidity-reentrancy-attack)
 ![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-g312fv1.jpeg)
@@ -228,4 +228,8 @@ Explore the critical role of smart contract audits in ensuring security, mitigat
 ### [56. TokenGuide: Building Security for Web3 Across All Blockchains](https://hackernoon.com/tokenguide-building-security-for-web3-across-all-blockchains)
 ![](https://cdn.hackernoon.com/images/7MlHFU632ScWWhvPWqZEaCGbn802-omc23i6.png)
 TokenGuide employs a sophisticated analysis approach that combines AI with heuristic methods to scrutinize smart contracts and assess token liquidity. 
+
+### [57. Best Practices in Prompt Engineering for AI Agents in Solidity Smart Contract Auditing](https://hackernoon.com/best-practices-in-prompt-engineering-for-ai-agents-in-solidity-smart-contract-auditing)
+![](https://cdn.hackernoon.com/images/txUmpVK9x1douYVN85XfpdQ9Fku1-gc83ipc.png)
+Learn how to use AI for smart contract audits the right way. Avoid costly mistakes with structured prompts, verification steps, and real exploit validation.
 

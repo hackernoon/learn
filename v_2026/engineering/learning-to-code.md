@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [learning-to-code](https://hackernoon.com/tagged/learning-to-code)
-### Let's learn about [Learning To Code](https://hackernoon.com/tagged/learning-to-code) via these 432 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Learning To Code](https://hackernoon.com/tagged/learning-to-code) via these 432 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Coding is the new literacy!
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [entrepreneur](https://hackernoon.com/tagged/entrepreneur)
-### Let's learn about [Entrepreneur](https://hackernoon.com/tagged/entrepreneur) via these 212 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Entrepreneur](https://hackernoon.com/tagged/entrepreneur) via these 212 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 All of the best stories and tips for becoming the great entrepreneur you were always meant to be. 
 

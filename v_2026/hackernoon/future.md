@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [future](https://hackernoon.com/tagged/future)
-### Let's learn about [Future](https://hackernoon.com/tagged/future) via these 420 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Future](https://hackernoon.com/tagged/future) via these 420 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 “We wanted flying cars, instead we got 140 characters.” ― Peter Thiel
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [networking](https://hackernoon.com/tagged/networking)
-### Let's learn about [Networking](https://hackernoon.com/tagged/networking) via these 149 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Networking](https://hackernoon.com/tagged/networking) via these 149 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 
 Diplomacy is the art of going to hell in such a way that people look forward to the trip.

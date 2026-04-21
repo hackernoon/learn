@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [encryption](https://hackernoon.com/tagged/encryption)
-### Let's learn about [Encryption](https://hackernoon.com/tagged/encryption) via these 151 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Encryption](https://hackernoon.com/tagged/encryption) via these 151 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Encryption is the process of converting information or data into a code to prevent unauthorized access, making it unreadable to anyone without the correct key. It is a cornerstone of information security, vital for protecting sensitive data during storage and transmission.
+The process of converting information into a code to prevent unauthorized access, ensuring data privacy and security in communication and storage.
 
 ### [1. Explain Like I’m 5: Zero Knowledge Proof (Halloween Edition)](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff)
 ![](https://hackernoon.com/hn-images/0*5a37y3nvkgPZDDMa.)

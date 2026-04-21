@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ftx](https://hackernoon.com/tagged/ftx)
-### Let's learn about [Ftx](https://hackernoon.com/tagged/ftx) via these 111 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ftx](https://hackernoon.com/tagged/ftx) via these 111 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-FTX was a major cryptocurrency exchange that gained significant prominence before its dramatic collapse, sending shockwaves through the entire crypto industry. Its downfall highlighted critical issues concerning regulation, transparency, and risk management in the digital asset space.
+FTX was a major cryptocurrency exchange that facilitated trading of various digital assets, known for its derivatives offerings. Its eventual collapse highlighted significant risks and regulatory challenges within the nascent crypto industry, prompting calls for greater transparency and oversight.
 
 ### [1. How Does Cryptocurrency Affect the Global Financial System?](https://hackernoon.com/how-does-cryptocurrency-affect-the-global-financial-system)
 ![](https://cdn.hackernoon.com/images/L0uk1qIUrMf0GCNRe58K2f2qbmB2-zg930xe.jpeg)

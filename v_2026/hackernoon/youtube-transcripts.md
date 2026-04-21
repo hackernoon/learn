@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [youtube-transcripts](https://hackernoon.com/tagged/youtube-transcripts)
-### Let's learn about [Youtube Transcripts](https://hackernoon.com/tagged/youtube-transcripts) via these 135 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Youtube Transcripts](https://hackernoon.com/tagged/youtube-transcripts) via these 135 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-YouTube transcripts are text versions of the audio content from YouTube videos, generated automatically or manually. These transcripts improve accessibility for viewers with hearing impairments and enhance content discoverability through search engines, broadening audience reach.
+YouTube transcripts are text versions of the spoken content from YouTube videos. They matter for accessibility, improving search engine optimization, and allowing users to quickly reference or quote specific parts of a video.
 
 ### [1. How to Talk to ChatGPT: An Intro to Prompt Engineering](https://hackernoon.com/how-to-talk-to-chatgpt-an-intro-to-prompt-engineering)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uta3kw8.jpeg)

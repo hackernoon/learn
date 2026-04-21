@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web-performance](https://hackernoon.com/tagged/web-performance)
-### Let's learn about [Web Performance](https://hackernoon.com/tagged/web-performance) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Web Performance](https://hackernoon.com/tagged/web-performance) via these 62 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Web performance focuses on optimizing websites and web applications for speed and responsiveness, directly impacting user experience, engagement, and search engine rankings. It matters because fast-loading sites lead to higher conversions, better user retention, and improved SEO, which are critical for online success.
+Web performance refers to the speed and responsiveness of websites and web applications. It matters because fast loading times significantly improve user experience, enhance SEO rankings, and can directly impact business metrics like conversion rates.
 
 ### [1. 10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
 ![](https://cdn.hackernoon.com/images/story-image-default.jpg)

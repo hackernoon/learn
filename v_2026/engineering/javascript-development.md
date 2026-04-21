@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [javascript-development](https://hackernoon.com/tagged/javascript-development)
-### Let's learn about [Javascript Development](https://hackernoon.com/tagged/javascript-development) via these 424 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Javascript Development](https://hackernoon.com/tagged/javascript-development) via these 424 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Why was the JavaScript developer sad? Because he didn’t Node how to Express himself. 
 

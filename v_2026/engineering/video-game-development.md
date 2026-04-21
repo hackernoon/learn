@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [video-game-development](https://hackernoon.com/tagged/video-game-development)
-### Let's learn about [Video Game Development](https://hackernoon.com/tagged/video-game-development) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Video Game Development](https://hackernoon.com/tagged/video-game-development) via these 103 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Video game development is the art and science of creating video games. It matters as it drives innovation in graphics, interactive storytelling, and human-computer interaction, fueling a massive global entertainment industry.
+Video game development is the process of creating video games, from concept to release. It matters as it drives innovation in interactive entertainment, storytelling, and graphics, contributing significantly to the cultural and economic landscape.
 
 ### [1. Build a Game Engine from Scratch in C++](https://hackernoon.com/build-a-game-engine-from-scratch-in-c)
 ![](https://cdn.hackernoon.com/images/nZpaJeLTrKVCL2NONopZb20IUZS2-jba3qan.jpeg)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptocurrency-investment](https://hackernoon.com/tagged/cryptocurrency-investment)
-### Let's learn about [Cryptocurrency Investment](https://hackernoon.com/tagged/cryptocurrency-investment) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Cryptocurrency Investment](https://hackernoon.com/tagged/cryptocurrency-investment) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The word on the interwebs is that you should invest 1% of your assets in crypto. #HODL
 

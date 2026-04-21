@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [social-media-marketing](https://hackernoon.com/tagged/social-media-marketing)
-### Let's learn about [Social Media Marketing](https://hackernoon.com/tagged/social-media-marketing) via these 284 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Social Media Marketing](https://hackernoon.com/tagged/social-media-marketing) via these 284 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Marketing but for social media. Think Facebook, Twitter, Insta, LinkedIn, TikTok, and whatever else the kids are using these days.
 

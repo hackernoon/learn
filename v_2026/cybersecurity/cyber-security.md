@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cyber-security](https://hackernoon.com/tagged/cyber-security)
-### Let's learn about [Cyber Security](https://hackernoon.com/tagged/cyber-security) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Cyber Security](https://hackernoon.com/tagged/cyber-security) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Cyber Security encompasses anything and everything from encryption to network security and endpoint security.
 

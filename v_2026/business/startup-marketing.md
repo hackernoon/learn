@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [startup-marketing](https://hackernoon.com/tagged/startup-marketing)
-### Let's learn about [Startup Marketing](https://hackernoon.com/tagged/startup-marketing) via these 269 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Startup Marketing](https://hackernoon.com/tagged/startup-marketing) via these 269 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Creative methods for marketing the unique value offerings of young and growing start-ups.
 

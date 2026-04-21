@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [central-bank-digital-currency](https://hackernoon.com/tagged/central-bank-digital-currency)
-### Let's learn about [Central Bank Digital Currency](https://hackernoon.com/tagged/central-bank-digital-currency) via these 54 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Central Bank Digital Currency](https://hackernoon.com/tagged/central-bank-digital-currency) via these 54 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A Central Bank Digital Currency (CBDC) is a digital form of a country's fiat currency, issued and backed by its central bank. CBDCs matter as they could revolutionize financial systems, offering potential benefits like increased financial inclusion, improved payment efficiency, and enhanced monetary policy control.
+A digital form of a country's fiat currency, issued and backed by its central bank, aiming to modernize payment systems and enhance financial inclusion.
 
 ### [1. The Fed's Disastrous Confusion about Money](https://hackernoon.com/the-feds-disaterous-confusion-about-money)
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-acb3tz9.png)

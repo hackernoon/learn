@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [b2b](https://hackernoon.com/tagged/b2b)
-### Let's learn about [B2b](https://hackernoon.com/tagged/b2b) via these 65 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [B2b](https://hackernoon.com/tagged/b2b) via these 65 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 one business benefits the other and vice versa = boomin market 
 

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [coding-interviews](https://hackernoon.com/tagged/coding-interviews)
-### Let's learn about [Coding Interviews](https://hackernoon.com/tagged/coding-interviews) via these 101 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Coding Interviews](https://hackernoon.com/tagged/coding-interviews) via these 101 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Coding interviews are structured assessments used by tech companies to evaluate a candidate's problem-solving and algorithmic skills. They are crucial for identifying top talent and ensuring technical proficiency within development teams.
+Coding interviews are structured conversations assessing a candidate's technical abilities and problem-solving skills. They are crucial for employers to identify qualified tech talent and for candidates to secure roles in the competitive tech industry.
 
 ### [1. 14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 ![](https://cdn.hackernoon.com/images/interview-with-a-computer-developer-clgnf08id000001s698o4eedu.png)

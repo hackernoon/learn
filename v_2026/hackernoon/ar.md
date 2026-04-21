@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ar](https://hackernoon.com/tagged/ar)
-### Let's learn about [Ar](https://hackernoon.com/tagged/ar) via these 133 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ar](https://hackernoon.com/tagged/ar) via these 133 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Augmented Reality (AR) is a technology that overlays digital information onto the real world, enhancing perception and interaction. AR is transforming industries from gaming and retail to education and healthcare by blending virtual and physical realities.
+Augmented Reality (AR) is a technology that overlays digital information onto the real world, enhancing user perception with interactive 3D models and data. AR is crucial for transforming fields from education and healthcare to retail and entertainment, blending digital and physical experiences seamlessly.
 
 ### [1. How to Use DeepAR For AR Effects on Amazon IVS Live Streams ](https://hackernoon.com/how-to-use-deepar-for-ar-effects-on-amazon-ivs-live-streams)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-wbf3uyj.jpeg)
@@ -346,166 +346,166 @@ Apple dominates the global Wearables market with AppleWatch & Airpods. A MixedRe
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-w44r3otq.jpeg)
 Welcome to this beautiful corner of the internet - Dogecoin meets partying & decentralization. Amy Tom talks to Gary Lachance, a Vancouver Dogecoin millionaire.
 
-### [86. Quantifying Motion Accuracy: MPJRE, MPJPE, and Consistency Metrics for HMD-based Avatar Generation](https://hackernoon.com/quantifying-motion-accuracy-mpjre-mpjpe-and-consistency-metrics-for-hmd-based-avatar-generation)
-![](https://cdn.hackernoon.com/images/motion-abstract-trippy-wy007e70jp5khp8sduc29d2k.png)
-This article outlines the evaluation metrics used to benchmark 3D avatar reconstruction models on the AMASS motion capture dataset.
-
-### [87. Why Augmented Reality Could Be the Portal to the Metaverse](https://hackernoon.com/why-augmented-reality-could-be-the-portal-to-the-metaverse)
+### [86. Why Augmented Reality Could Be the Portal to the Metaverse](https://hackernoon.com/why-augmented-reality-could-be-the-portal-to-the-metaverse)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-r892obf.jpeg)
 The Metaverse tends to ebb and flow between absurdity and hype. It's getting a lot of attention since it's seen as the next step in the internets development.
 
-### [88. Temporal Refinement in Stratified Motion Diffusion: Utilizing GRU for Smoothed Full-Body Prediction](https://hackernoon.com/temporal-refinement-in-stratified-motion-diffusion-utilizing-gru-for-smoothed-full-body-prediction)
-![](https://cdn.hackernoon.com/images/time-warp-abstract-trippy-h7u9t21eqrvbuq9ong13ikj7.png)
-This article describes the online inference stage of the model, which predicts 3D avatars in a frame-by-frame manner using a sliding window approach
-
-### [89. SPH3RE Leads the Charge in Apple’s VR Future](https://hackernoon.com/sph3re-leads-the-charge-in-apples-vr-future)
+### [87. SPH3RE Leads the Charge in Apple’s VR Future](https://hackernoon.com/sph3re-leads-the-charge-in-apples-vr-future)
 ![](https://cdn.hackernoon.com/images/6UhUIXc2FsV1SRruNvDPJJUZGaz1-g893tqf.jpeg)
 SPH3RE, a VR metaverse space, emerges as a trailblazer in Apple’s VR future.
 
-### [90. The Importance of Disentanglement: SAGE Outperforms Unified VQ-VAE Baselines in Full-Body Motion](https://hackernoon.com/the-importance-of-disentanglement-sage-outperforms-unified-vq-vae-baselines-in-full-body-motion)
-![](https://cdn.hackernoon.com/images/ball-of-yarn-disentanglement-abstract-egcql3r16afg1xagnj3y7ydy.png)
-This article presents an ablation study confirming that disentangling motion latents into upper and lower halves significantly enhances 3D avatar reconstruction
-
-### [91. No More Displays With AR](https://hackernoon.com/no-more-displays-with-ar)
+### [88. No More Displays With AR](https://hackernoon.com/no-more-displays-with-ar)
 ![](https://cdn.hackernoon.com/images/3VnwIf31ZzQWlWB0AdCZ1p1bZc53-hwg3pn8.jpeg)
 A new era of using devices begins with AR rise. Why it’s the perfect time and what to expect.
 
-### [92. A Dive into Education Tech Trends: Embracing Innovations to Get Smarter](https://hackernoon.com/a-dive-into-education-tech-trends-embracing-innovations-to-get-smarter-qj4134po)
+### [89. A Dive into Education Tech Trends: Embracing Innovations to Get Smarter](https://hackernoon.com/a-dive-into-education-tech-trends-embracing-innovations-to-get-smarter-qj4134po)
 ![](https://hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-yw2q35mu.jpeg)
 The latest trends that can redefine education, educational establishments and study approaches.
 
-### [93. How We Build Offline Shopping AR Application](https://hackernoon.com/how-we-build-offline-shopping-ar-application-nj193yt6)
+### [90. How We Build Offline Shopping AR Application](https://hackernoon.com/how-we-build-offline-shopping-ar-application-nj193yt6)
 ![](https://images.unsplash.com/photo-1504375243548-4c974e20e993?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Building a deep tech solution in a modern start-up environment can be tricky. This is how Omniaz — a Singapore-based start-up that is building digital solutions to redefine the future of offline shopping — is doing it.
 
-### [94. How Modern Technologies Are Transforming the Online Gaming Experience](https://hackernoon.com/how-modern-technologies-are-transforming-the-online-gaming-experience-sq183t7q)
+### [91. How Modern Technologies Are Transforming the Online Gaming Experience](https://hackernoon.com/how-modern-technologies-are-transforming-the-online-gaming-experience-sq183t7q)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOyroAm0H9TQIEeF5cNXJLW8Vriy2-091b28us.jpeg?alt=media&token=cf6af6cf-e88e-49e7-bd44-d58314564cc4)
 Online gaming is a big industry, possibly one of the biggest in today’s world. The augmentation of internet activity, especially during the 2020 pandemic, encouraged the gamers to turn to this form of entertainment even more. 
 
-### [95. 4 Effective Ways Augmented Reality Solve Issues in Logistics Industry](https://hackernoon.com/4-effective-ways-augmented-reality-solve-issues-in-logistics-industry)
+### [92. 4 Effective Ways Augmented Reality Solve Issues in Logistics Industry](https://hackernoon.com/4-effective-ways-augmented-reality-solve-issues-in-logistics-industry)
 ![](https://cdn.hackernoon.com/images/pM5aWbSPB9droyag2j6aTcCAqKI3-oic3jx7.jpeg)
 
 
-### [96. The Future of Web3 - The Metaverse as a Catalyst and its Fundamental Barriers](https://hackernoon.com/the-future-of-web3-the-metaverse-as-a-catalyst-and-its-fundamental-barriers)
+### [93. The Future of Web3 - The Metaverse as a Catalyst and its Fundamental Barriers](https://hackernoon.com/the-future-of-web3-the-metaverse-as-a-catalyst-and-its-fundamental-barriers)
 ![](https://cdn.hackernoon.com/images/subkWvP33uW9IRPuSMeNxPmmZS22-4l93r5w.jpeg)
 Learn about the future of Web3, the Metaverse, its potential, limitations, personal data security, the role of VR technology, and future prospects.
 
-### [97. Optimizing SAGE Net: Sequential Training of Stratified Diffusion Models and Full-Body Decoder](https://hackernoon.com/optimizing-sage-net-sequential-training-of-stratified-diffusion-models-and-full-body-decoder)
+### [94. Optimizing SAGE Net: Sequential Training of Stratified Diffusion Models and Full-Body Decoder](https://hackernoon.com/optimizing-sage-net-sequential-training-of-stratified-diffusion-models-and-full-body-decoder)
 ![](https://cdn.hackernoon.com/images/blueprint-technical-details-sketch-ijyf94casj1oe4c7zwfnxwtw.png)
 This article provides the implementation specifics for the Stratified Diffusion models in SAGE Net.
 
-### [98. What can be Expected from Gaming Industry, in the coming months! ](https://hackernoon.com/at-the-peak-of-popularity-what-to-expect-from-the-gaming-industry-in-2019-2o2e030ct)
+### [95. What can be Expected from Gaming Industry, in the coming months! ](https://hackernoon.com/at-the-peak-of-popularity-what-to-expect-from-the-gaming-industry-in-2019-2o2e030ct)
 ![](https://cdn.hackernoon.com/drafts/y75h30zu.png)
 2018 was a challenging year in many ways, but one positive surprise was the continuing development of digital technologies. What awaits us in 2019? It may be as saturated with turbulent political events and severe problems as 2018, but there is good news — technological innovations will be no less exciting than last year.
 
-### [99. The Augmented Reality Of Product Design: Looking at AR's Role and What It's Hiding](https://hackernoon.com/the-augmented-reality-of-product-design-looking-at-ars-role-and-what-its-hiding)
+### [96. The Augmented Reality Of Product Design: Looking at AR's Role and What It's Hiding](https://hackernoon.com/the-augmented-reality-of-product-design-looking-at-ars-role-and-what-its-hiding)
 ![](https://cdn.hackernoon.com/images/bUJMcEa0O8aAPO4qqK4fmeJziWb2-yr93n6m.jpeg)
 Let's venture into this augmented future together, conscious of our shared responsibility to shape a future...
 
-### [100. Quantitative and Qualitative Results: SAGE Outperforms SOTA in Full-Body 3D Avatar Reconstruction](https://hackernoon.com/quantitative-and-qualitative-results-sage-outperforms-sota-in-full-body-3d-avatar-reconstruction)
-![](https://cdn.hackernoon.com/images/character-avatar-sketch-color-v95sehojdzolq16uz4g0agrh.png)
-This article presents the quantitative and qualitative results for the SAGE model across three evaluation settings
-
-### [101. Join the Evolution: Peer 3D Social Network is Here](https://hackernoon.com/join-the-evolution-peer-3d-social-network-is-here)
+### [97. Join the Evolution: Peer 3D Social Network is Here](https://hackernoon.com/join-the-evolution-peer-3d-social-network-is-here)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-cj92pq3.jpeg)
 Peer Inc. announced the launch of a breakthrough social app which the company describes as the ultimate global launchpad for next-generation digital experiences
 
-### [102. The Reality is AR and VR are Edging Toward the Mainstream](https://hackernoon.com/the-reality-is-ar-and-vr-are-edging-toward-the-mainstream)
+### [98. The Reality is AR and VR are Edging Toward the Mainstream](https://hackernoon.com/the-reality-is-ar-and-vr-are-edging-toward-the-mainstream)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ol03bty.jpeg)
 Augmented reality and virtual reality appear to be having a moment -- for real this time. After numerous fits and starts in recent years, it now seems that thes
 
-### [103. 5 Crucial UX/UI Principles for Designing  Augmented Reality (AR) Apps](https://hackernoon.com/5-crucial-uxui-principles-for-designing-augmented-reality-ar-apps)
+### [99. Quantifying Motion Accuracy: MPJRE, MPJPE, and Consistency Metrics for HMD-based Avatar Generation](https://hackernoon.com/quantifying-motion-accuracy-mpjre-mpjpe-and-consistency-metrics-for-hmd-based-avatar-generation)
+![](https://cdn.hackernoon.com/images/motion-abstract-trippy-wy007e70jp5khp8sduc29d2k.png)
+This article outlines the evaluation metrics used to benchmark 3D avatar reconstruction models on the AMASS motion capture dataset.
+
+### [100. 5 Crucial UX/UI Principles for Designing  Augmented Reality (AR) Apps](https://hackernoon.com/5-crucial-uxui-principles-for-designing-augmented-reality-ar-apps)
 ![](https://cdn.hackernoon.com/images/gJkVSmTdCngVo2UQCesq1hFrDqg1-wpa3zo3.jpeg)
 Best Practices for Designing UI/UX of Augmented Reality Applications
 
-### [104. Is the Metaverse Virtual Insanity or a Virtual Gold Mine?](https://hackernoon.com/is-the-metaverse-virtual-insanity-or-a-virtual-gold-mine)
+### [101. Is the Metaverse Virtual Insanity or a Virtual Gold Mine?](https://hackernoon.com/is-the-metaverse-virtual-insanity-or-a-virtual-gold-mine)
 ![](https://cdn.hackernoon.com/images/OMYpwhOzp5TsNQsapMXXjjsBAlG2-h403a8b.jpeg)
 Elon Musk recently mentioned that “he doesn’t get Virtual Reality”
 
-### [105. SAGE Net Ablation Study: Analyzing the Impact of Input Sequence Length on Performance](https://hackernoon.com/sage-net-ablation-study-analyzing-the-impact-of-input-sequence-length-on-performance)
+### [102. SAGE Net Ablation Study: Analyzing the Impact of Input Sequence Length on Performance](https://hackernoon.com/sage-net-ablation-study-analyzing-the-impact-of-input-sequence-length-on-performance)
 ![](https://cdn.hackernoon.com/images/green-cyber-net-animated-dnciby0p38b963zm44exlxom.png)
 This article presents an ablation study on the SAGE Net design, focusing on the critical factor of input sequence length (N) for online inference.
 
-### [106. How Is Augmented Reality Changing the Way Students Learn in Class?](https://hackernoon.com/how-is-augmented-reality-changing-the-way-students-learn-in-class)
+### [103. How Is Augmented Reality Changing the Way Students Learn in Class?](https://hackernoon.com/how-is-augmented-reality-changing-the-way-students-learn-in-class)
 ![](https://cdn.hackernoon.com/images/hqV9ib0EqkXqEjnRJRsNEJv08cl1-96a3hhh.jpeg)
 Learn how AR and VR will transform education as we know it.
 
-### [107. Is Virtual Reality the Future of Social Media?](https://hackernoon.com/is-virtual-reality-the-future-of-docial-media)
+### [104. Is Virtual Reality the Future of Social Media?](https://hackernoon.com/is-virtual-reality-the-future-of-docial-media)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-fh034t8.jpeg)
 Is social media a prelude to virtual reality?
 
 
-### [108. Immersive Inspiration: Why Extended Reality Learning Holds Multi-Sector Potential](https://hackernoon.com/immersive-inspiration-why-extended-reality-learning-holds-multi-sector-potential)
+### [105. Immersive Inspiration: Why Extended Reality Learning Holds Multi-Sector Potential](https://hackernoon.com/immersive-inspiration-why-extended-reality-learning-holds-multi-sector-potential)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-71a3pqb.jpeg)
 Although the edtech sector has grown significantly in voracity since the emergence of the Covid-19 pandemic, it’s extended reality that holds the key.
 
-### [109. Creating an Immersive AR Experience: Lessons From a Hackathon](https://hackernoon.com/creating-an-immersive-ar-experience-lessons-from-a-hackathon)
+### [106. Creating an Immersive AR Experience: Lessons From a Hackathon](https://hackernoon.com/creating-an-immersive-ar-experience-lessons-from-a-hackathon)
 ![](https://cdn.hackernoon.com/images/immersive-ar-cle8fr2uf000001s6dkrphp9p.png)
 Discover how a team overcame challenges in a FormulaAI hackathon to build a 3D AR experience for sports analysis in this inspiring case study.
 
-### [110. Augmented Reality — How It Evolved Into Our Reality](https://hackernoon.com/augmented-reality-how-it-evolved-into-our-reality-b5ir3y41)
+### [107. Temporal Refinement in Stratified Motion Diffusion: Utilizing GRU for Smoothed Full-Body Prediction](https://hackernoon.com/temporal-refinement-in-stratified-motion-diffusion-utilizing-gru-for-smoothed-full-body-prediction)
+![](https://cdn.hackernoon.com/images/time-warp-abstract-trippy-h7u9t21eqrvbuq9ong13ikj7.png)
+This article describes the online inference stage of the model, which predicts 3D avatars in a frame-by-frame manner using a sliding window approach
+
+### [108. Augmented Reality — How It Evolved Into Our Reality](https://hackernoon.com/augmented-reality-how-it-evolved-into-our-reality-b5ir3y41)
 ![](https://cdn.hackernoon.com/images/m31d23yoa.jpg)
 What is Augmented Reality (AR)?
 
-### [111. Disentangling Upper and Lower Body Motion: The Key Finding for Full-Body Avatar Reconstruction](https://hackernoon.com/disentangling-upper-and-lower-body-motion-the-key-finding-for-full-body-avatar-reconstruction)
+### [109. Disentangling Upper and Lower Body Motion: The Key Finding for Full-Body Avatar Reconstruction](https://hackernoon.com/disentangling-upper-and-lower-body-motion-the-key-finding-for-full-body-avatar-reconstruction)
 ![](https://cdn.hackernoon.com/images/character-creation-abstract-ydexke42ndda1hwz3c1hw4ns.png)
 This conclusion summarizes the key finding that disentangling upper and lower body motions is crucial for accurate 3D avatar generation
 
-### [112. Benefits of AR in Education: A Brief Introduction for the Uninitiated ](https://hackernoon.com/benefits-of-ar-in-education-a-brief-introduction-for-the-uninitiated-cn4933mc)
+### [110. Benefits of AR in Education: A Brief Introduction for the Uninitiated ](https://hackernoon.com/benefits-of-ar-in-education-a-brief-introduction-for-the-uninitiated-cn4933mc)
 ![](https://cdn.hackernoon.com/images/BrHGv190VQWA17Spw1KQIM6ofvK2-ah1i3u8o.jpeg)
 How can teachers to ensure high quality of conducted classes and help students understand subjects properly? AR is the answer.
 
-### [113. How Augmented Reality is Already Transforming Workplace Training](https://hackernoon.com/how-augmented-reality-is-already-transforming-workplace-training)
+### [111. The Importance of Disentanglement: SAGE Outperforms Unified VQ-VAE Baselines in Full-Body Motion](https://hackernoon.com/the-importance-of-disentanglement-sage-outperforms-unified-vq-vae-baselines-in-full-body-motion)
+![](https://cdn.hackernoon.com/images/ball-of-yarn-disentanglement-abstract-egcql3r16afg1xagnj3y7ydy.png)
+This article presents an ablation study confirming that disentangling motion latents into upper and lower halves significantly enhances 3D avatar reconstruction
+
+### [112. How Augmented Reality is Already Transforming Workplace Training](https://hackernoon.com/how-augmented-reality-is-already-transforming-workplace-training)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-dsb3spj.jpeg)
 While the future of AR certainly looks bright at enterprise level, we’re already seeing advancements bring tangible benefits today.
 
-### [114. Managing Diabetes Using Artificial Intelligence ](https://hackernoon.com/managing-diabetes-using-artificial-intelligence)
+### [113. Managing Diabetes Using Artificial Intelligence ](https://hackernoon.com/managing-diabetes-using-artificial-intelligence)
 ![](https://cdn.hackernoon.com/images/0IfDKT345LUyRWOn35ESZSejyO03-8u834hs.png)
 This article provides a comprehensive overview of diabetes, including its types, symptoms, and current management strategies. 
 
-### [115. Integrating AR and VR into the Physical and Industrial Worlds](https://hackernoon.com/integrating-ar-and-vr-into-the-physical-and-industrial-worlds-ay1n332w)
+### [114. Integrating AR and VR into the Physical and Industrial Worlds](https://hackernoon.com/integrating-ar-and-vr-into-the-physical-and-industrial-worlds-ay1n332w)
 ![](https://cdn.hackernoon.com/images/yM435OOxF7bQqk5VvEgXUUp6L2T2-033833s5.jpeg)
 The integration of augmented reality (AR) and virtual reality (VR) into the physical and industrial worlds is close at hand. There are real-life applications already in use in several sectors.
 
-### [116. TaskChain Launches Presale of Quest2Earn Web3 Platform](https://hackernoon.com/taskchain-launches-presale-of-quest2earn-web3-platform)
+### [115. TaskChain Launches Presale of Quest2Earn Web3 Platform](https://hackernoon.com/taskchain-launches-presale-of-quest2earn-web3-platform)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-g2a2pck.jpeg)
 TaskChain, a groundbreaking Web3 project, has just announced the launch of its presale today. 
 
-### [117. The Price of Augmented Reality ](https://hackernoon.com/the-price-of-augmented-reality-5i1037s2)
+### [116. The Price of Augmented Reality ](https://hackernoon.com/the-price-of-augmented-reality-5i1037s2)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-x842351y.jpeg)
 You may be thinking of creating an innovative AR app for your business. This means your primary concern should be the cost of augmented reality.
 
-### [118. Why Augmented Reality is the Future of the Work Environment](https://hackernoon.com/why-augmented-reality-is-the-future-of-the-work-environment-l82b3z6c)
+### [117. Why Augmented Reality is the Future of the Work Environment](https://hackernoon.com/why-augmented-reality-is-the-future-of-the-work-environment-l82b3z6c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsaBO5xMahkPR5ruhpMMLtfAi6Rp1-95w3w5y.png?alt=media&token=148f079a-97e2-486c-9fc4-029d950942d1)
 Augmented Reality (AR) is transforming the way we work. The rapid growth of computing power and the maturation of 5G capabilities are feeding the development of AR technologies, and making AR systems more flexible and accessible for use in the workplace. These use cases include boosting worker productivity, enhancing collaboration, and increasing workplace safety.
 
-### [119. Hacking Life: The Irresistible Allure of the Virtual Worlds](https://hackernoon.com/hacking-life-the-irresistible-allure-of-the-virtual-worlds)
+### [118. Hacking Life: The Irresistible Allure of the Virtual Worlds](https://hackernoon.com/hacking-life-the-irresistible-allure-of-the-virtual-worlds)
 ![](https://cdn.hackernoon.com/images/CjoyJealvkPEpPVubDV7oafCfKw1-0pa3wge.jpeg)
  In this byte, we will explore the transformative power of virtualization and delve into the concept of the Metaverse. 
 
-### [120. By 2026, Your Best Friend Might Be an Algorithm](https://hackernoon.com/by-2026-your-best-friend-might-be-an-algorithm)
+### [119. By 2026, Your Best Friend Might Be an Algorithm](https://hackernoon.com/by-2026-your-best-friend-might-be-an-algorithm)
 ![](https://cdn.hackernoon.com/images/9IwtzQGRqIUqi3nriCDxBIR6rCn1-am0363x.webp)
 AI companions are coming, and they’ll change the world forever.
 
-### [121. Why Every Organisation Should Consider Its MR Strategy](https://hackernoon.com/why-every-organisation-should-consider-its-mr-strategy-x64g33fo)
+### [120. Why Every Organisation Should Consider Its MR Strategy](https://hackernoon.com/why-every-organisation-should-consider-its-mr-strategy-x64g33fo)
 ![](https://cdn.hackernoon.com/images/f0CdWjjeQOUER2nirNZOxQffs4n2-jwl33tr.jpeg)
 Whatever the goal, MR is a powerful tool that will provide data in context at your fingertips, where teams can be heads-up and hands-free - wherever they are.
 
-### [122. 5 Important Ways COVID-19 is Reshaping the Online Education Industry](https://hackernoon.com/5-important-ways-covid-19-is-reshaping-the-online-education-industry-xh2a33sm)
+### [121. 5 Important Ways COVID-19 is Reshaping the Online Education Industry](https://hackernoon.com/5-important-ways-covid-19-is-reshaping-the-online-education-industry-xh2a33sm)
 ![](https://cdn.hackernoon.com/images/KwIlo8Dd4LgB0MQD5SHlKR727q33-ksj33b8.jpeg)
 Let's take a closer look at the most important ways that the COVID-19 pandemic is reshaping online education and how you can use it to succeed in 2021.
 
-### [123. Smart Alternatives to Sampling Campaigns in Supermarkets During COVID-19](https://hackernoon.com/smart-alternatives-to-sampling-campaigns-in-supermarkets-during-covid-19-vv2t32pm)
+### [122. Smart Alternatives to Sampling Campaigns in Supermarkets During COVID-19](https://hackernoon.com/smart-alternatives-to-sampling-campaigns-in-supermarkets-during-covid-19-vv2t32pm)
 ![](https://cdn.hackernoon.com/images/VTHN8wxp5XTKSKB5EZvc0sgk8822-ff3e31hj.jpeg)
 Find out how you can replace sampling campaigns during the COVID-19 pandemic to be safe and still engage with customers. 
 
-### [124. SAGE: Stratified Avatar Generation for Full-Body 3D Reconstruction from Sparse HMD Data](https://hackernoon.com/sage-stratified-avatar-generation-for-full-body-3d-reconstruction-from-sparse-hmd-data)
+### [123. SAGE: Stratified Avatar Generation for Full-Body 3D Reconstruction from Sparse HMD Data](https://hackernoon.com/sage-stratified-avatar-generation-for-full-body-3d-reconstruction-from-sparse-hmd-data)
 ![](https://cdn.hackernoon.com/images/character-avatar-animated-hmnyal5x6y6mod47yj896em7.png)
 This paper introduces Stratified Avatar Generation, a novel, decoupled two-stage approach for reconstructing 3D full-body avatars from sparse HMD observations
 
-### [125. Technology's Role in Safety of Construction Workers](https://hackernoon.com/technologys-role-in-safety-of-construction-workers-bg563403)
+### [124. Technology's Role in Safety of Construction Workers](https://hackernoon.com/technologys-role-in-safety-of-construction-workers-bg563403)
 ![](https://cdn.hackernoon.com/images/Vj0mJW7lGtYFTmKHZ30ZKGhNvr72-cs2336vb.jpeg)
 One of the latest approaches to dealing with site safety challenges has been the increasing uptake of technology within the construction industry. 
+
+### [125. Quantitative and Qualitative Results: SAGE Outperforms SOTA in Full-Body 3D Avatar Reconstruction](https://hackernoon.com/quantitative-and-qualitative-results-sage-outperforms-sota-in-full-body-3d-avatar-reconstruction)
+![](https://cdn.hackernoon.com/images/character-avatar-sketch-color-v95sehojdzolq16uz4g0agrh.png)
+This article presents the quantitative and qualitative results for the SAGE model across three evaluation settings
 
 ### [126. How to Attract and Entertain Your Customers with AR Apps: 10 Lessons from the Best](https://hackernoon.com/how-to-attract-and-entertain-your-customers-with-ar-apps-10-lessons-from-the-best-7i1c53w6p)
 ![](https://cdn.hackernoon.com/images/rt1bt3wid.jpg)

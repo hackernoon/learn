@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [python-basics](https://hackernoon.com/tagged/python-basics)
-### Let's learn about [Python Basics](https://hackernoon.com/tagged/python-basics) via these 66 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Python Basics](https://hackernoon.com/tagged/python-basics) via these 66 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Python basics cover the fundamental concepts and syntax of the Python programming language, essential for beginners to start coding and understanding core programming principles. Mastering these basics is the gateway to leveraging Python's versatility in data science, web development, and automation.
+Python basics cover the fundamental concepts and syntax of the Python programming language, including variables, data types, control structures, and functions. Mastering these basics is essential for anyone starting their journey in programming, data science, or web development with Python.
 
 ### [1. How to Read Text File in Python?](https://hackernoon.com/how-to-read-text-file-in-python)
 ![](https://cdn.hackernoon.com/images/OJljH3PJ19XhnfrEjYPYRLg9Y2s2-uu0363o.jpeg)

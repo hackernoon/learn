@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mvp](https://hackernoon.com/tagged/mvp)
-### Let's learn about [Mvp](https://hackernoon.com/tagged/mvp) via these 121 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Mvp](https://hackernoon.com/tagged/mvp) via these 121 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 No, we're not talking about the most valuable player. MVP stands for "minimum viable product". 
 

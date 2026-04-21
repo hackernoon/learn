@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [crypto-adoption](https://hackernoon.com/tagged/crypto-adoption)
-### Let's learn about [Crypto Adoption](https://hackernoon.com/tagged/crypto-adoption) via these 396 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Crypto Adoption](https://hackernoon.com/tagged/crypto-adoption) via these 398 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 All things, including shamanistic rituals, that are expected to help drive up the number of people who transact in cryptocurrencies.
 
@@ -1619,4 +1619,12 @@ As global trust in fiat erodes, Bitcoin emerges as an engineered escape. Explore
 Right now I am trying to get in contact with Jonha. I have a question to ask her. If you know her or perhaps live on the same street or maybe go to the same cafe would you mind asking her to give me a buzz.
 
 In February of this year I interviewed the lovely Jonha Richman.  The article is below – it is a gentle article that spends more time on another podcast – Planet Money – than her story but I liked it well enough.
+
+### [397. OVHcloud and Alchemy Enter Strategic Relationship to Bring Scalable, Powerful Dev Platform to Web3](https://hackernoon.com/ovhcloud-and-alchemy-enter-strategic-relationship-to-bring-scalable-powerful-dev-platform-to-web3)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-bb83g8z.jpeg)
+Together, the two companies will enable decentralized app and chain developers to benefit from Alchemy’s
+
+### [398. Unicoin Foundation Debuts, Aligning Social Impact with the Future of Responsible Crypto](https://hackernoon.com/unicoin-foundation-debuts-aligning-social-impact-with-the-future-of-responsible-crypto)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ig83gv5.jpeg)
+The Foundation’s launch aligns with the evolving market restructuring and regulatory clarity introduced under the leadership of U.S. Securities and 
 

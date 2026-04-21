@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tech-twitter-thread](https://hackernoon.com/tagged/tech-twitter-thread)
-### Let's learn about [Tech Twitter Thread](https://hackernoon.com/tagged/tech-twitter-thread) via these 202 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Tech Twitter Thread](https://hackernoon.com/tagged/tech-twitter-thread) via these 202 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A tech Twitter thread is a sequence of related tweets on a specific technological topic, often used for in-depth explanations, tutorials, or discussions. These threads serve as a valuable micro-blogging format for sharing insights and engaging with the tech community.
+A tech Twitter thread is a series of connected tweets used by professionals to share detailed insights, tutorials, or deep dives into technical topics. This format facilitates knowledge sharing and community engagement within the tech ecosystem.
 
 ### [1. How to Earn $25-45/Hour By Helping to Train AI Models](https://hackernoon.com/how-to-earn-$25-45hour-by-helping-to-train-ai-models)
 ![](https://cdn.hackernoon.com/images/earning-money-clibzjcrc000001s6dmps4ubu.png)

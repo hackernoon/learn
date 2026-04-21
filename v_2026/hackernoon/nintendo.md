@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nintendo](https://hackernoon.com/tagged/nintendo)
-### Let's learn about [Nintendo](https://hackernoon.com/tagged/nintendo) via these 129 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Nintendo](https://hackernoon.com/tagged/nintendo) via these 129 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Nintendo is a multinational consumer electronics and video game company renowned for its iconic consoles and popular game franchises. It has profoundly shaped the gaming industry with innovative hardware and beloved characters.
+Nintendo is a Japanese multinational consumer electronics and video game company renowned for its iconic consoles and game franchises. Nintendo has profoundly shaped the gaming industry, introducing groundbreaking hardware and beloved characters that have entertained generations worldwide.
 
 ### [1. The Ace Attorney Timeline: All Phoenix Wright Games in Chronological Order](https://hackernoon.com/the-ace-attorney-timeline-all-phoenix-wright-games-in-chronological-order-9p5r37xi)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-hwz533v6.jpeg)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tatum_io](https://hackernoon.com/tagged/tatum_io)
-### Let's learn about [Tatum_io](https://hackernoon.com/tagged/tatum_io) via these 131 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Tatum_io](https://hackernoon.com/tagged/tatum_io) via these 131 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Tatum.io is a blockchain development platform that simplifies the creation of blockchain applications through a comprehensive API. It matters by lowering the barrier to entry for Web3 development, enabling developers to build powerful blockchain solutions faster and more efficiently.
+Tatum.io is a blockchain development platform that simplifies the creation of blockchain applications. It matters by abstracting away much of the complexity of blockchain protocols, enabling developers to build Web3 solutions faster and more efficiently.
 
 ### [1. Using Daml to Create Blockchain NFT-Based Customer Experiences](https://hackernoon.com/using-daml-to-create-blockchain-nft-based-customer-experiences)
 ![](https://cdn.hackernoon.com/images/Cukl9MVRXDhNVkzK3ej5WlIGpOw1-sv930lr.jpeg)

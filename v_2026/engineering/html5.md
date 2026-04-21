@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [html5](https://hackernoon.com/tagged/html5)
-### Let's learn about [Html5](https://hackernoon.com/tagged/html5) via these 122 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Html5](https://hackernoon.com/tagged/html5) via these 122 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-HTML5 is the latest major revision of the Hypertext Markup Language, crucial for structuring web content, supporting multimedia, and enhancing interactive capabilities across modern browsers. It matters by forming the foundational structure of virtually all websites, enabling rich, dynamic, and accessible user experiences on the web.
+HTML5 is the fifth major revision of the Hypertext Markup Language, the standard language for creating web pages. It matters for enhancing web content with new semantic tags, multimedia capabilities, and APIs, making the web more dynamic and interactive.
 
 ### [1. How To Write Semantic HTML](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfLcpK1xNykXN0a6Y4nGDUtw9rFs1-gpcd23oh.jpeg?alt=media&token=fe199bc9-d30d-4bd4-a9ac-843245aab45a)

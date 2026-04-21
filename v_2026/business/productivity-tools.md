@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [productivity-tools](https://hackernoon.com/tagged/productivity-tools)
-### Let's learn about [Productivity Tools](https://hackernoon.com/tagged/productivity-tools) via these 96 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Productivity Tools](https://hackernoon.com/tagged/productivity-tools) via these 97 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 It's called "Slack" for a reason.
 
@@ -388,4 +388,8 @@ A curated list of lesser known productivity tools that actually work. Covers tes
 ### [96. Invoicing Tech Can Boost Brand Appeal](https://hackernoon.com/invoicing-tech-can-boost-brand-appeal-797232r9)
 ![](https://cdn.hackernoon.com/drafts/sd20c3y12.png)
 Your brand is the essence of your company. It’s what your customers perceive you to be, and it’s how you portray your business to the world. 
+
+### [97. Why Obsidian, Notion, and Miro Didn’t Work for Me](https://hackernoon.com/why-obsidian-notion-and-miro-didnt-work-for-me)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-hy83axu.jpeg)
+Obsidian links. Notion organizes. Miro visualizes. But none of them helped me actually think. Here's the tool that finally did.
 

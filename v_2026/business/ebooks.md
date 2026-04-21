@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ebooks](https://hackernoon.com/tagged/ebooks)
-### Let's learn about [Ebooks](https://hackernoon.com/tagged/ebooks) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ebooks](https://hackernoon.com/tagged/ebooks) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Ebooks are electronic books, digital versions of traditional books readable on various devices like e-readers and tablets. They offer portability, accessibility, and often lower costs, making literature more widely available.
+Ebooks are electronic books, digital versions of traditional print books readable on various devices. Ebooks offer portability, accessibility, and often lower costs, making literature and information more widely available and environmentally friendly.
 
 ### [1. A DREAM OF ARMAGEDDON](https://hackernoon.com/a-dream-of-armageddon)
 ![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-xew3lks.jpeg)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-engineering](https://hackernoon.com/tagged/data-engineering)
-### Let's learn about [Data Engineering](https://hackernoon.com/tagged/data-engineering) via these 347 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Data Engineering](https://hackernoon.com/tagged/data-engineering) via these 347 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Data engineering involves designing, building, and maintaining the infrastructure and systems that collect, process, and store large volumes of data. It is crucial for enabling data-driven decision-making by providing reliable and accessible data pipelines for analysis and machine learning.
+The process of designing and building systems for collecting, storing, and analyzing data at scale, foundational for data science and business intelligence initiatives.
 
 ### [1. 9 Best Data Engineering Courses You Should Take in 2023](https://hackernoon.com/9-best-data-engineering-courses-you-should-take-in-2022)
 ![](https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-gb93hlq.jpeg)

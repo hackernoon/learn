@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [amazon](https://hackernoon.com/tagged/amazon)
-### Let's learn about [Amazon](https://hackernoon.com/tagged/amazon) via these 353 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Amazon](https://hackernoon.com/tagged/amazon) via these 353 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Hey Alexa, what's happening in the tech world?
 

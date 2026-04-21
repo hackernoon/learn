@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [beginners](https://hackernoon.com/tagged/beginners)
-### Let's learn about [Beginners](https://hackernoon.com/tagged/beginners) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Beginners](https://hackernoon.com/tagged/beginners) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 This is a beginners friendly zone. We’ve all been here. Make yourself comfortable, take a sip of your fave beverage and start learning. You absolutely got this.
 

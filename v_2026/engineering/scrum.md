@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [scrum](https://hackernoon.com/tagged/scrum)
-### Let's learn about [Scrum](https://hackernoon.com/tagged/scrum) via these 136 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Scrum](https://hackernoon.com/tagged/scrum) via these 136 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Complex products, sustainability and adaptive solutions, in the constantly evolving work and technological landscape.
 

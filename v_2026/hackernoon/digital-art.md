@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [digital-art](https://hackernoon.com/tagged/digital-art)
-### Let's learn about [Digital Art](https://hackernoon.com/tagged/digital-art) via these 86 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Digital Art](https://hackernoon.com/tagged/digital-art) via these 86 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Digital art is any artistic work or practice that uses digital technology as part of the creative process or presentation, essential for pushing creative boundaries and exploring new mediums. It allows artists to experiment with interactive, generative, and immersive experiences.
+Digital art is art created using digital technology, encompassing various forms like digital painting, generative art, and NFTs. It expands the possibilities of artistic expression, enabling new aesthetics and distribution models in the modern creative landscape.
 
 ### [1. Welcome to the Museum of AI Hallucinations](https://hackernoon.com/welcome-to-the-museum-of-ai-hallucinations)
 ![](https://cdn.hackernoon.com/images/Znlcl8NNXjfpUWlNisWs7cZ7FXE2-r463fud.png)

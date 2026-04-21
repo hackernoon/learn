@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ui-design](https://hackernoon.com/tagged/ui-design)
-### Let's learn about [Ui Design](https://hackernoon.com/tagged/ui-design) via these 161 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ui Design](https://hackernoon.com/tagged/ui-design) via these 161 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-UI (User Interface) design focuses on creating the visual elements and interactive properties of a product's interface to enhance user experience. Effective UI design matters immensely as it dictates how users interact with a digital product, directly impacting usability and adoption.
+The process of designing user interfaces for software or devices, focusing on aesthetics and interactivity to create intuitive and enjoyable user experiences.
 
 ### [1. Setting Scroll Position in React](https://hackernoon.com/setting-scroll-position-in-react)
 ![](https://cdn.hackernoon.com/images/PzR8ZTkpXKV9Jijt5uz2hfy9Gi33-kla3rz9.jpeg)

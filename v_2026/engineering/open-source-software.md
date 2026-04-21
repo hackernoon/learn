@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [open-source-software](https://hackernoon.com/tagged/open-source-software)
-### Let's learn about [Open Source Software](https://hackernoon.com/tagged/open-source-software) via these 226 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Open Source Software](https://hackernoon.com/tagged/open-source-software) via these 226 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Open-source software (OSS) is software with source code that anyone can inspect, modify, and enhance, often under a public license. It matters by fostering collaboration, innovation, transparency, and accessibility, driving much of the modern technological landscape.
+Software with its source code made publicly available, allowing anyone to inspect, modify, and distribute it, fostering collaboration and innovation.
 
 ### [1. 6 Best Open-Source Projects for Real-Time Face Recognition](https://hackernoon.com/6-best-open-source-projects-for-real-time-face-recognition-vr1w34x5)
 ![](https://hackernoon.com/images/5SrRCHrqtGNuFIYrxGmh0cwtEWZ2-gfu337s.jpeg)

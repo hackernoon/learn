@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [firebase](https://hackernoon.com/tagged/firebase)
-### Let's learn about [Firebase](https://hackernoon.com/tagged/firebase) via these 82 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Firebase](https://hackernoon.com/tagged/firebase) via these 82 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Firebase is a Google-backed platform for developing mobile and web applications, offering a suite of tools for backend services, authentication, databases, and hosting, simplifying app development. It matters by accelerating app development, allowing developers to focus on the user experience without managing server infrastructure.
+Firebase is a platform developed by Google for creating mobile and web applications. It matters for providing a comprehensive suite of tools, including real-time databases, authentication, and hosting, simplifying backend development for developers and accelerating app creation.
 
 ### [1. How to Deploy a React Application With Firebase Hosting](https://hackernoon.com/how-to-deploy-a-react-application-with-firebase-hosting-p92m37b7)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-kfj37ls.jpeg)

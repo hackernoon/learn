@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [testing](https://hackernoon.com/tagged/testing)
-### Let's learn about [Testing](https://hackernoon.com/tagged/testing) via these 498 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Testing](https://hackernoon.com/tagged/testing) via these 498 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 A software tester walks into a bar
 Orders a beer. Orders 0. Orders 99999 beers. Orders -1. Orders hudggseadjdjktfibkd.

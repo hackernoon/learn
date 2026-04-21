@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [efficiency](https://hackernoon.com/tagged/efficiency)
-### Let's learn about [Efficiency](https://hackernoon.com/tagged/efficiency) via these 61 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Efficiency](https://hackernoon.com/tagged/efficiency) via these 61 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Efficiency is the ability to achieve maximum productivity with minimum wasted effort, time, or resources. In technology, efficiency is paramount for optimizing system performance, reducing costs, and delivering faster results.
+Efficiency is the ability to achieve maximum productivity with minimal wasted effort, time, or resources. In technology, it is paramount for optimizing system performance, reducing operational costs, and delivering faster, more reliable solutions.
 
 ### [1. What does the time complexity O(log n) actually mean?](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
 ![](https://hackernoon.com/hn-images/1*IIKt9oYIhWsUQmsKoRZorQ.jpeg)

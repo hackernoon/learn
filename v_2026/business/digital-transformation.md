@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [digital-transformation](https://hackernoon.com/tagged/digital-transformation)
-### Let's learn about [Digital Transformation](https://hackernoon.com/tagged/digital-transformation) via these 362 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Digital Transformation](https://hackernoon.com/tagged/digital-transformation) via these 362 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 As the world of business continues to change, more and more companies adopt emerging technologies.
 

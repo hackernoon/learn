@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [marketing-strategies](https://hackernoon.com/tagged/marketing-strategies)
-### Let's learn about [Marketing Strategies](https://hackernoon.com/tagged/marketing-strategies) via these 260 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Marketing Strategies](https://hackernoon.com/tagged/marketing-strategies) via these 260 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 In this day and age, marketing is everything. Find the best strategies for you here. 
 

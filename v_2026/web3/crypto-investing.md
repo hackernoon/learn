@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [crypto-investing](https://hackernoon.com/tagged/crypto-investing)
-### Let's learn about [Crypto Investing](https://hackernoon.com/tagged/crypto-investing) via these 127 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Crypto Investing](https://hackernoon.com/tagged/crypto-investing) via these 127 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Crypto investing involves buying and selling cryptocurrencies with the aim of making a profit. It matters as it represents a new asset class and a decentralized alternative to traditional financial systems, offering potential for high returns but also significant risks.
+Crypto investing involves buying and selling cryptocurrencies in anticipation of price appreciation. It matters as it offers alternative investment opportunities, portfolio diversification, and a gateway into the burgeoning decentralized finance ecosystem, albeit with inherent volatility.
 
 ### [1. ZK-Rollups: 3 Cryptocurrencies to Explode in 2022 & 2023?](https://hackernoon.com/zk-rollups-3-cryptocurrencies-to-explode-in-2022-and-2023)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-wi0375b.jpeg)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [growth-hacking](https://hackernoon.com/tagged/growth-hacking)
-### Let's learn about [Growth Hacking](https://hackernoon.com/tagged/growth-hacking) via these 399 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Growth Hacking](https://hackernoon.com/tagged/growth-hacking) via these 399 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Learn, from people that walk the walk, how best to help new and existing companies acquire and retain customers. 
 

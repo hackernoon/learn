@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [terminal](https://hackernoon.com/tagged/terminal)
-### Let's learn about [Terminal](https://hackernoon.com/tagged/terminal) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Terminal](https://hackernoon.com/tagged/terminal) via these 62 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A terminal is a text-based interface for interacting with a computer's operating system by typing commands. It is a powerful tool for developers and system administrators, enabling direct and efficient control over system functions and automation.
+A text-based interface used to interact with an operating system, providing a powerful way to execute commands, automate tasks, and manage files.
 
 ### [1. How To Install Bash On Windows 10](https://hackernoon.com/how-to-install-bash-on-windows-10-lqb73yj3)
 ![](https://cdn.hackernoon.com/drafts/l1143y25.png)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [javascript-frameworks](https://hackernoon.com/tagged/javascript-frameworks)
-### Let's learn about [Javascript Frameworks](https://hackernoon.com/tagged/javascript-frameworks) via these 190 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Javascript Frameworks](https://hackernoon.com/tagged/javascript-frameworks) via these 190 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-JavaScript frameworks are collections of pre-written JavaScript code that provide a structured foundation for building web applications, streamlining development and enhancing maintainability. They are indispensable for efficient and scalable frontend development.
+JavaScript frameworks are pre-written JavaScript libraries and tools that provide a structured foundation for building dynamic web applications efficiently. They accelerate development, promote best practices, and help create complex, interactive user interfaces.
 
 ### [1. A Guide on How to Build a Blockchain with Javascript](https://hackernoon.com/a-guide-on-how-to-build-a-blockchain-with-javascript)
 ![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-fr93kla.png)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [computer-vision](https://hackernoon.com/tagged/computer-vision)
-### Let's learn about [Computer Vision](https://hackernoon.com/tagged/computer-vision) via these 346 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Computer Vision](https://hackernoon.com/tagged/computer-vision) via these 346 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Harnessing Artificial Intelligence to teach computers and systems how to  obtain meaningful information from Images. We look at tricks of the trade, evolving techniques and so forth.
 

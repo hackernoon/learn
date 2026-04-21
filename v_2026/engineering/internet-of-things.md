@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [internet-of-things](https://hackernoon.com/tagged/internet-of-things)
-### Let's learn about [Internet Of Things](https://hackernoon.com/tagged/internet-of-things) via these 166 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Internet Of Things](https://hackernoon.com/tagged/internet-of-things) via these 166 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 'The Internet of Things is not a concept; it is a network, the true technology-enabled Network of all networks.' - Edewede Oriwoh
 

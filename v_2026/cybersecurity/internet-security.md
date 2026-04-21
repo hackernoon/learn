@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [internet-security](https://hackernoon.com/tagged/internet-security)
-### Let's learn about [Internet Security](https://hackernoon.com/tagged/internet-security) via these 69 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Internet Security](https://hackernoon.com/tagged/internet-security) via these 69 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Internet security encompasses measures and protocols designed to protect computer systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction via the internet. It is essential for safeguarding personal information, business operations, and national infrastructure in an increasingly connected world.
+Internet security encompasses measures used to protect data and information transmitted over the internet from unauthorized access, use, or disruption. It matters for maintaining privacy, protecting sensitive information, and ensuring the trustworthiness of online interactions.
 
 ### [1. How to Avoid Credit Card Skimming: 5 Tips to Keep Your Information Safe](https://hackernoon.com/how-to-avoid-credit-card-skimming-5-tips-to-keep-your-information-safe)
 ![](https://cdn.hackernoon.com/images/FPmit8QxzXa6LLCPU0N2AMvjLCP2-um93r4d.jpeg)

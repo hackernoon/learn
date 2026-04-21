@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [product-design](https://hackernoon.com/tagged/product-design)
-### Let's learn about [Product Design](https://hackernoon.com/tagged/product-design) via these 319 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Product Design](https://hackernoon.com/tagged/product-design) via these 319 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 HackerNoon's product design stories, cover a unique selection of instances where user needs and business goals interact at the will of Product designers. Useful tips, emerging technology and witty circumvents are also explored.
 

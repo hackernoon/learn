@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [zero-knowledge-proofs](https://hackernoon.com/tagged/zero-knowledge-proofs)
-### Let's learn about [Zero Knowledge Proofs](https://hackernoon.com/tagged/zero-knowledge-proofs) via these 203 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Zero Knowledge Proofs](https://hackernoon.com/tagged/zero-knowledge-proofs) via these 203 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 OH: “I have a zero knowledge joke that I can prove is funny without telling you what it is.”
 

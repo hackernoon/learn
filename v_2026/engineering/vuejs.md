@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [vuejs](https://hackernoon.com/tagged/vuejs)
-### Let's learn about [Vuejs](https://hackernoon.com/tagged/vuejs) via these 99 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Vuejs](https://hackernoon.com/tagged/vuejs) via these 99 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Java's open source frameworks offer immense value. Vue Js, in the same vein, is approachable and possesses intuitive API and world class documentation.
 

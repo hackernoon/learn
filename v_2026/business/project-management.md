@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [project-management](https://hackernoon.com/tagged/project-management)
-### Let's learn about [Project Management](https://hackernoon.com/tagged/project-management) via these 372 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Project Management](https://hackernoon.com/tagged/project-management) via these 372 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 'How many project managers does it take to change a light bulb? Trick question. They can't actually do it. But they can record what percentage is complete.' 
 

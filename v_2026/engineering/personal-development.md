@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [personal-development](https://hackernoon.com/tagged/personal-development)
-### Let's learn about [Personal Development](https://hackernoon.com/tagged/personal-development) via these 445 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Personal Development](https://hackernoon.com/tagged/personal-development) via these 445 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Improving yourself is hard, but you don't have to go at it alone. Check out these stories to get on the road to success.
 

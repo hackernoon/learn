@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [fintech](https://hackernoon.com/tagged/fintech)
-### Let's learn about [Fintech](https://hackernoon.com/tagged/fintech) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Fintech](https://hackernoon.com/tagged/fintech) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Your knowledge of the Fintech industry can be improved right here.This community has got it all: from analysis of latest trends, to expert interviews. 
 

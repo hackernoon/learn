@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [django](https://hackernoon.com/tagged/django)
-### Let's learn about [Django](https://hackernoon.com/tagged/django) via these 132 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Django](https://hackernoon.com/tagged/django) via these 132 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It helps developers build robust and scalable web applications efficiently with its "batteries-included" approach.
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It helps developers build complex, database-driven websites quickly and efficiently with its "batteries included" philosophy.
 
 ### [1. Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-6i03atl.jpeg)

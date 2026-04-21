@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [virtual-reality](https://hackernoon.com/tagged/virtual-reality)
-### Let's learn about [Virtual Reality](https://hackernoon.com/tagged/virtual-reality) via these 340 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Virtual Reality](https://hackernoon.com/tagged/virtual-reality) via these 340 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 'Virtual reality (VR) is a simulated experience that can be similar to or completely different from the real world.' - Well that depends on your perception of the real world.
 

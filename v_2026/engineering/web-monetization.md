@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web-monetization](https://hackernoon.com/tagged/web-monetization)
-### Let's learn about [Web Monetization](https://hackernoon.com/tagged/web-monetization) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Web Monetization](https://hackernoon.com/tagged/web-monetization) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Web Monetization is a JavaScript browser API that allows the creation of a payment stream from the user agent to the website. It is actively being proposed as a W3C standard at the Web Platform Incubator Community Group. All of these stories are Web Monetized by the writer, meaning they automatically accept streaming payments from Coil members via the browser in real-time.
 

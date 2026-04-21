@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [redux](https://hackernoon.com/tagged/redux)
-### Let's learn about [Redux](https://hackernoon.com/tagged/redux) via these 63 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Redux](https://hackernoon.com/tagged/redux) via these 63 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 An open source javascript library, commonly used with libraries like React or Angular for building user interfaces. It is used for centralizing and managing application state.
 

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web3-development](https://hackernoon.com/tagged/web3-development)
-### Let's learn about [Web3 Development](https://hackernoon.com/tagged/web3-development) via these 202 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Web3 Development](https://hackernoon.com/tagged/web3-development) via these 202 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Web3 development involves building decentralized applications (dApps) and protocols leveraging blockchain technology, smart contracts, and tokenomics. It matters as it aims to create a more open, transparent, and user-centric internet, empowering users with greater control over their data and digital assets.
+Web3 development focuses on building decentralized applications (dApps) and protocols using blockchain technology, often incorporating cryptocurrencies and NFTs. It matters as it aims to create a more open, transparent, and user-controlled internet experience.
 
 ### [1. Building dApps that Last: Why Cairo is the Winner Programming Language for Web3 Devs](https://hackernoon.com/building-dapps-that-last-why-cairo-is-the-winner-programming-language-for-web3-devs)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-g8030xi.webp)

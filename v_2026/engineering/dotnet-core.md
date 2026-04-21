@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dotnet-core](https://hackernoon.com/tagged/dotnet-core)
-### Let's learn about [Dotnet Core](https://hackernoon.com/tagged/dotnet-core) via these 91 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Dotnet Core](https://hackernoon.com/tagged/dotnet-core) via these 91 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-ASP.NET Core (now part of .NET) is a free, cross-platform, open-source developer platform by Microsoft for building various modern applications, offering flexibility and performance for web, mobile, and cloud services. It matters by providing a versatile and robust framework for developing high-performance, cloud-native solutions across different operating systems.
+.NET Core is an open-source, cross-platform framework for building modern, cloud-based, internet-connected applications. It matters for its versatility in creating robust applications across Windows, macOS, and Linux, offering high performance and developer productivity.
 
 ### [1. Overloading Vs. Overriding in C#](https://hackernoon.com/overloading-vs-overriding-in-c-nn1331h4)
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-f99h31qw.jpeg)

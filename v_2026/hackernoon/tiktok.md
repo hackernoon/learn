@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tiktok](https://hackernoon.com/tagged/tiktok)
-### Let's learn about [Tiktok](https://hackernoon.com/tagged/tiktok) via these 113 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Tiktok](https://hackernoon.com/tagged/tiktok) via these 113 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-TikTok is a short-form video hosting service known for its highly personalized 'For You' page algorithm and extensive content creation tools. It matters as a global phenomenon, profoundly influencing social media, entertainment, and digital marketing trends.
+A short-form video hosting service, allowing users to create and share creative content, which has profoundly impacted social media and digital entertainment.
 
 ### [1. How to Hack TikTok Accounts : 5 Common Vulnerabilities](https://hackernoon.com/how-to-hack-tiktok-accounts-5-common-vulnerabilities-3a8337k2)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-76h352k.jpeg)

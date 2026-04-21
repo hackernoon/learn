@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [architecture](https://hackernoon.com/tagged/architecture)
-### Let's learn about [Architecture](https://hackernoon.com/tagged/architecture) via these 195 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Architecture](https://hackernoon.com/tagged/architecture) via these 195 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Architecture describes the fundamental structure of a system, encompassing its components, their relationships, and the principles guiding its design and evolution. Robust architecture is essential for creating scalable, maintainable, and resilient software solutions.
+Architecture refers to the fundamental structure of a software system, encompassing its components, their relationships, and the principles guiding its design and evolution. A well-defined architecture is critical for ensuring a system is scalable, maintainable, and robust in the long term.
 
 ### [1. Best Practices for Event-Driven Microservice Architecture](https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk)
 ![](https://cdn.hackernoon.com/images/641v21y4.jpg)

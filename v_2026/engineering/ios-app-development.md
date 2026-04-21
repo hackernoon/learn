@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ios-app-development](https://hackernoon.com/tagged/ios-app-development)
-### Let's learn about [Ios App Development](https://hackernoon.com/tagged/ios-app-development) via these 216 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ios App Development](https://hackernoon.com/tagged/ios-app-development) via these 217 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Developing apps for iOS can be tricky. That's why we have these handy articles to help out. 
 
@@ -879,4 +879,8 @@ Validator is a modern, lightweight Swift framework that provides elegant and typ
 ### [216. Benchmarking Xcode Availability Across Hosted CICD Services](https://hackernoon.com/benchmarking-xcode-availability-across-hosted-cicd-services-nq2x32ge)
 ![](https://cdn.hackernoon.com/images/CdA2GWJS37fn9aPl047oAZhHYRC2-uo3z33yo.jpeg)
 Xcode versions are the drumbeat iOS teams all around the world march to. Rapid access to Xcode versions ensures that apps are submitted, and updated on time
+
+### [217. How I Built an Offline-First iOS App Without a Backend](https://hackernoon.com/how-i-built-an-offline-first-ios-app-without-a-backend)
+![](https://cdn.hackernoon.com/images/a-mobile-phone-functioning-as-a-self-contained-system-managing-data-storage-and-operations-without-external-servers-no-text-qkpg27df29cmbcsrtb3nujfu.png)
+I built a full iOS app with zero backend infrastructure. Actor-based storage, JSON persistence, and Google Drive as the only cloud layer. Here's every decision.
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [saas](https://hackernoon.com/tagged/saas)
-### Let's learn about [Saas](https://hackernoon.com/tagged/saas) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Saas](https://hackernoon.com/tagged/saas) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 All SaaS related stories sorted in one nice internet space. From growth stories, lessons on entrepreneurship, to breaking down business models and more:
 

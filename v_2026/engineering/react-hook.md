@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [react-hook](https://hackernoon.com/tagged/react-hook)
-### Let's learn about [React Hook](https://hackernoon.com/tagged/react-hook) via these 60 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [React Hook](https://hackernoon.com/tagged/react-hook) via these 60 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-React Hooks are functions that let you
+React Hooks are functions that let you 'hook into' React state and lifecycle features from function components. They simplify state management and side effects, making component logic more reusable and easier to test within React applications.
 
 ### [1. How to use componentWillMount with Functional Components in React](https://hackernoon.com/how-to-use-componentwillmount-with-functional-components-in-react-fc143u9d)
 ![](https://cdn.hackernoon.com/drafts/mv1331n3.png)

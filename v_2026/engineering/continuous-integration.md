@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [continuous-integration](https://hackernoon.com/tagged/continuous-integration)
-### Let's learn about [Continuous Integration](https://hackernoon.com/tagged/continuous-integration) via these 156 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Continuous Integration](https://hackernoon.com/tagged/continuous-integration) via these 156 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 A vital process in software development and delivery, where code changes from multiple contributors on a single software project are continuously integrated
 

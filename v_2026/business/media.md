@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [media](https://hackernoon.com/tagged/media)
-### Let's learn about [Media](https://hackernoon.com/tagged/media) via these 145 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Media](https://hackernoon.com/tagged/media) via these 145 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Media refers to the various means of mass communication, including television, radio, newspapers, magazines, and the internet, used to deliver news, entertainment, and information. It plays a pivotal role in shaping public opinion and disseminating culture.
+Media refers to the collective communication outlets or tools used to store and deliver information or data, encompassing various forms like news, entertainment, and digital content. Media plays a central role in shaping public opinion, disseminating knowledge, and providing cultural experiences.
 
 ### [1. How to Get Around Paywalls on Major Websites](https://hackernoon.com/how-to-get-around-paywalls-on-major-websites)
 ![](https://cdn.hackernoon.com/images/n5jC2PDrb9hJje5wDf8NTMHI6YY2-dq034ia.jpeg)

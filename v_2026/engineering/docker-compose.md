@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [docker-compose](https://hackernoon.com/tagged/docker-compose)
-### Let's learn about [Docker Compose](https://hackernoon.com/tagged/docker-compose) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Docker Compose](https://hackernoon.com/tagged/docker-compose) via these 62 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Docker Compose is a tool for defining and running multi-container Docker applications, simplifying the orchestration and deployment of complex, interconnected services with a single configuration file. It matters by streamlining development workflows for containerized applications, making it easier to manage and deploy distributed systems.
+Docker Compose is a tool for defining and running multi-container Docker applications. It matters for simplifying the management of complex microservice architectures and development environments by enabling services to be configured and launched with a single command.
 
 ### [1. How To Debug PHP Container With Xdebug And PhpStorm](https://hackernoon.com/how-to-debug-php-container-with-xdebug-and-phpstorm-1b2k3yjo)
 ![](https://cdn.hackernoon.com/drafts/th4t3y9u.png)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [decentralized-exchange](https://hackernoon.com/tagged/decentralized-exchange)
-### Let's learn about [Decentralized Exchange](https://hackernoon.com/tagged/decentralized-exchange) via these 123 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Decentralized Exchange](https://hackernoon.com/tagged/decentralized-exchange) via these 123 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A decentralized exchange (DEX) is a cryptocurrency exchange that operates without a central authority, allowing peer-to-peer cryptocurrency trading directly on the blockchain. DEXs are vital for promoting financial autonomy and reducing counterparty risk by eliminating the need for intermediaries.
+A peer-to-peer cryptocurrency exchange operating without a central authority, offering enhanced security and user control over funds.
 
 ### [1. Are IDOs the Next Alternative to IEOs and ICOs?](https://hackernoon.com/what-is-ido-the-new-alternative-to-ieo-and-ico-70l34zf)
 ![](https://hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-ku5x3ex4.jpeg)

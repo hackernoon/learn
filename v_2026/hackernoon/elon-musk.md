@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [elon-musk](https://hackernoon.com/tagged/elon-musk)
-### Let's learn about [Elon Musk](https://hackernoon.com/tagged/elon-musk) via these 288 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Elon Musk](https://hackernoon.com/tagged/elon-musk) via these 288 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 CEO of Tesla and SpaceX.
 

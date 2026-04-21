@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [agile](https://hackernoon.com/tagged/agile)
-### Let's learn about [Agile](https://hackernoon.com/tagged/agile) via these 330 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Agile](https://hackernoon.com/tagged/agile) via these 330 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The waterfall approach to handling tasks is antiquated. Embrace rapid application development using iterative task management and Scrum.
 

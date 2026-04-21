@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [operating-systems](https://hackernoon.com/tagged/operating-systems)
-### Let's learn about [Operating Systems](https://hackernoon.com/tagged/operating-systems) via these 106 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Operating Systems](https://hackernoon.com/tagged/operating-systems) via these 106 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Operating systems (OS) are software that manage computer hardware and software resources, providing a foundation for running applications and interacting with devices. Essential for any computing system, an OS handles tasks like memory management, process scheduling, and file system operations.
+Operating systems are software that manage computer hardware and software resources, providing common services for computer programs. They are essential for the fundamental operation and user interaction with any computer device.
 
 ### [1. Apple M1 Chip: How To Install Homebrew Using Rosetta](https://hackernoon.com/apple-m1-chip-how-to-install-homebrew-using-rosetta-su12331b)
 ![](https://hackernoon.com/images/KECnMDPcEadsrWEAtYTrZtboGmW2-9a6p33gg.jpeg)

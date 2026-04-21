@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ethereum-blockchain](https://hackernoon.com/tagged/ethereum-blockchain)
-### Let's learn about [Ethereum Blockchain](https://hackernoon.com/tagged/ethereum-blockchain) via these 234 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ethereum Blockchain](https://hackernoon.com/tagged/ethereum-blockchain) via these 234 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-The Ethereum blockchain is a decentralized, open-source blockchain with smart contract functionality, enabling the creation of decentralized applications (dApps). It is a foundational technology for web3, powering cryptocurrencies, DeFi, NFTs, and a vast ecosystem of innovative applications.
+A decentralized, open-source blockchain with smart contract functionality, serving as a foundational platform for dApps, DeFi, and NFTs.
 
 ### [1. "Ethereum will be Bigger than AWS, Azure and Google Combined" - Pekka Kelkka](https://hackernoon.com/ethereum-will-be-bigger-than-aws-azure-and-google-combined-pekka-kelkka-bv1737n6)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ku1g3dxi.jpeg)
@@ -791,102 +791,102 @@ REINNO CEO discusses commercial mortgages on blockchain, Ethereum 2.0, getting p
 ![](https://cdn.hackernoon.com/images/Y0BCqyw0FHUbHq4C2tHsuY0hIUA3-xs23a4p.jpeg)
 Arcana Network runs on its blockchain, independent of a large centralized entity. have no central storage. Data Privacy on the blockchain.
 
-### [195. JUST IN: Ethereum Foundation Moves Entire $650M+ Treasury To Safe Multisig](https://hackernoon.com/just-in-ethereum-foundation-moves-entire-$650m-treasury-to-safe-multisig)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-wu03ezu.jpeg)
-EF completes full treasury migration to Safe smart accounts, joining Vitalik Buterin as key Safe user + Safe smart accounts cross 750M transactions milestone.  
-
-### [196. Understanding Account Abstraction: DeFi’s Next Stage of Evolution](https://hackernoon.com/understanding-account-abstraction-defis-next-stage-of-evolution)
+### [195. Understanding Account Abstraction: DeFi’s Next Stage of Evolution](https://hackernoon.com/understanding-account-abstraction-defis-next-stage-of-evolution)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6482r7d.png)
 Discover the game-changing concept of account abstraction in decentralized finance (DeFi) and learn how account abstraction enhances the overall DeFi experience
 
-### [197. Beyond Sharding and Rollups: A New Approach to Blockchain Scalability](https://hackernoon.com/beyond-sharding-and-rollups-a-new-approach-to-blockchain-scalability)
+### [196. Beyond Sharding and Rollups: A New Approach to Blockchain Scalability](https://hackernoon.com/beyond-sharding-and-rollups-a-new-approach-to-blockchain-scalability)
 ![](https://cdn.hackernoon.com/images/qIwa5JrczsQpHm5CJhotffdA2IC3-j69342i.jpeg)
 Vitalik Buterin’s arguments for Ethereum scalability through ZK rollups overlook a fundamental issue: the coupling of the business and network layers.
 
-### [198. Everything You Need to Know About Ethereum's Upcoming Shanghai Upgrade](https://hackernoon.com/everything-you-need-to-know-about-ethereums-upcoming-shanghai-upgrade)
+### [197. Everything You Need to Know About Ethereum's Upcoming Shanghai Upgrade](https://hackernoon.com/everything-you-need-to-know-about-ethereums-upcoming-shanghai-upgrade)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-s693zx8.jpeg)
 The Ethereum's Shanghai upgrade is coming this March. It will enable network validators to release staked ETH and can make its price more volatile.
 
-### [199. The HackerNoon Newsletter: Futures of Ethereum II - Censorship Resistance (2/16/2025)](https://hackernoon.com/2-16-2025-newsletter)
+### [198. The HackerNoon Newsletter: Futures of Ethereum II - Censorship Resistance (2/16/2025)](https://hackernoon.com/2-16-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_16_sccrxregy1m2yx47eesco35n.png)
 2/16/2025: Top 5 stories on the HackerNoon homepage!
 
-### [200. Ethereum’s Node Problem: Who Really Hosts Web3?](https://hackernoon.com/ethereums-node-problem-who-really-hosts-web3)
+### [199. Ethereum’s Node Problem: Who Really Hosts Web3?](https://hackernoon.com/ethereums-node-problem-who-really-hosts-web3)
 ![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-ws03ksw.jpeg)
 Ethereum may be the world’s most decentralized smart contract platform, but look beneath the surface and a different story emerges. 
 
-### [201. How to Calculate The Attack Costs Of Different Oracle Networks: The Key Concepts](https://hackernoon.com/how-to-calculate-the-attack-costs-of-different-oracle-networks-the-key-concepts)
+### [200. How to Calculate The Attack Costs Of Different Oracle Networks: The Key Concepts](https://hackernoon.com/how-to-calculate-the-attack-costs-of-different-oracle-networks-the-key-concepts)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-rh8323w.jpeg)
 In this presentation, Clément Lesaege, co-founder of Kleros, presented the attack costs of different oracle networks and how to calculate the potential profit.
 
-### [202. MetaWin Announces Innovative TOKENIZED Tesla Cybertruck Contest On Ethereum's Base Layer 2 Protocol](https://hackernoon.com/metawin-announces-innovative-tokenized-tesla-cybertruck-contest-on-ethereums-base-layer-2-protocol)
+### [201. MetaWin Announces Innovative TOKENIZED Tesla Cybertruck Contest On Ethereum's Base Layer 2 Protocol](https://hackernoon.com/metawin-announces-innovative-tokenized-tesla-cybertruck-contest-on-ethereums-base-layer-2-protocol)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-v7837aj.jpeg)
  At the competition's conclusion, the winner may opt to have the Cybertruck delivered directly or choose an alternative prize of $125,000 in USDC/T, should deli
 
-### [203. "My mission has always been about freedom," says Anthony Di Iorio, Ethereum Co-founder](https://hackernoon.com/my-mission-has-always-been-about-freedom-says-anthony-di-iorio-ethereum-co-founder)
+### [202. "My mission has always been about freedom," says Anthony Di Iorio, Ethereum Co-founder](https://hackernoon.com/my-mission-has-always-been-about-freedom-says-anthony-di-iorio-ethereum-co-founder)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-wz92k5v.gif.webp)
 “My mission has always been about freedom. As I mentioned, I don’t like school — I never liked being told what to do," says Anthony Di Iorio Ethereum Co-founder
 
-### [204. Stop Calling Ethereum ‘Crypto Silver’—It’s So Much More](https://hackernoon.com/stop-calling-ethereum-crypto-silverits-so-much-more)
+### [203. Stop Calling Ethereum ‘Crypto Silver’—It’s So Much More](https://hackernoon.com/stop-calling-ethereum-crypto-silverits-so-much-more)
 ![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-34031y8.webp)
 Ethereum isn’t just silver. It’s the backbone of this entire decentralised world and still have a lot of potential to grow more in the future
 
-### [205. Building Better Blockchain Artefacts](https://hackernoon.com/building-better-blockchain-artefacts)
+### [204. Building Better Blockchain Artefacts](https://hackernoon.com/building-better-blockchain-artefacts)
 ![](https://cdn.hackernoon.com/images/trading-chart-on-a-laptop-screen-izrawrhmmmzck1oww4nns6gl.png)
 This research explores design science methodology for building effective blockchain artifacts. 
 
-### [206. How Predicting Access Lists Can Be a Potential Way to Speed Up Evm for Portal Clients](https://hackernoon.com/how-predicting-access-lists-can-be-a-potential-way-to-speed-up-evm-for-portal-clients)
+### [205. How Predicting Access Lists Can Be a Potential Way to Speed Up Evm for Portal Clients](https://hackernoon.com/how-predicting-access-lists-can-be-a-potential-way-to-speed-up-evm-for-portal-clients)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-6693lda.jpeg)
 Learn how predicting the access list is a potential solution to speed up EVM execution for portal clients.
 
-### [207. DeFi Tips - Useful tools for Ethereum blockchain](https://hackernoon.com/defi-tips-useful-tools-for-ethereum-blockchain-xah334s)
+### [206. DeFi Tips - Useful tools for Ethereum blockchain](https://hackernoon.com/defi-tips-useful-tools-for-ethereum-blockchain-xah334s)
 ![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-chd390m.png)
 Do You know which are the best tools for DeFi? Check more here
 
-### [208. Celebrating The Success Of Zircuit’s ZRC EigenLayer Fairdrop](https://hackernoon.com/celebrating-the-success-of-zircuits-zrc-eigenlayer-fairdrop)
+### [207. Celebrating The Success Of Zircuit’s ZRC EigenLayer Fairdrop](https://hackernoon.com/celebrating-the-success-of-zircuits-zrc-eigenlayer-fairdrop)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-sb023cr.jpeg)
 With a first-of-its-kind distribution of 2% of ZRC tokens to eligible EIGEN holders, Zircuit has introduced a model of fairness and inclusivity in the Ethereum 
 
-### [209. TrumpCrypto.io Launches $TRUMP Coin with Focus on Social Impact and Practical Uses](https://hackernoon.com/$trump-presale-now-live-on-trumpcrypto)
+### [208. TrumpCrypto.io Launches $TRUMP Coin with Focus on Social Impact and Practical Uses](https://hackernoon.com/$trump-presale-now-live-on-trumpcrypto)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-dy8362v.jpeg)
 $TRUMP Coin: A Revolutionary Cryptocurrency with Real-World Utility and Philanthropic Mission.
 
-### [210. Here's How Hardhat Simplifies Smart Contract Verification on Ethereum](https://hackernoon.com/heres-how-hardhat-simplifies-smart-contract-verification-on-ethereum)
+### [209. Here's How Hardhat Simplifies Smart Contract Verification on Ethereum](https://hackernoon.com/heres-how-hardhat-simplifies-smart-contract-verification-on-ethereum)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-uz93wbw.jpeg)
 Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. 
 
-### [211. An Intro to Ethermore: A Blockchain RPG Built by the Community](https://hackernoon.com/an-intro-to-ethermore-a-blockchain-rpg-built-by-the-community)
+### [210. An Intro to Ethermore: A Blockchain RPG Built by the Community](https://hackernoon.com/an-intro-to-ethermore-a-blockchain-rpg-built-by-the-community)
 ![](https://cdn.hackernoon.com/images/sj8BfOM05GebRMcAUS2lS44DaQ83-mq0375n.jpeg)
 Ethermore is a blockchain RPG and emerging fantasy world built on the Ethereum blockchain.
 
-### [212. Scaling Ethereum Blockchain Applications via Altcoins
+### [211. Scaling Ethereum Blockchain Applications via Altcoins
 and Chain Solutions](https://hackernoon.com/scaling-ethereum-blockchain-applications-via-altcoins-and-chain-solutions-cv1k34jl)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9m1534xd.jpeg)
 As you may know, there are differences between horizontal and vertical scaling in distributed systems which we have covered in another article (Horizontal Scaling versus Vertical Scaling in Distributed Systems). So in this article, we take a next step by learning how to scale up Ethereum blockchain applications.  We will also review different scaling solutions for Ethereum blockchain applications. To follow and understand concepts discussed in this article, we are assuming you’ve a basic understanding of blockchain technology and Ethereum. 
 
-### [213. GAS in Ethereum: Everything You Ever Wanted To Know](https://hackernoon.com/gas-in-ethereum-everything-you-ever-wanted-to-know-j82m3z6v)
+### [212. GAS in Ethereum: Everything You Ever Wanted To Know](https://hackernoon.com/gas-in-ethereum-everything-you-ever-wanted-to-know-j82m3z6v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkuGSv82WVjg0Rg1B2LpgBSZbY7p1-8g1g3wt6.png?alt=media&token=662c45f0-6e59-444e-abbc-ccec7499c0bd)
 Initially, Ethereum was not created as a payment system, but rather as a tool for creating decentralized applications (DApps), in which any operation is managed through smart contracts. 
 
-### [214. Differences Between Proof of Work and Proof of Stake Network When  Buying Ethereum](https://hackernoon.com/differences-between-proof-of-work-and-proof-of-stake-network-when-buying-ethereum)
+### [213. Differences Between Proof of Work and Proof of Stake Network When  Buying Ethereum](https://hackernoon.com/differences-between-proof-of-work-and-proof-of-stake-network-when-buying-ethereum)
 ![](https://cdn.hackernoon.com/images/Ypdd2zdgN8XDBX9XVlJ5pD5uxJK2-kp92isp.jpeg)
 Since the recent launch of Ethereum's new network called proof of stake, there have been multiple questions on how it differentiates from the already existing proof of work mining network and how it will affect people that buy Ethereum. It has become a major concern among investors, traders, cryptocurrency enthusiasts, and those who buy Ethereum. 
 
-### [215. Crypto: The Frontier of the Information Age](https://hackernoon.com/crypto-the-frontier-of-the-information-age)
+### [214. Crypto: The Frontier of the Information Age](https://hackernoon.com/crypto-the-frontier-of-the-information-age)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-kp13oe8.jpeg)
 On conquest, risk, and reward in the new decentralized open economy and how cryptocurrencies like Ethereum fit into the historical patters of discovery. 
 
-### [216. INTMAX Launches First Stateless Layer 2 Payment Solution On Ethereum](https://hackernoon.com/intmax-launches-first-stateless-layer-2-payment-solution-on-ethereum)
+### [215. INTMAX Launches First Stateless Layer 2 Payment Solution On Ethereum](https://hackernoon.com/intmax-launches-first-stateless-layer-2-payment-solution-on-ethereum)
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-eo023l8.png)
 With enough processing capacity to support the entire global population on Ethereum, the platform delivers unprecedented scalability, keeps transaction costs co
 
-### [217. Solidity: Utilizing Set Structure](https://hackernoon.com/leveraging-the-set-structure-in-solidity)
+### [216. Solidity: Utilizing Set Structure](https://hackernoon.com/leveraging-the-set-structure-in-solidity)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-iaa35iw.jpeg)
 Leveraging the Set Structure in Solidity
 
-### [218. Lif3 Accelerates DeFi Adoption And Innovation With BitFinex Listing](https://hackernoon.com/lif3-accelerates-defi-adoption-and-innovation-with-bitfinex-listing)
+### [217. Lif3 Accelerates DeFi Adoption And Innovation With BitFinex Listing](https://hackernoon.com/lif3-accelerates-defi-adoption-and-innovation-with-bitfinex-listing)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-tz832sx.jpeg)
  $LIF3, a ground-breaking and complete omni-chain DeFi Layer-1 Curated Blockchain ecosystem, announces its recent listing on Bitfinex 
+
+### [218. JUST IN: Ethereum Foundation Moves Entire $650M+ Treasury To Safe Multisig](https://hackernoon.com/just-in-ethereum-foundation-moves-entire-$650m-treasury-to-safe-multisig)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-wu03ezu.jpeg)
+EF completes full treasury migration to Safe smart accounts, joining Vitalik Buterin as key Safe user + Safe smart accounts cross 750M transactions milestone.  
 
 ### [219. Ethereum-Based Tokenized Real Estate Platform USP Launches On Republic](https://hackernoon.com/ethereum-based-tokenized-real-estate-platform-usp-launches-on-republic)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-eh83317.jpeg)

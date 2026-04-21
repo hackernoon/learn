@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [scam](https://hackernoon.com/tagged/scam)
-### Let's learn about [Scam](https://hackernoon.com/tagged/scam) via these 60 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Scam](https://hackernoon.com/tagged/scam) via these 60 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "The key to my success was my ability to be a chameleon, to adapt and become whoever I needed to be in order to pull off my schemes," Frank Abagnale Jr.
 

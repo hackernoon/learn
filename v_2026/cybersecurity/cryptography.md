@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptography](https://hackernoon.com/tagged/cryptography)
-### Let's learn about [Cryptography](https://hackernoon.com/tagged/cryptography) via these 243 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Cryptography](https://hackernoon.com/tagged/cryptography) via these 243 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The art and science of encrypting your messages before sending them out. From Hitler's Enigma to your Whatsapp messages, cryptography has seen it all.
 

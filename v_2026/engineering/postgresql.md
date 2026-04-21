@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [postgresql](https://hackernoon.com/tagged/postgresql)
-### Let's learn about [Postgresql](https://hackernoon.com/tagged/postgresql) via these 144 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Postgresql](https://hackernoon.com/tagged/postgresql) via these 144 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-PostgreSQL is a powerful, open-source object-relational database system known for its strong reliability, feature robustness, and performance. It is widely used for critical data storage due to its advanced features and compliance with ACID properties.
+A powerful, open-source object-relational database system, renowned for its reliability, feature robustness, and performance in handling complex data.
 
 ### [1. Setting up Continuous PostgreSQL Backups](https://hackernoon.com/setting-up-continuous-postgresql-backups)
 ![](https://cdn.hackernoon.com/images/MsR1S76Pr8XibciqwaeZRXTFpAz1-ej93jt9.jpeg)

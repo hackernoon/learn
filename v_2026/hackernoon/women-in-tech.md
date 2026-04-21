@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [women-in-tech](https://hackernoon.com/tagged/women-in-tech)
-### Let's learn about [Women In Tech](https://hackernoon.com/tagged/women-in-tech) via these 268 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Women In Tech](https://hackernoon.com/tagged/women-in-tech) via these 268 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 “Don’t worry about being successful but work toward being significant and the success will naturally follow.” - Oprah Winfrey
 

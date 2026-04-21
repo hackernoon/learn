@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [aspnet](https://hackernoon.com/tagged/aspnet)
-### Let's learn about [Aspnet](https://hackernoon.com/tagged/aspnet) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Aspnet](https://hackernoon.com/tagged/aspnet) via these 50 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-ASP.NET is an open-source web framework developed by Microsoft for building dynamic web applications and services. It is crucial for developers seeking to create scalable, high-performance web solutions, particularly within the Microsoft ecosystem.
+A free, cross-platform, open-source framework for building modern, cloud-based, internet-connected applications, enabling rapid web development.
 
 ### [1. ASP.NET Core — How to use Dependency Injection in Entity Framework Core](https://hackernoon.com/asp-net-core-how-to-use-dependency-injection-in-entity-framework-core-4388fc5c148b)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ln03b4l.png)

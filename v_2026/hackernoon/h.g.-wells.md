@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [h.g.-wells](https://hackernoon.com/tagged/h.g.-wells)
-### Let's learn about [H.g. Wells](https://hackernoon.com/tagged/h.g.-wells) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [H.g. Wells](https://hackernoon.com/tagged/h.g.-wells) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-H.G. Wells was a prolific English writer, often regarded as the "father of science fiction," known for works like "The War of the Worlds" and "The Time Machine." His literary contributions matter significantly for pioneering and popularizing the genre, inspiring countless future writers and shaping societal views on technology and the future.
+A renowned English writer, often called the "father of science fiction," whose works explored futuristic concepts and societal impacts of technology.
 
 ### [1. A DREAM OF ARMAGEDDON](https://hackernoon.com/a-dream-of-armageddon)
 ![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-xew3lks.jpeg)

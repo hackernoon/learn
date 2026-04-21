@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [agile-development](https://hackernoon.com/tagged/agile-development)
-### Let's learn about [Agile Development](https://hackernoon.com/tagged/agile-development) via these 98 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Agile Development](https://hackernoon.com/tagged/agile-development) via these 98 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Agile development is an iterative approach to software development that emphasizes collaboration, flexibility, continuous improvement, and rapid delivery of working software. It helps teams respond effectively to change and deliver value quickly in complex projects.
+Agile development is an iterative and incremental approach to software development that focuses on flexibility, collaboration, and rapid delivery of working software. It helps teams adapt quickly to changing requirements and deliver value continuously.
 
 ### [1. McKinsey’s “Agile Transformation Office” is the Final Nail in the Coffin](https://hackernoon.com/mckinseys-agile-transformation-office-is-the-final-nail-in-the-coffin-7x3937vn)
 ![](https://cdn.hackernoon.com/images/ANOvK6YEO3VsptqSywRdUlk1LnD3-q1j359p.jpeg)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [founders](https://hackernoon.com/tagged/founders)
-### Let's learn about [Founders](https://hackernoon.com/tagged/founders) via these 396 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Founders](https://hackernoon.com/tagged/founders) via these 396 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Where founders share what they learn on the go. Read founder-related content: everything from challenges, success stories, leadership tips, to experiments.
 

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [social-engineering](https://hackernoon.com/tagged/social-engineering)
-### Let's learn about [Social Engineering](https://hackernoon.com/tagged/social-engineering) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Social Engineering](https://hackernoon.com/tagged/social-engineering) via these 62 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Social engineering is the psychological manipulation of people into performing actions or divulging confidential information, representing a significant cybersecurity threat. Understanding its tactics is crucial for individuals and organizations to defend against malicious attacks and protect sensitive data.
+Social engineering is the psychological manipulation of people into performing actions or divulging confidential information, often used in cybersecurity attacks. Understanding it is crucial for individuals and organizations to defend against phishing, impersonation, and other deceptive tactics.
 
 ### [1. 5 Best Cybersecurity Books for Beginners](https://hackernoon.com/5-best-cybersecurity-books-for-beginners-1z4l37ji)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-s56w35n6.jpeg)

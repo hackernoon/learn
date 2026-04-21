@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blockchain-gaming](https://hackernoon.com/tagged/blockchain-gaming)
-### Let's learn about [Blockchain Gaming](https://hackernoon.com/tagged/blockchain-gaming) via these 352 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Blockchain Gaming](https://hackernoon.com/tagged/blockchain-gaming) via these 352 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Blockchain gaming integrates blockchain technology into video games, often featuring NFTs for in-game assets and play-to-earn models. This innovation matters by giving players true ownership of digital items and creating new economic incentives within gaming ecosystems.
+Video games built on blockchain technology, integrating NFTs and cryptocurrencies to enable true digital ownership and new economic models for players.
 
 ### [1. double jump.tokyo to Produce Three Kingdoms Inspired Blockchain TCG Licensed from SEGA Corporation](https://hackernoon.com/sega-enters-the-web3-gaming-scene-in-partnership-with-doublejumptokyo)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-cl93thl.png)

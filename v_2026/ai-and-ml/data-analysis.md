@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-analysis](https://hackernoon.com/tagged/data-analysis)
-### Let's learn about [Data Analysis](https://hackernoon.com/tagged/data-analysis) via these 427 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Data Analysis](https://hackernoon.com/tagged/data-analysis) via these 427 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "Data is a precious thing and will last longer than the systems themselves" ~ Tim Berners Lee 
 

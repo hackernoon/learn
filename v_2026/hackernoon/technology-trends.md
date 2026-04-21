@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [technology-trends](https://hackernoon.com/tagged/technology-trends)
-### Let's learn about [Technology Trends](https://hackernoon.com/tagged/technology-trends) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Technology Trends](https://hackernoon.com/tagged/technology-trends) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Trends come and go, but there's a chance you'll find a long-lasting trend in one of these stories. 
 

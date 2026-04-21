@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [information-security](https://hackernoon.com/tagged/information-security)
-### Let's learn about [Information Security](https://hackernoon.com/tagged/information-security) via these 178 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Information Security](https://hackernoon.com/tagged/information-security) via these 178 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Information security is the practice of protecting information by mitigating information risks, ensuring confidentiality, integrity, and availability of data. It is paramount in the digital age to defend against cyber threats and maintain trust in information systems.
+The practice of protecting information systems from unauthorized access, use, disclosure, disruption, modification, or destruction, critical for safeguarding data in the digital age.
 
 ### [1. Databases and Blockchains, The Difference Is In Their Purpose And Design](https://hackernoon.com/databases-and-blockchains-the-difference-is-in-their-purpose-and-design-56ba6335778b)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-as03bvp.png)

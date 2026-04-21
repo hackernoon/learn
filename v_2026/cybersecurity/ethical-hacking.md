@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ethical-hacking](https://hackernoon.com/tagged/ethical-hacking)
-### Let's learn about [Ethical Hacking](https://hackernoon.com/tagged/ethical-hacking) via these 90 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ethical Hacking](https://hackernoon.com/tagged/ethical-hacking) via these 90 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Ethical hacking is the practice of legally identifying vulnerabilities in computer systems and networks with the owner's permission to improve security. This proactive approach is vital for defending against malicious cyberattacks and strengthening digital defenses.
+Ethical hacking is the practice of identifying vulnerabilities in computer systems and networks to improve security, performed with the owner's permission. It's vital for proactively protecting digital assets against malicious attacks by simulating real-world threats.
 
 ### [1. 3 Flipper Zero Hacks to Wow Your Friends (and How They Work)](https://hackernoon.com/3-flipper-zero-hacks-to-wow-your-friends-and-how-they-work)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-yza3p30.png)

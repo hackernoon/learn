@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [robotics](https://hackernoon.com/tagged/robotics)
-### Let's learn about [Robotics](https://hackernoon.com/tagged/robotics) via these 224 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Robotics](https://hackernoon.com/tagged/robotics) via these 224 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Robotics aren't just here to stay, they'll continously play a bigger role in our lives. Read about the latest here. 
 

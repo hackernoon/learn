@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [solid-principles](https://hackernoon.com/tagged/solid-principles)
-### Let's learn about [Solid Principles](https://hackernoon.com/tagged/solid-principles) via these 54 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Solid Principles](https://hackernoon.com/tagged/solid-principles) via these 54 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-SOLID principles are five design principles intended to make software designs more understandable, flexible, and maintainable. Adhering to these principles is essential for developing robust, scalable, and high-quality object-oriented software systems.
+Five design principles intended to make software designs more understandable, flexible, and maintainable, crucial for building robust and scalable object-oriented systems.
 
 ### [1. SOLID Principles in Smart Contract Development](https://hackernoon.com/solid-principles-in-smart-contract-development)
 ![](https://cdn.hackernoon.com/images/lokbjQEefQRUe8qF8EHzsPop2hP2-7te3xsi.jpeg)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [redis](https://hackernoon.com/tagged/redis)
-### Let's learn about [Redis](https://hackernoon.com/tagged/redis) via these 91 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Redis](https://hackernoon.com/tagged/redis) via these 91 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Redis is an open-source, in-memory data structure store, used as a database, cache, and message broker. It is critical for high-performance applications that require fast data access, offering excellent speed and versatility for various use cases.
+An open-source, in-memory data structure store, used as a database, cache, and message broker, valued for its speed and versatility in high-performance applications.
 
 ### [1. In-Memory Caching in Golang](https://hackernoon.com/in-memory-caching-in-golang)
 ![](https://cdn.hackernoon.com/images/uUy2hcEeUBUzpB2avIU9bM9u8Gt2-o2037pl.jpeg)

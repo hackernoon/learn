@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [electronics](https://hackernoon.com/tagged/electronics)
-### Let's learn about [Electronics](https://hackernoon.com/tagged/electronics) via these 61 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Electronics](https://hackernoon.com/tagged/electronics) via these 61 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Electronics is the science and technology of controlling electric current for various applications, forming the fundamental building blocks of all modern technological devices. It underpins everything from computers and communication systems to smart devices, driving innovation across industries.
+Electronics is the branch of physics and engineering dealing with the control of electron flow, used in devices like computers, communication systems, and consumer gadgets. It forms the fundamental basis for modern technology and innovation across industries.
 
 ### [1. Turn your old useless laptop screen into an external monitor](https://hackernoon.com/https-medium-com-akshaykore-diy-monitor-410ac3bbb6b9)
 ![](hn-images/1*_gCWTqscCNCqVQ3NPlwqng@2x.jpeg)

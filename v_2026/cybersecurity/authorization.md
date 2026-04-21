@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [authorization](https://hackernoon.com/tagged/authorization)
-### Let's learn about [Authorization](https://hackernoon.com/tagged/authorization) via these 68 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Authorization](https://hackernoon.com/tagged/authorization) via these 68 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Authorization is the function of specifying access rights to resources, a fundamental security mechanism in computing systems to control who can do what. It is crucial for protecting sensitive data and ensuring that only approved users or systems can perform specific actions.
+Authorization is the process of determining whether a user, program, or process is permitted to access a resource or perform an action. It is a critical security mechanism, ensuring that only authorized entities can interact with sensitive data and systems.
 
 ### [1. Using SuperTokens in a VueJS App With Your Own UI](https://hackernoon.com/using-supertokens-in-a-vuejs-app-with-your-own-ui)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-2z92ocu.png)

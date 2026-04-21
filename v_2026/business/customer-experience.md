@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [customer-experience](https://hackernoon.com/tagged/customer-experience)
-### Let's learn about [Customer Experience](https://hackernoon.com/tagged/customer-experience) via these 286 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Customer Experience](https://hackernoon.com/tagged/customer-experience) via these 286 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The core of every business is to ensure that they not only offer value to their customers, but that their customers have a great experience in the process.
 

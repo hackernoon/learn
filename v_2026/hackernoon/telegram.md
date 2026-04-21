@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [telegram](https://hackernoon.com/tagged/telegram)
-### Let's learn about [Telegram](https://hackernoon.com/tagged/telegram) via these 96 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Telegram](https://hackernoon.com/tagged/telegram) via these 96 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Telegram is a cloud-based mobile and desktop messaging app known for its focus on speed, security, and extensive group communication features, providing encrypted communication and channel broadcasting capabilities. It matters as a privacy-focused communication tool and a platform for large-scale information dissemination.
+Telegram is a cloud-based mobile and desktop messaging app known for its focus on speed and security. It matters as a platform for secure communication, community building, and distributing information, offering features like channels and bots.
 
 ### [1. How to Create and Deploy a Telegram Bot?](https://hackernoon.com/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-xc03bsu.png)

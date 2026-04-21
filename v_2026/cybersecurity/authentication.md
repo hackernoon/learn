@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [authentication](https://hackernoon.com/tagged/authentication)
-### Let's learn about [Authentication](https://hackernoon.com/tagged/authentication) via these 216 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Authentication](https://hackernoon.com/tagged/authentication) via these 216 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Authentication is the process of verifying the identity of a user, system, or application, ensuring that only legitimate entities gain access to protected resources. It is a fundamental security measure crucial for protecting data and maintaining system integrity.
+Authentication is the process of verifying the identity of a user or system attempting to access a resource. It is a critical security measure that ensures only authorized individuals can gain access, protecting sensitive data and systems.
 
 ### [1. Using Session Cookies Vs. JWT for Authentication](https://hackernoon.com/using-session-cookies-vs-jwt-for-authentication-sd2v3vci)
 ![](https://cdn.hackernoon.com/images/t6yk3y1h.jpg)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [solana](https://hackernoon.com/tagged/solana)
-### Let's learn about [Solana](https://hackernoon.com/tagged/solana) via these 145 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Solana](https://hackernoon.com/tagged/solana) via these 145 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Solana is a high-performance blockchain platform designed for decentralized applications and crypto projects, recognized for its exceptional transaction speed and low fees. It matters by providing a scalable and efficient infrastructure for the next generation of blockchain applications, fostering innovation in Web3 and DeFi.
+Solana is a high-performance blockchain platform designed for decentralized applications and crypto projects. It matters for its exceptional transaction speed and low fees, aiming to provide a scalable infrastructure for the next generation of Web3 applications and mass adoption.
 
 ### [1. 10 Solana NFT Projects You Should Know About in 2022](https://hackernoon.com/top-10-solana-nft-projects-to-research-in-2022)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-q5037uw.jpeg)

@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hackernoon-ko](https://hackernoon.com/tagged/hackernoon-ko)
-### Let's learn about [Hackernoon Ko](https://hackernoon.com/tagged/hackernoon-ko) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Hackernoon Ko](https://hackernoon.com/tagged/hackernoon-ko) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-HackerNoon content in Korean makes tech stories accessible to a broader, Korean-speaking audience. This initiative fosters global knowledge sharing and connects diverse tech communities.
+HackerNoon in Korean presents tech articles and insights in Korean, serving the dynamic Korean tech scene and facilitating knowledge exchange for local innovators.
 
 ### [1. The Tom Holland Spider-Man Movies in Order of Release Date](https://hackernoon.com/the-tom-holland-spider-man-movies-in-order-of-release-date)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-9ra3pxv.jpeg)

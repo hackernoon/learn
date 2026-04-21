@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [github-copilot](https://hackernoon.com/tagged/github-copilot)
-### Let's learn about [Github Copilot](https://hackernoon.com/tagged/github-copilot) via these 170 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Github Copilot](https://hackernoon.com/tagged/github-copilot) via these 170 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-GitHub Copilot is an AI pair programmer developed by GitHub and OpenAI, designed to assist developers by suggesting code and entire functions in real-time. It significantly boosts developer productivity by automating repetitive tasks and providing intelligent coding assistance.
+GitHub Copilot is an AI-powered coding assistant developed by GitHub and OpenAI that suggests code snippets and functions in real-time as developers write. It enhances developer productivity by accelerating coding, reducing repetitive tasks, and helping to explore new libraries and patterns.
 
 ### [1. How I Let an AI Code a Game For Me!](https://hackernoon.com/how-i-let-an-ai-code-a-game-for-me)
 ![](https://cdn.hackernoon.com/images/Xqr4CUe3DYeURV7orh73yMqsUxI2-dda3vz1.jpeg)

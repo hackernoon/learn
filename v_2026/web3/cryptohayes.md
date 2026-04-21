@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptohayes](https://hackernoon.com/tagged/cryptohayes)
-### Let's learn about [Cryptohayes](https://hackernoon.com/tagged/cryptohayes) via these 58 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Cryptohayes](https://hackernoon.com/tagged/cryptohayes) via these 58 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-CryptoHayes typically refers to Arthur Hayes, a prominent figure in the cryptocurrency space and co-founder of BitMEX, known for his insightful analysis and commentary on crypto markets. His perspectives are valued by many seeking to understand market dynamics and future trends.
+CryptoHayes likely refers to Arthur Hayes, a prominent figure in the cryptocurrency industry, known for co-founding BitMEX and his insightful commentary on crypto markets and macroeconomics. His perspectives offer valuable analysis on the volatile and evolving world of digital assets.
 
 ### [1. Curve Ball](https://hackernoon.com/curve-ball)
 ![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-q493p0x.jpeg)

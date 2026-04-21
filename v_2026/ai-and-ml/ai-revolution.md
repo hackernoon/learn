@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ai-revolution](https://hackernoon.com/tagged/ai-revolution)
-### Let's learn about [Ai Revolution](https://hackernoon.com/tagged/ai-revolution) via these 96 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ai Revolution](https://hackernoon.com/tagged/ai-revolution) via these 96 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 "The significant problems we face cannot be solved by the same level of thinking that created them." - Albert Einstein
 

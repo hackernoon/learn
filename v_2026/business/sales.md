@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [sales](https://hackernoon.com/tagged/sales)
-### Let's learn about [Sales](https://hackernoon.com/tagged/sales) via these 218 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Sales](https://hackernoon.com/tagged/sales) via these 218 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 “If I tell you I want to be a door-to-door salesman, don’t knock it." - Jarod Kintz
 

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hardware](https://hackernoon.com/tagged/hardware)
-### Let's learn about [Hardware](https://hackernoon.com/tagged/hardware) via these 221 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Hardware](https://hackernoon.com/tagged/hardware) via these 221 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 With a rapidly growing industry that revolves around software, HackerNoon's hardware stories pay attention to the physical components that drive the future.
 

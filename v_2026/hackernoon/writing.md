@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [writing](https://hackernoon.com/tagged/writing)
-### Let's learn about [Writing](https://hackernoon.com/tagged/writing) via these 418 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Writing](https://hackernoon.com/tagged/writing) via these 418 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 The art of writing is just that - an art. And there's no one we have more respect for than great writers!
 

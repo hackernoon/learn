@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [k8s](https://hackernoon.com/tagged/k8s)
-### Let's learn about [K8s](https://hackernoon.com/tagged/k8s) via these 121 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [K8s](https://hackernoon.com/tagged/k8s) via these 121 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-K8s, or Kubernetes, is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. It is crucial for modern cloud-native development, enabling efficient management of microservices and ensuring high availability.
+K8s, or Kubernetes, is an open-source system for automating deployment, scaling, and management of containerized applications. It matters by providing a robust platform for orchestrating microservices, ensuring high availability, and streamlining cloud-native development.
 
 ### [1. How To Run Docker Linux Containers Natively on Windows](https://hackernoon.com/how-to-run-docker-linux-containers-natively-on-windows-ti1i3uxr)
 ![](https://cdn.hackernoon.com/images/yo203wgs.jpg)

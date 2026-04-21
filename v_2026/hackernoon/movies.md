@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [movies](https://hackernoon.com/tagged/movies)
-### Let's learn about [Movies](https://hackernoon.com/tagged/movies) via these 115 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Movies](https://hackernoon.com/tagged/movies) via these 115 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Movies make the idea of the world go 'round. We publish about the technology behind it, and their impact on media at large.
 

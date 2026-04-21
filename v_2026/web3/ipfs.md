@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ipfs](https://hackernoon.com/tagged/ipfs)
-### Let's learn about [Ipfs](https://hackernoon.com/tagged/ipfs) via these 57 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ipfs](https://hackernoon.com/tagged/ipfs) via these 57 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-IPFS (InterPlanetary File System) is a peer-to-peer network protocol designed to create a persistent, decentralized method of storing and sharing hypermedia. It aims to make the web more robust, efficient, and censorship-resistant by distributing content globally.
+InterPlanetary File System (IPFS) is a peer-to-peer network protocol designed to create a decentralized and distributed method of storing and sharing hypermedia. It aims to make the web more resilient, open, and faster by addressing limitations of traditional client-server models.
 
 ### [1. The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-yn0373q.png)

@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hackernoon-books](https://hackernoon.com/tagged/hackernoon-books)
-### Let's learn about [Hackernoon Books](https://hackernoon.com/tagged/hackernoon-books) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Hackernoon Books](https://hackernoon.com/tagged/hackernoon-books) via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 A collection of the greatest literatures in history, right here on HackerNoon
 

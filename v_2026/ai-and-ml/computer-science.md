@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [computer-science](https://hackernoon.com/tagged/computer-science)
-### Let's learn about [Computer Science](https://hackernoon.com/tagged/computer-science) via these 212 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Computer Science](https://hackernoon.com/tagged/computer-science) via these 212 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 Computer science holds to they to AI, every mobile app you've ever downloaded, and game you've ever played. Check out HackerNoon's stories on Computer Science.
 

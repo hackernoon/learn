@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ai-agent](https://hackernoon.com/tagged/ai-agent)
-### Let's learn about [Ai Agent](https://hackernoon.com/tagged/ai-agent) via these 221 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Ai Agent](https://hackernoon.com/tagged/ai-agent) via these 221 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-An AI agent is an artificial intelligence system capable of perceiving its environment, making decisions, and taking actions autonomously to achieve specific goals. AI agents are fundamental to developing sophisticated AI applications that interact with and influence the real world, from smart assistants to robotics.
+An AI agent is an autonomous entity that perceives its environment through sensors and acts upon it through effectors to achieve goals. AI agents are fundamental to building intelligent systems capable of operating independently and making decisions.
 
 ### [1. AI Agent: Meet the Minds of Smart Machines](https://hackernoon.com/ai-agent-meet-the-minds-of-smart-machines)
 ![](https://cdn.hackernoon.com/images/nyXrFk3PFLgHiNv7x18gz14M4Ju1-9t039pa.png)

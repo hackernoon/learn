@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [yield-farming](https://hackernoon.com/tagged/yield-farming)
-### Let's learn about [Yield Farming](https://hackernoon.com/tagged/yield-farming) via these 85 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Yield Farming](https://hackernoon.com/tagged/yield-farming) via these 85 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-Yield farming is a Decentralized Finance (DeFi) strategy where users lock up cryptocurrency to earn rewards, maximizing returns on their digital assets. Participants lend, borrow, or provide liquidity across various protocols, contributing to the growth and stability of the DeFi ecosystem.
+Yield farming is a DeFi strategy where users lock up their cryptocurrency assets in liquidity pools or lending protocols to earn rewards, often in the form of additional tokens. It allows participants to maximize returns on their crypto holdings within decentralized finance.
 
 ### [1. 4 Technology Developments for the End of 2022 and Christmas](https://hackernoon.com/4-technology-developments-for-the-end-of-2022-and-christmas)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-0z93oj1.jpeg)

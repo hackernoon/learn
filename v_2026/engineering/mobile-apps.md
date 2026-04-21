@@ -1,7 +1,7 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mobile-apps](https://hackernoon.com/tagged/mobile-apps)
-### Let's learn about [Mobile Apps](https://hackernoon.com/tagged/mobile-apps) via these 341 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Mobile Apps](https://hackernoon.com/tagged/mobile-apps) via these 341 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
 How many hours of our lives have we spent on mobile apps? Well, get ready to spend more with these articles.
 

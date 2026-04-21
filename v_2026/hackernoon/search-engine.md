@@ -1,9 +1,9 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [search-engine](https://hackernoon.com/tagged/search-engine)
-### Let's learn about [Search Engine](https://hackernoon.com/tagged/search-engine) via these 158 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+### Let's learn about [Search Engine](https://hackernoon.com/tagged/search-engine) via these 158 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-A search engine is a software system designed to find information on the World Wide Web, serving as a fundamental tool for information retrieval. It connects users with relevant content from vast online resources, making knowledge accessible and navigable.
+A search engine is a software system designed to search for information on the World Wide Web, identifying results relevant to a user's query. It is a fundamental tool for accessing information and navigating the vast digital landscape.
 
 ### [1. How To Scrape Google With Python](https://hackernoon.com/how-to-scrape-google-with-python-bo7d2tal)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ad82qhh.jpeg)
