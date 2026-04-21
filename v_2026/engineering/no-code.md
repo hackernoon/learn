@@ -1,0 +1,612 @@
+<img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
+
+# [no-code](https://hackernoon.com/tagged/no-code)
+### Let's learn about [No Code](https://hackernoon.com/tagged/no-code) via these 150 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+No-code development platforms allow users to create applications entirely without writing code, typically through drag-and-drop interfaces. It matters by empowering non-technical users to build and deploy software solutions, accelerating innovation and digital transformation.
+
+### [1. Will DevOps Cease to Exist? My Honest Opinion ](https://hackernoon.com/will-devops-cease-to-exist-my-honest-opinion)
+![](https://cdn.hackernoon.com/images/IvJ8puRpCzbvib1VYeG8JSQfwE12-4ye3sej.png)
+Debunking the rumor of DevOps' demise in the face of no-code platforms. 
+
+### [2. How to Fix Flaky End-to-End Tests with Playwright and Reflow](https://hackernoon.com/how-to-fix-flaky-end-to-end-tests-with-playwright-and-reflow)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-oy93kdy.jpeg)
+A software engineer codes for 18 months and builds a SaaS. He thinks he knows how to improve end-to-end testing.
+
+### [3. 8 Things Developers Don't Like About Low-Code and No-Code](https://hackernoon.com/8-things-developers-dont-like-about-low-code-and-no-code)
+![](https://cdn.hackernoon.com/images/6P7PmV5wEuZCuIB7haREkN3Q5UH2-7r93ky7.jpeg)
+Research into the attitudes of professional software developer towards low-code and nocode tools, including recommendations for low-code and nocode tool makers.
+
+### [4. Vibe Coding - A New System of the World](https://hackernoon.com/vibe-coding-a-new-system-of-the-world)
+![](https://cdn.hackernoon.com/images/MBz75e7HA1N72pZj0sCWNSZv6mJ3-yb535a4.jpeg)
+Is the rise of vibe coding also the end of software engineering? How will vibeware change the nature of the software entrepreneur, and the meaning of work?
+
+### [5. An Intro to No-Code Web Scraping](https://hackernoon.com/an-intro-to-no-code-web-scraping)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-8403o5g.jpeg)
+Web scraping has broken the barriers of programming and can now be done in a much simpler and easier manner without using a single line of code.
+
+### [6. How to Use Consul as a Host Resolver in gRPC](https://hackernoon.com/how-to-use-consul-as-a-host-resolver-in-grpc)
+![](https://cdn.hackernoon.com/images/uUy2hcEeUBUzpB2avIU9bM9u8Gt2-jk037gh.jpeg)
+Recently, I faced with lack of documentation when I wanted to use Consul as a host resolver in gRPC connections. That’s why I wanted to write this story.
+
+### [7. No-Code is Eating the World](https://hackernoon.com/no-code-is-eating-the-world-nrn3udw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnFGMPDaUJhN2rZiFEyVXNSMVezD3-xs194uzh.jpeg?alt=media&token=c9efb535-27ac-4348-be7a-c4b4aae0110f)
+Recently, Amazon released a new tool, called Honeycode, which lets customers quickly build mobile and web applications — with no coding required. This came a few months after Google’s acquisition of the no-code mobile-app-building platform, AppSheet. While these moves surprised many, they’re in line with a larger trend I’ve observed, one that’s growing strong in all sectors, even amidst economic turmoil.
+
+### [8. Best Drag and Drop Mobile App Builders for Android & iPhone](https://hackernoon.com/best-drag-and-drop-mobile-app-builders-for-android-and-iphone-mv2o37k2)
+![](https://cdn.hackernoon.com/images/O6cGdKVM77VtTdgZ9yACmWzxild2-dpgm29nq.jpeg)
+A drag and drop app builder is a tool that lets you create a mobile app without writing a single line of code.
+
+### [9. Leveraging JavaScript to Enhance Bubble Workflows: A Case Study](https://hackernoon.com/leveraging-javascript-to-enhance-bubble-workflows-a-case-study)
+![](https://cdn.hackernoon.com/images/workflow-clix4fcfv000001s6b2lwevzf.png)
+Integrating advanced features in Bubble can occasionally present challenges. This article addresses one such challenge and how Javascript helps overcome it. 
+
+### [10. 11 Best Low-Code And No-Code Platforms in 2021  ](https://hackernoon.com/11-best-low-code-and-no-code-platforms-in-2021-s04h3144)
+![](https://cdn.hackernoon.com/images/gqdLWd4rx7VOE5LIwJDpEg9e3f02-do8h310n.jpeg)
+No-code and Low-code development platforms offer development environments that enable businesses to create software swiftly with least or no coding.
+
+### [11. Advantages and Disadvantages of Rapid Application Development ](https://hackernoon.com/advantages-and-disadvantages-of-rapid-application-development)
+![](https://cdn.hackernoon.com/images/8WrEweaNiUfCF4dPS4eSTwtelNl2-ifa3h45.jpeg)
+What is rapid application development (RAD), and what are its advantages and disadvantages? Let's find that out!
+
+### [12. Vote Bot: Create a Voting Bot Without Coding](https://hackernoon.com/vote-bot-create-a-voting-bot-without-coding)
+![](https://cdn.hackernoon.com/images/yiwLhA3xCDe8ggNMkZIzPQaxrRg2-65736n9.jpeg)
+Learn how to create a voting bot without coding using Automatio.ai. This guide helps you automate votes for online polls and contests. 
+
+### [13. How to Start with Web Scraping and Why You Don't Need to Code](https://hackernoon.com/how-to-start-with-web-scraping-and-why-you-dont-need-to-code)
+![](https://cdn.hackernoon.com/images/Fa9ZtKCgz0Xh12q1R5T1nB5i8N52-e193jep.jpeg)
+Collecting data from the web can be the core of data science. In this article, we'll see how to start with scraping with or without having to write code. 
+
+### [14. How I Built a Mobile App to Manage My Subscriptions Without Code](https://hackernoon.com/test-yj3i3xww)
+![](https://cdn.hackernoon.com/images/ot6s3x03.jpg)
+Do you know that feeling when you come up with a cool idea for a product? 
+
+### [15. 6 Reasons Why No-Code Platforms are the Future Of Software Development](https://hackernoon.com/6-reasons-why-no-code-platforms-are-the-future-of-software-development)
+![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-ad037qu.jpeg)
+The next generation of no-code platforms will be a key force in transforming everything about software development. 
+
+### [16. How To Make A Great Looking Website Even If You Can't Design](https://hackernoon.com/how-to-make-a-great-looking-website-even-if-you-cant-design)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-e793mlp.jpeg)
+Making websites work and making websites look great are two different skills. Even so, here are some basic guidelines that ensure that your website looks great.
+
+### [17. Creating Telegram Bots with n8n, a No-Code Platform](https://hackernoon.com/creating-telegram-bots-with-n8n-a-no-code-platform-f22y32xr)
+![](https://cdn.hackernoon.com/images/k0i2ez8.jpg)
+I am a big fan of Telegram because of its great bot-ecosystem. I have been planning to make a bot for a while and have been looking for some nice workflow tools that can help me accomplish handling the back-end workflow of the bots visually. Recently, I started working with n8n, a fair-code licensed tool that helps you automate tasks, sync data between various sources and react to events all via a visual workflow editor.
+
+### [18. How to Integrate Your Webflow Forms with Airtable](https://hackernoon.com/how-to-instantly-send-webflow-form-submissions-to-the-cms)
+![](https://cdn.hackernoon.com/images/k0Lqj7QdAKdyvTwph1EPDMe8Tq52-qja3ho5.jpeg)
+Step-by-step guide to send Webflow form submissions to the CMS - without Zapier or Integromat.
+
+### [19. The Low-Code vs No-Code Platform Dilemma](https://hackernoon.com/the-low-code-vs-no-code-platform-dilemma-m03o32s5)
+![](https://cdn.hackernoon.com/drafts/f6g532j8.png)
+As time progressed, programming methods became simpler so that applications can be developed and delivered fast. This led to the popularity of low-code and later no-code approach to application development. Both low-code and no-code take a drag-and-drop visual approach to build business applications more efficiently. The idea is to reduce or replace complicated coding with a configuration approach. This allows citizen developers to build and test applications quickly.
+
+### [20. How To Build An n8n Workflow To Manage Different Databases and Scheduling Workflows](https://hackernoon.com/how-to-build-an-n8n-workflow-to-manage-different-databases-and-scheduling-workflows-sq8h35ld)
+![](https://cdn.hackernoon.com/images/zhuoO29JlJebgaxanq2fbxKNuEu1-5bw24dh.jpeg)
+Learn how to build an n8n workflow that processes text, stores data in two databases, and sends messages to Slack.
+
+### [21. How I Built (and Sold) an AI-Powered Gift Idea Generator](https://hackernoon.com/how-i-built-and-sold-an-ai-powered-gift-idea-generator)
+![](https://cdn.hackernoon.com/images/yKEdvhrW3TU9dae25UjSl9lhScy2-sj93rh8.jpeg)
+Building and selling an AI-powered gift idea generator that makes the process of gift-giving enjoyable.
+
+### [22. The Future of Product Management is No-Code Development](https://hackernoon.com/the-future-of-product-management-is-no-code-development-rts32j2)
+![](https://cdn.hackernoon.com/images/dkcg32z7.jpg)
+Three months ago I decided to immerse myself in the rapidly growing world of no-code development. This is what I’ve learned.
+
+### [23. 10 Features Where Coda Is Better Than Notion](https://hackernoon.com/10-features-where-coda-is-better-than-notion)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-k293jul.jpeg)
+Notion vs. Coda: a look at 10 features in Coda that are better than Notion from the perspective of a Coda employee. This article has been updated for 2022. 
+
+### [24. Build a Job Application Tracker in 10 minutes Using ToolJet's Low Code Tool](https://hackernoon.com/build-a-job-application-tracker-in-10-minutes-using-tooljets-low-code-tool)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-no03met.jpeg)
+In this article, you'll learn to build an app that will let you manage all your job applications right from your own personal dashboard.
+
+### [25. How Going Nocode Made Me A Serial Founder](https://hackernoon.com/how-going-nocode-made-me-a-serial-maker-7t5j32sp)
+![](https://cdn.hackernoon.com/drafts/oso3znp.png)
+The Idea
+
+### [26. A Complete Guide to No-code & Web3](https://hackernoon.com/a-complete-guide-to-no-code-and-web3)
+![](https://cdn.hackernoon.com/images/TyY74QkRbXcalCwmwnnicd0EzKk1-2vi4qka.jpeg)
+Learn everything about building a dApp yourself with a no-code platform, A to Z. It’s much easier than it looks!
+
+### [27. Is the Programming Market Oversaturated?](https://hackernoon.com/is-the-programming-market-oversaturated)
+![](https://cdn.hackernoon.com/images/2h3hqTmyuxXacclcSFqybjZrpMN2-3s93gp9.jpeg)
+Every so often I hear that the programming market will be saturated eventually and we are all going to end up on the streets. Is this really true?
+
+### [28. Is Visual Programming The Next Paradigm Shift For Software Development?](https://hackernoon.com/is-visual-programming-the-next-paradigm-shift-for-software-development-vb2v3w8q)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FloduIRt4tAh3CLrsoBc9MqX4VoI2-as3o3tak.jpeg?alt=media&token=8450ae9e-e547-44d5-8d78-b7515a3cf2e1)
+Over the course of history, humans have endeavored to make things faster, easier, and more efficient. Software is no exception to this – it was created to solve real-life problems. 
+
+### [29. I Built a Product with a No-Code Tool and Pitched it to VCs](https://hackernoon.com/-i-used-drag-and-drop-programs-to-smash-entrepreneurship-competitions-in-college-dont-let-codin-rwi32mb)
+![](https://cdn.hackernoon.com/drafts/to1e324k.png)
+Don’t Let Coding Become a Necessary Evil
+
+### [30. Add a Buy Me a Coffee Button to Your Website With No Code!](https://hackernoon.com/add-a-buy-me-a-coffee-button-to-your-website-with-no-code)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-nd931oi.jpeg)
+Learn how to easily install a button to start accepting cryptocurrency donations on your website using no/low-code solutions from Coinbase Commerce
+
+### [31. How to Build an App that Supports Wildcard and Custom Domains with SSL on Heroku](https://hackernoon.com/how-to-build-an-app-that-supports-wildcard-and-custom-domains-with-ssl-on-heroku)
+![](https://cdn.hackernoon.com/images/26gmiIziFEP9Twrd5S0fl7qksfk2-n3137ln.jpeg)
+Learn how you can set up an app that supports wildcard and custom domains with SSL on Heroku
+
+### [32. 12 Low-Code and No-Code Development Platforms for Business Users](https://hackernoon.com/12-low-code-and-no-code-development-platforms-for-business-users)
+![](https://cdn.hackernoon.com/images/8WrEweaNiUfCF4dPS4eSTwtelNl2-9w93pat.jpeg)
+This unbiased comparison of no-code/low-code platforms will help you choose the right technology stack for your digital transformation project. 
+
+### [33. How We Built Our Software Documentation On Docusaurus](https://hackernoon.com/how-we-built-our-software-documentation-on-docusaurus)
+![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-7293ln4.jpeg)
+To cover our bases, we needed to improve and expand our documentation and this time, we wanted to make it scalable with Docusaurus.
+
+### [34. Build a Bot that Automates Website Clicks Without Coding](https://hackernoon.com/build-a-bot-that-automates-website-clicks-without-coding)
+![](https://cdn.hackernoon.com/images/yiwLhA3xCDe8ggNMkZIzPQaxrRg2-n253918.jpeg)
+If you are looking for a way to automate browser website clicks, you came to the right place.
+
+### [35. Trade Crypto with Machine Learning Based On Google Trends](https://hackernoon.com/trade-crypto-withnocode-machine-learning-based-on-google-trends-qz4134v2)
+![](https://hackernoon.com/images/aOlsdc1MmbgVg1qKi9vo9LIeSUN2-r61634k4.jpeg)
+Google trends (GT) is an under-utilized superweapon and harvests a massive amount of search data. But, it hasn't been possible to use GT for real time machine learning tasks, such as predicting stock price or crypto currency movements, until now....In this blog, we'll explain the problem with GT for machine learning, the fix to GT data and the edge we've built in crypto trading models at edgebase.io.We are currently looking for experienced crypto traders as beta testers for our product - please reach out to hello@edgebase.io! Edgebase.io is a no-code platform for building your own AI trading signals (initially cryptos only).
+
+### [36. Low Code-No Code is the Future of Freelance Mobile App Development](https://hackernoon.com/low-codeno-code-is-the-future-of-freelance-mobile-app-development-ld4a32lt)
+![](https://cdn.hackernoon.com/drafts/ca1am32zk.png)
+How I Use Drag and Drop Programs to Help More People
+
+### [37. Low Code and No Code in 2026: The Way I Pick a Platform Without Regret](https://hackernoon.com/low-code-and-no-code-in-2026-the-way-i-pick-a-platform-without-regret)
+![](https://cdn.hackernoon.com/images/1M1uBRuoJ0NH4npgpSrWgVvgaQh1-b203d0g.webp)
+Low code and no code are not side tools anymore. They are becoming a default path to ship internal workflows, portals, dashboards, and even customer experiences
+
+### [38. How Developers Win With Low-Code Platforms](https://hackernoon.com/how-developers-win-with-low-code-platforms-str32aa)
+![](https://cdn.hackernoon.com/images/gq6e32f9.jpg)
+Photo Credit, @reallynattu
+
+### [39. How To Create an Applicant Tracking System using Airtable and Zapier in 7 easy steps](https://hackernoon.com/how-to-create-an-applicant-tracking-system-using-airtable-and-zapier-in-7-easy-steps-0v5835ti)
+![](https://hackernoon.com/images/k8kdwmV64fWzy37HCavclJuhoth2-6f6m34y8.jpeg)
+We started creating our Applicant Tracking System by using this template on Airtable and built the following tables on top of it - using forms and the grid.
+
+### [40. 6 No-Code Tools To Help Your Business Automation and Product Launches](https://hackernoon.com/6-no-code-tools-to-help-your-business-automation-and-product-launches-bg3l3wv9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FF7Ll8TuSCVb6UBqlCrCYjPNMget2-zr2m3tee.jpeg?alt=media&token=fa2e6ccc-d912-4ba6-b8bc-a8250cde2b37)
+A few years ago, the launch of any online business was associated with many difficulties. It was necessary to find developers who will build your website. 
+
+### [41. I Switched to Low-code, Here's Why](https://hackernoon.com/i-switched-to-low-code-heres-why)
+![](https://cdn.hackernoon.com/images/EZUuqT7M5KZIbbiEZ4Sqlxl0LlK2-d2c300k.jpeg)
+You need to make a choice between building something quickly to validate your ideas or building something robust from the start. 
+
+### [42. Pawsitive Results: How to Build the Ultimate Puppy Trainer AI-chatbot With Coze](https://hackernoon.com/pawsitive-results-how-to-build-the-ultimate-puppy-trainer-ai-chatbot-with-coze)
+![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-4zg3ewr.png)
+I built a puppy trainer bot with Coze, a no-code platform. And now my Aussie, Jenny is on her way to becoming a good girl. 
+
+### [43. How to Manage Permissions in a Langflow Chain for LLM Queries Using Permit.io](https://hackernoon.com/how-to-manage-permissions-in-a-langflow-chain-for-llm-queries-using-permitio)
+![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-t822nk4.png)
+This article explores how to implement a permission system in Langflow workflows using Permit.io’s ABAC capabilities.
+
+### [44. How No-Code Can Save Your Startup](https://hackernoon.com/how-no-code-can-save-your-startup-ra103urg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnFGMPDaUJhN2rZiFEyVXNSMVezD3-h8d4u2y.jpeg?alt=media&token=a51e3fa8-4799-4996-9af5-0f9b2ac90df6)
+The trick of being an entrepreneur is to extend your runway long enough to become profitable. If you haven’t nailed product-market fit by the time you run out of cash, the jig is up.
+
+### [45. These No-code Tools Promise to Boost Your Developer Workflow—No Tech Expertise Needed](https://hackernoon.com/these-no-code-tools-promise-to-boost-your-developer-workflowno-tech-expertise-needed)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-3l034ny.jpeg)
+In this article, I've manually compiled 8 of my favorite no-code tools you can use in your workflow to boost productivity without a lot of tech expertise.
+
+### [46. What I Learned From Open-Sourcing 2 of My Side Projects](https://hackernoon.com/what-i-learned-from-open-sourcing-2-of-my-side-projects)
+![](https://cdn.hackernoon.com/images/gzb4wpPqu0Y3vTmkubxXXyxoTKf2-8093t08.jpeg)
+Use real experiences to turn ideas into actions, optimize productivity, use AI, and master diverse skills. Empower your journey.
+
+### [47. How Bildr is Combining Web3 & No-Code](https://hackernoon.com/how-bildr-is-combining-web3-and-no-code)
+![](https://cdn.hackernoon.com/images/k0Lqj7QdAKdyvTwph1EPDMe8Tq52-3q03gpq.png)
+How does web3 impact SaaS companies? And how might it intersect with no-code?
+
+
+
+### [48. Power Virtual Agents: Use GPT-3.5 to Help With Trigger Phrases and Custom Entities](https://hackernoon.com/power-virtual-agents-use-gpt-35-to-help-with-trigger-phrases-and-custom-entities)
+![](https://cdn.hackernoon.com/images/cdMRGNEQvZYT6a1loPqyXOS12xM2-ih93pbj.jpeg)
+Use OpenAI Chat-GPT to help generate trigger phrases and content entities for power virtual agents. 
+
+### [49. How to Apply the Pareto Principle to  Learning Any No-Code Platform](https://hackernoon.com/how-to-apply-the-pareto-principle-to-learning-any-no-code-platform-m04b3ezq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTUds20DdV3VpWEFd7vXn0tYJWnI3-561a3e3t.jpeg?alt=media&token=8b660f67-cf70-4e94-bb6d-9eabec46adc6)
+How to learn about a No-Code Platform in 20% of the time.
+
+### [50. The Future of No-Code: An Interview with Parker Thompson from No-Code Report 🚀](https://hackernoon.com/the-future-of-no-code-an-interview-with-parker-thompson-from-no-code-report-xtf3xta)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnFGMPDaUJhN2rZiFEyVXNSMVezD3-xx74u4o.png?alt=media&token=08cd05f0-3126-48fd-ba87-2db086039342)
+No-Code Report is a weekly no-code newsletter, built using no-code tools like Webflow, Airtable, and Zapier. Working at a no-code analytics firm, I wanted to learn about insights in the field more broadly, so I spoke with No-Code Report's founder, Parker Thompson, on the state of the industry and its future.
+
+### [51. The Emerging Data Engineering Trends You Should Check Out In 2024](https://hackernoon.com/the-emerging-data-engineering-trends-you-should-check-out-in-2024)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6w8342v.jpeg)
+Integrating data engineering with AI has led to the popularity of modern data integration and the expertise required.
+
+### [52. Low-code for Hackers](https://hackernoon.com/low-code-for-hackers-tb2i3yb7)
+![](https://cdn.hackernoon.com/images/5r4bw3yza.jpg)
+In recent years Low-code/No-code has become a hot topic. According to that approach an IT-system is developed visually. Conventional wisdom says that building an MVP on low-code is OK, but if something sophisticated and scalable is needed, you have to code it traditionally. These visual tools seem to be very limited. Let me reveal the other side of low-code world, which has no such limits. 
+
+### [53. I Automated My Content Side Hustle with Notion, ChatGPT, and Zapier — Here's the Exact Workflow](https://hackernoon.com/i-automated-my-content-side-hustle-with-notion-chatgpt-and-zapier-heres-the-exact-workflow)
+![](https://cdn.hackernoon.com/images/Rx35qlUoZzQUz7LyRdpOGoj9j1K2-p7238t9.jpeg)
+I tested a real-world AI-powered content automation system using Notion, ChatGPT, and Zapier. Here's how I built it, the exact tools I used.
+
+### [54. Low Code Platforms Are Doing the Heavy Lifting for Developers: Here's How!](https://hackernoon.com/low-code-platforms-are-doing-the-heavy-lifting-for-developers-heres-how)
+![](https://cdn.hackernoon.com/images/picking-up-heavy-things-clhl5jbbf000001s63doj6vbn.png)
+CXOs are looking at low code platforms that are changing how organizations develop custom applications, elevating the developer experience once and for all. 
+
+### [55. Pi App Studio Expands Beyond No-Code, Giving Creators and Developers More Room to Build](https://hackernoon.com/pi-app-studio-expands-beyond-no-code-giving-creators-and-developers-more-room-to-build)
+![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-bn03bxh.png)
+Pi App Studio has added support for downloading and uploading app source code. 
+
+### [56. Creating Flawless DApps with No-code Bubble + Nexus.io Plugin](https://hackernoon.com/creating-flawless-dapps-with-no-code-bubble-nexusio-plugin)
+![](https://cdn.hackernoon.com/images/6Uy7JQ8n4CNQTxkGnF5wqNasJDV2-dz03gvu.jpeg)
+Nexus’ no-code Bubble plugin allows you to create Web3 applications on the Nexus blockchain using REST APIs
+
+### [57. Why Digital Transformation is Yes Code](https://hackernoon.com/why-digital-transformation-is-yes-code-nk1a3ubl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLazfq8Zor0O2ZzajfUxRQykunBu1-j4s3u30.jpeg?alt=media&token=911f89c2-ce23-4685-aa8a-2c12ba99ea56)
+No code applications are all the rage amongst fans of digital transformation. But do they actually facilitate the goal of making organizations more efficient, connected, and effective?
+
+### [58. How to Get Start No-Code Web Scraping with Octoparse](https://hackernoon.com/how-to-get-start-no-code-web-scraping-with-octoparse)
+![](https://cdn.hackernoon.com/images/YTVT09mUXdWy6VztwpjvjXUyKjs2-bqj24jb.jpeg)
+In this article you're going to learn how to get started with an octoparse, a no-code tool for doing automated web scraping powered by AI
+
+### [59. An Intro to Web Scraping: What it is and How to Start](https://hackernoon.com/an-intro-to-web-scraping-what-it-is-and-how-to-start)
+![](https://cdn.hackernoon.com/images/Fa9ZtKCgz0Xh12q1R5T1nB5i8N52-qt13gqn.jpeg)
+A quick introduction to web scraping, what it is, how it works, some pros and cons, and a few tools you can use to approach it
+
+### [60. Automate Designs with Bannerbear and n8n](https://hackernoon.com/automate-designs-with-bannerbear-and-n8n-r69a3vwr)
+![](https://cdn.hackernoon.com/drafts/323y2b1m.png)
+As a designer and self-proclaimed data nerd, I’ve been involved in proceduralizing creative deliverables for some time. Up until now however, my concepts always had to reconcile with the limitations of InDesign macros or my coding skills. n8n empowers me to apply my basic understanding of data objects and the interwebs to create some pretty slick automations with minimal effort.
+
+### [61. Work Smarter Not Harder With These 16 No-Code Productivity Tools 🔥🔥](https://hackernoon.com/work-smarter-not-harder-with-these-16-no-code-productivity-tools)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-sp83ybi.jpeg)
+In this article, I've handpicked 16 game-changing no-code tools for various needs, from automation and web development to design and collaboration.
+
+### [62. Build a Startup from Scratch with No-Code Tools](https://hackernoon.com/build-a-startup-from-scratch-with-no-code-tools)
+![](https://cdn.hackernoon.com/images/YlcWytkfRIY64lSLBbuvErBdoUg2-9j93i80.jpeg)
+How to build a startup without learning to code
+
+### [63. What’s Up at the AI and No-Code Frontier?](https://hackernoon.com/whats-up-at-the-ai-and-no-code-frontier)
+![](https://cdn.hackernoon.com/images/I6nNkFp9hdhaD3Qt79hfQAUDV2k1-9od4tg7.jpeg)
+Discover the latest on the AI frontier, as seen by a no-code platform that integrated very tightly with OpenAI.
+
+### [64. Distributed Ledger Technology and Blockchain When Combined With No-Code](https://hackernoon.com/distributed-ledger-technology-and-blockchain-when-combined-with-no-code)
+![](https://cdn.hackernoon.com/images/lyvwsmd6lIVCzgbjVKSCZ6234BH3-j5h3pr6.jpeg)
+Abstracting away the technical complexity of blockchain components, Joget DX empowers non-coders to rapidly build decentralized applications (DApps).
+
+### [65. 5 Steps To Build A Cool Legal Marketplace Startup In 24 Hrs](https://hackernoon.com/5-steps-to-build-a-cool-legal-marketplace-startup-in-24-hrs-8413344h)
+![](https://hackernoon.com/images/9FoqLXBqkFSxBjQvbeLToKfU4GA2-gki34we.jpeg)
+Learn to build a B2B online marketplace startup without code
+
+### [66. From Idea to App Store: How I Built an App Using 100% No-Code Tools](https://hackernoon.com/from-idea-to-app-store-how-i-built-an-app-using-100percent-no-code-tools)
+![](https://cdn.hackernoon.com/images/1dPDpfPo6gS8m0o41QENwX0XUiy1-n213sam.jpeg)
+How I built an iOS app using the no code tools Draftbit and Xano and then launched it to the App Store.
+
+### [67. Low Code Is The Future Of Application Development](https://hackernoon.com/low-code-is-the-future-of-application-development-c4263ztr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxTXILVf5qdeQ2P0CFi8XVWf7Dy93-6q2y3e62.jpeg?alt=media&token=343bfb91-a6ee-482c-835d-4e2083e2bb72)
+Today’s technology is about the future of application development rather than the past. The shift to modern tools such as low-code is happening no matter the controversies. 
+
+### [68. Cardano and Joget: Building No-Code, Composable Blockchain Apps](https://hackernoon.com/cardano-and-joget-building-no-code-composable-blockchain-apps)
+![](https://cdn.hackernoon.com/images/lyvwsmd6lIVCzgbjVKSCZ6234BH3-6l0365p.jpeg)
+Cardano and Joget: Building No-Code, Composable Blockchain Apps.
+
+### [69. How to Make an Interactive Pixelated Game in 30 Minutes Without Coding ](https://hackernoon.com/how-to-make-an-interactive-pixelated-game-in-30-minutes-without-coding-wj2m3509)
+![](https://cdn.hackernoon.com/images/IpaLD1eWwvaXwSxDZSLMMjCWjEn2-s8uu3a7t.jpeg)
+Learn how to create your first game for free without coding in 30 minutes.
+
+### [70. Full Guide to No-code DAOs](https://hackernoon.com/full-guide-to-no-code-daos)
+![](https://cdn.hackernoon.com/images/TyY74QkRbXcalCwmwnnicd0EzKk1-4pa4xk6.jpeg)
+Discover what decentralized autonomous organizations are all about, why no-code is the answer for your own DAO, and what awaits the future of technology.
+
+### [71. When Driving Adoption for a Low-Code Platform, Does One Target Developers or No-Coders?](https://hackernoon.com/when-driving-adoption-for-a-low-code-platform-does-one-target-developers-or-no-coders)
+![](https://cdn.hackernoon.com/images/5ZZ01s5G8fVi9qZZgKASB8y6gGt2-9a93qqg.jpeg)
+Is the future of software development low-code? Or is it no code at all?
+
+### [72. Coding with Latenode's AI + JavaScript Assistant: A Low-Code Platform for Simplified Development](https://hackernoon.com/coding-with-latenodes-ai-javascript-assistant-a-low-code-platform-for-simplified-development)
+![](https://cdn.hackernoon.com/images/bqFid6VVEHQQRlGJju2f0pjOhFG2-g2a331m.jpeg)
+JavaScript AI Copilot to make your automations as smooth as possible. The low-code platform for business process automations, Latenode, offers a free AI tool.
+
+### [73. The 5 Stages of LLM Systems: From Playground Hacks to Real Architecture](https://hackernoon.com/the-5-stages-of-llm-systems-from-playground-hacks-to-real-architecture)
+![](https://cdn.hackernoon.com/images/KKgJo9L6i5hBlUxP8D37SD3t8tl2-we13cdt.jpeg)
+Discover the LLM maturity model: from simple prompts to orchestrated systems. Why spaghetti flows fail - and how real architecture wins.
+
+### [74. The Hidden Issues with Low-Code Integration Platforms](https://hackernoon.com/the-hidden-issues-with-low-code-integration-platforms)
+![](https://cdn.hackernoon.com/images/LQhKryaxQyO0X0RGAGlV30f5syt2-0n234fc.jpeg)
+No-code and low-code integration platforms have many limitations that make them unsuitable for companies that want robust and scalable integrations. 
+
+### [75. Amazon Honeycode: A No-Code Platform With Big Promise](https://hackernoon.com/amazon-honeycode-a-no-code-platform-with-big-promise-iu1h3uio)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBbadvsUCsfNiF6fTYoRxIuMKhoB2-sx5525if.jpeg?alt=media&token=1ece5458-6928-467a-9272-4b39f1e62b9d)
+How I created a web and mobile application within an hour without coding
+
+### [76. How the Rise of Low-Code/No-Code Impacts Traditional Programming](https://hackernoon.com/how-the-rise-of-low-codeno-code-impacts-traditional-programming)
+![](https://cdn.hackernoon.com/images/a-laptop-screen-displaying-no-code-prlxdbw01ykuyzzv8b4qw148.png)
+Explore how low-code/no-code platforms are transforming software development and discover their implications for traditional programming. 
+
+### [77. Here's Why You Should Migrate 
+From Wordpress to Webflow](https://hackernoon.com/heres-why-you-should-migrate-from-wordpress-to-webflow)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-yp93j28.jpeg)
+Why migrate from WordPress to Webflow, and how can you transition efficiently? Here are a few things to consider.Webflow is the modern alternative of choice.
+
+### [78. The No-Code Way of Payments with Stripe: A Brief Guide](https://hackernoon.com/the-no-code-way-of-payments-with-stripe-a-brief-guide-sw1z37v1)
+![](https://cdn.hackernoon.com/images/oBJp5NI1CqWkTYoCtrcit0KrDza2-lc3035ge.jpeg)
+Stripe launched a new way to accept payments via Payment Links recently. It's a big deal for many use-cases. 
+
+### [79. How to Hire for No-Code Development: Finding the Right Talent](https://hackernoon.com/how-to-hire-for-no-code-development-finding-the-right-talent)
+![](https://cdn.hackernoon.com/images/BmOx73Ggy7R1aNarFQG9ShoiZDa2-1ia3rws.png)
+A definitive guide to hiring no-code developers; strategies, skills, sourcing, interviews, and nurturing talent.
+
+### [80. Best No-code Tools for Product Managers](https://hackernoon.com/best-no-code-tools-for-product-managers)
+![](https://cdn.hackernoon.com/images/wooden-blocks-on-a-surface-realistic-render-trending-on-artstation-clebixdrh000201s61myieinn.png)
+A quick overview of no-code tools that can be useful for Product Managers, from Airtable to Retool.
+
+### [81. Enhancing Data Preparation With AI for Business Intelligence](https://hackernoon.com/enhancing-data-preparation-with-ai-for-business-intelligence)
+![](https://cdn.hackernoon.com/images/7JpjDdfDMNZlAFdrXfVZzI6euQh1-tp93wh0.jpeg)
+Learn how data-centric AI can help automate data preparation for business intelligence, ensuring reliable conclusions for subsequent data analysis with Cleanlab
+
+### [82. AI, No-Code, or Hiring a Dev? Here's How to Build Software in 2025](https://hackernoon.com/ai-no-code-or-hiring-a-dev-heres-how-to-build-software-in-2025)
+![](https://cdn.hackernoon.com/images/nFGMPDaUJhN2rZiFEyVXNSMVezD3-sr03691.jpeg)
+AI crushed the "six-figure bootcamp dev" market. But it also created a new breed of 10X devs.
+
+### [83. How to Build a Startup Landing Page in Velo](https://hackernoon.com/how-to-build-a-startup-landing-page-in-velo-7beb33jh)
+![](https://cdn.hackernoon.com/images/c19IlEQcgCXavk4OhbVTzHb68O12-amfm3zb5.jpeg)
+In this article, I will be discussing these cases for which I highly recommend Velo and in cases, where I find it difficult that Velo would be a good solution. 
+
+### [84. Build Something Great in 2022 with these 40+ NoCode/LowCode Tools](https://hackernoon.com/40-no-codelow-code-tools-and-resources-for-developers-in-2022)
+![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-k102dmx.jpeg)
+
+
+### [85. What App Features to Include in a No-Code MVP (5 Steps to Figure Out!)](https://hackernoon.com/what-app-features-to-include-in-a-no-code-mvp-5-steps-to-figure-out)
+![](https://cdn.hackernoon.com/images/9FoqLXBqkFSxBjQvbeLToKfU4GA2-vec3ljl.jpeg)
+
+
+### [86. Can BuildBox Challenge The Might Of The Unity Game Engine?](https://hackernoon.com/can-buildbox-challenge-the-might-of-the-unity-game-engine-k0273xz5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvCE8Tr5GQ4ZD9M75mT8IsPONZLn2-k1b3u76.jpeg?alt=media&token=3194375e-44ee-4cc0-85bb-f5769004d9e1)
+As someone who has used both Buildbox and Unity to make games, I read with extreme interest a post by Venturebeat about the announcement of AppOnboard's new CEO, Mike Seavers. This could be one of the biggest wins for the company ever since Jonathan Zweig and AppOnboard acquired Buildbox last year. Zweig himself is an experienced entrepreneur, having co-founded AdColony in 2008 (sold to Opera for $350m in 2014) and co-founded AppOnboard in 2016. AppOnboard has raised $35m from investors, according to Crunchbase, and the new appointment could lead to new funding rounds when the time is right. This is going to lead to a very interesting David vs Goliath battle between AppOnboard's Buildbox and Unity Technologies. 
+
+### [87. Why You Should Always Build a MVP First](https://hackernoon.com/why-you-should-always-build-a-mvp-first-ko613yn2)
+![](https://cdn.hackernoon.com/images/j9ct3ybh.jpg)
+Let’s take a look at a classic example of a situation that I have observed numerous times. An enthusiastic maker has an idea for a great product and starts building right away without checking for competitors, creating a landing page first or getting some feedback from potential users. The maker sits down in front of his computer and starts building his product blindly. 
+
+### [88. Salesforce: A Full Stack Developer's First Impressions - Part 1](https://hackernoon.com/salesforce-a-full-stack-developers-first-impressions-part-1-se3d3tmx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-na133t17.jpeg?alt=media&token=effd2be2-e96a-45fc-a373-9e8b6246c95f)
+As a full-stack developer who primarily uses React and .NET, I have traditionally shied away from platform-specific integrations. Throughout my career, I have heard of Salesforce and "Salesforce Developers" (and I have also heard that Salesforce Developers were well-compensated), but otherwise, these terms never provoked my interest. After all, why would I want to lock myself into learning skills and abilities which only allowed me to work with one specific application?
+
+### [89. Wanna Know How I Built My Blog Website Using Lovable?](https://hackernoon.com/wanna-know-how-i-built-my-blog-website-using-lovable)
+![](https://cdn.hackernoon.com/images/building-blocks-abstract-piwh0ci9cv6in9arphux5bd7.png)
+Step-by-step guide to building a modern blog website with Lovable prompts, GitHub sync, and Substack links.
+
+### [90. No-Code Needs To Adapt To Specialists: An Argument](https://hackernoon.com/no-code-needs-to-adapt-to-specialists-an-argument-uo1w328p)
+![](https://cdn.hackernoon.com/images/8LrcfRYMsiSAkTlOxfIKZambCun1-zc5c31fg.jpeg)
+Nobody has time for endless tutorials. To go mainstream, no-code tools must adapt to specialists.
+
+### [91. The Benefits of Using No-Code Tools to Automate Daily Tasks](https://hackernoon.com/the-benefits-of-using-no-code-tools-to-automate-daily-tasks)
+![](https://cdn.hackernoon.com/images/7YvHL3ENPXaPCMItFXxed30R6de2-hf93m6l.jpeg)
+Simply put, no-code tools are similar to a toddler’s building blocks.
+
+### [92. The No-Code Movement - A Developer's Perspective](https://hackernoon.com/the-no-code-movement-a-developers-perspective)
+![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-uz93rb1.jpeg)
+Explore the 'No-Code' movement from a developer's perspective. Discover how embracing these tools can enhance software development speed and efficiency.
+
+### [93. The Future is No Code](https://hackernoon.com/the-future-is-no-code)
+![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-pc43okv.jpeg)
+“The future of coding is no coding at all.” - Chris Wanstrath, CEO at GitHub.
+
+### [94. The Coding Revolution: Will Software Developers Thrive Amidst the Low-Code/No-Code Storm?](https://hackernoon.com/coding-revolution-will-software-developers-thrive-amidst-the-low-codeno-code-storm)
+![](https://cdn.hackernoon.com/images/SPkdTjqfNfY8x0auqFNevjsi9GQ2-fw93yqt.jpeg)
+From coding to creativity: how software developers can lead the way in the low code/no code era, tackling challenges and driving innovation.
+
+### [95. Using No-Code SaaS Builders To Make Your New Product](https://hackernoon.com/using-no-code-saas-builders-to-make-your-new-product)
+![](https://cdn.hackernoon.com/images/IvbdQ1TqYah1YOpyYrdKkxL8FwG2-7i93m7r.gif.webp)
+Not knowing how to code shouldn't be a limitation to create an MVP for a SaaS. There are tools like Bubble, Carrd, and AppSheet that can make the process easier
+
+### [96. The No-Code Movement and 4 No-Code Tools to Explore](https://hackernoon.com/the-no-code-movement-how-to-build-without-code)
+![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-2y237ko.jpeg)
+Exploring no-code movement as a newbie. 
+
+### [97. Seven Years in Tech Taught Me This: Low-Code Is a Power Tool, Not a Magic Wand](https://hackernoon.com/seven-years-in-tech-taught-me-this-low-code-is-a-power-tool-not-a-magic-wand)
+![](https://cdn.hackernoon.com/images/SVtCr6wo4zRiPfyqRBKdxar6zXs1-c13366b.gif.webp)
+Tired of waiting on dev queues, I turned to low-code—and accidentally became a one-person product team. Here’s how I went from designer to builder.
+
+### [98. 5 Reasons Why You Need To Embrace Visual Programming Solutions](https://hackernoon.com/5-reasons-why-you-need-to-embrace-visual-programming-solutions-4j1e3xpe)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FloduIRt4tAh3CLrsoBc9MqX4VoI2-wp1u3u42.jpeg?alt=media&token=333fb093-aa96-4d6f-b741-b5928f00cf8b)
+COVID-19 proved to a lot of organizations that we’re not as digital as we like to think we are – even today’s top enterprises are still relatively ‘old-school’ and are behind in their digitalization progress.
+
+### [99. Key 2022 Statistics in the No-Code/Low-Code Market](https://hackernoon.com/key-2022-statistics-in-the-no-codelow-code-market)
+![](https://cdn.hackernoon.com/images/JzNdPMQy2Wbqmkulfq89ISoTUrB3-k493o7b.jpeg)
+We explore a low-code/no-code market poised for exponential growth in the coming years.
+
+
+
+### [100. The Future Of DevOps: Continuous Design/Continuous Integration](https://hackernoon.com/the-future-of-devops-continuous-designcontinuous-integration-lc1e34r9)
+![](https://hackernoon.com/images/4VIcggRIeThKZhpWOm5Amv080hG2-ii1k3fcz.png)
+The interaction among many tools in the design & development space all point to a new emerging category: “Continuous Design / Continuous Integration" or "CD/CI"
+
+### [101. Reimagining What Visual Data Transformation Tools Should Look Like](https://hackernoon.com/reimagining-what-visual-data-transformation-tools-should-look-like)
+![](https://cdn.hackernoon.com/images/a-robot-pondering-over-the-meaning-of-existence-while-looking-at-a-large-swathe-of-numbers-floating-in-mid-air-cle8jkkvd000001s63sdsgpgi.png)
+Data is not code. Professional analytics is not Python\SQL coding. We value our time, and time to value. Data people deserve the best tooling possible.
+
+### [102. Effortlessly Connect Data with Algolia's New No-Code Platform](https://hackernoon.com/effortlessly-connect-data-with-algolias-new-no-code-platform)
+![](https://cdn.hackernoon.com/images/VoliPy4PhDefuF3Ry84BTJ9Bv8V2-hl93i9y.jpeg)
+Algolia has added new no-code connector platform with new JSON and CSV connectors. 
+
+### [103. Why You Need No-Code Solution to Launch Your Lending Startup](https://hackernoon.com/why-you-need-no-code-solution-to-launch-your-lending-startup)
+![](https://cdn.hackernoon.com/images/J2gjyMC6JYW3ug1sCpu0ufZWgW93-o293oay.png)
+Fintech startups must be faster to stay competitive, and no-code solutions can be one of the ways to compete in this race.
+
+### [104. Unleashing HubSpot's Potential: Leveraging Low-Code Integration for Hyper-Personalized Apps](https://hackernoon.com/unleashing-hubspots-potential-leveraging-low-code-integration-for-hyper-personalized-apps)
+![](https://cdn.hackernoon.com/images/STQCqABlioQWnaHsM41j126aidx2-bda338r.jpeg)
+Unlock the power of HubSpot data with low-code integration, streamlining operations, boosting efficiency, and enhancing customer experiences.
+
+### [105. A Full Stack Dev's First Impressions of the Salesforce Platform, Part 2](https://hackernoon.com/a-full-stack-devs-first-impressions-of-the-salesforce-platform-part-2-n2n3eic)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXdTrpTXzxMgVm8F4Ctu32oQWJki2-j85a258t.png?alt=media&token=ee729579-5268-4c32-ba03-853535694e44)
+
+
+### [106. New Trend in the Smart Device Industry: No-code App Builders for IoT Devices](https://hackernoon.com/new-trend-in-the-smart-device-industry-no-code-app-builders-for-iot-devices)
+![](https://cdn.hackernoon.com/images/kBXNY4pRm3fr6iiUArR4fCnBJkz1-b093rkx.jpeg)
+✅ 2Smart CEO talks about his view on no-code app development in the IoT and the opportunities for implementing ideas developers get with app builders. 
+
+### [107. Why Growing Companies Shouldn’t Rely Too Heavily on No-Code Tools](https://hackernoon.com/why-growing-companies-shouldnt-rely-too-heavily-on-no-code-tools)
+![](https://cdn.hackernoon.com/images/a-busy-office-board-room-om535c78ol7blalvpw42halr.png)
+No-code tools save time at launch—but create hidden costs, security risks, and scaling issues as your company grows.
+
+### [108. The 3 Stages to Making Your Own No-Code Solution](https://hackernoon.com/the-3-stages-to-making-your-own-no-code-solution)
+![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-vjb3hxy.jpeg)
+Create your own no-code solution in three easy to follow steps.
+
+### [109. A New Chapter for Enterprise Low-Code: Transitioning to Open Source](https://hackernoon.com/a-new-chapter-for-enterprise-low-code-transitioning-to-open-source)
+![](https://cdn.hackernoon.com/images/R2ag4GqSKMZmCQAv8V75xwfSfmi2-d8e3o49.png)
+Co-founder and CEO of Noodl, James Haliburton, announces their transition to an open-source model. This significant shift aims to empower developers and democra
+
+### [110. "Being a founder usually means that you have to play bad cop often", said Tico Founder ](https://hackernoon.com/being-a-founder-usually-means-that-you-have-to-play-bad-cop-often-said-tico-founder)
+![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
+Tico, where better conversation happen, was nominated as one of the best startups in HackerNoon's Startups of the Year. This is the story of their founder. 
+
+### [111. Custom Logic in Webflow: How to Push No-Code to Its Limits](https://hackernoon.com/custom-logic-in-webflow-how-to-push-no-code-to-its-limits)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-e103ba8.png)
+Discover how to extend Webflow’s no-code capabilities with custom logic, low-code integrations, and performance-first architecture.
+
+### [112. The 16KB Deadline: How FlutterFlow is Saving Apps from the Android Purge](https://hackernoon.com/the-16kb-deadline-how-flutterflow-is-saving-apps-from-the-android-purge)
+![](https://cdn.hackernoon.com/images/eu5dIKsHPOb7HcxKVW5fEwA0U0X2-3203dot.gif.webp)
+FlutterFlow’s upgrade to 3.38.5 is more than a patch—it's a survival move. 
+
+### [113. Low-Code vs No-Code: A Buzzword Battle for the Ages](https://hackernoon.com/low-code-vs-no-code-a-buzzword-battle-for-the-ages)
+![](https://cdn.hackernoon.com/images/6pK1p88c2pVd4Zmu94nkdCnULux2-ph02cmo.jpeg)
+Developing apps normally needs experienced programmers who are familiar with development. However, these low-code and no-code apps change the paradigm. 
+
+### [114. How to Develop Sound Product Principles via No-Code Methods](https://hackernoon.com/how-to-develop-sound-product-principles-via-no-code-methods-u12x31g3)
+![](https://cdn.hackernoon.com/images/SO2cHZDt97TcEP1s0A643vp301u2-m9af31mr.jpeg)
+A little guide about how to develop sound product principles by being flexible in your methods, plus an example.
+
+### [115. The Tools I Use for My Pre-Revenue Startup [BLACK FRIDAY EDITION]](https://hackernoon.com/the-tools-i-use-for-my-pre-revenue-startup-black-friday-edition)
+![](https://cdn.hackernoon.com/images/x9fNUkdL4Jbhq3MXunH1vO09kLk2-zac3sdm.gif.webp)
+Here's how I build my startup with 7 no-code & no-talent tools!
+
+### [116. Low-Code vs Full-Code: How Startups Can Balance Speed and Control](https://hackernoon.com/low-code-vs-full-code-how-startups-can-balance-speed-and-control)
+![](https://cdn.hackernoon.com/images/oqxc347yWNf65zIjYo1OxPzanuH3-1c03b99.png)
+Low-code speeds up MVPs, full-code ensures scale. Discover how startups can balance speed, cost, and control with a hybrid approach.
+
+### [117. Top‌ ‌3‌ ‌Drag-n-Drop‌ ‌Page‌ ‌Builders‌ ](https://hackernoon.com/top-3-drag-n-drop-page-builders-062m338d)
+![](https://cdn.hackernoon.com/images/JynY4I2hPXMFDI9SxwSQeeHds6n1-6ur33kp.jpeg)
+Do you want to build a fast, mobile, and high-ranking website with no coding experience? Hiring a developer would make the grade, but could cost you a pretty penny. So how can you nail eye-catching pages for your website without coding wiz? Well, the mighty drag-n-drop page builder might come to your rescue.
+
+### [118. Experimenting With GPT, WordPress, and Convoworks to Filter Spam](https://hackernoon.com/experimenting-with-gpt-wordpress-and-convoworks-to-filter-spam)
+![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-ptd3p8n.jpeg)
+Discover how to use Convoworks, a no-code tool, to build a GPT based spam filter for your WordPress website.
+
+### [119. We are Currently Experiencing a Renaissance of Open-Source Software](https://hackernoon.com/we-are-currently-experiencing-a-renaissance-of-open-source-software)
+![](https://cdn.hackernoon.com/images/eoFt9fvUnJZWjIQFjCu3guaNGFj2-wn93j6z.jpeg)
+as well as open-source projects in the data space, which primarily define the modern data stack. It is time to dive a little deeper into the topic.
+
+### [120. 10 NoCode Tools to Help You Build Your MVP 🚀](https://hackernoon.com/10-nocode-tools-to-help-you-build-your-mvp)
+![](https://cdn.hackernoon.com/images/YlcWytkfRIY64lSLBbuvErBdoUg2-4r038g6.jpeg)
+A list of 10 free Nocode tools for creating and launching a successful startup ✅🚀
+
+### [121. The Overview of Prospective DL Algorithms: Ready-to-Use Solutions and Predictions for Future](https://hackernoon.com/the-overview-of-prospective-dl-algorithms-ready-to-use-solutions-and-predictions-for-future-0m1z33c9)
+![](https://cdn.hackernoon.com/images/Se4VZCwmwxe91buHAWoJrDK9Ukf2-tr5z3zsd.jpeg)
+A field that is bringing alot of commotion and noise is Artificial Intelligence. But something that really fascinates me is a subset of that field known as Artificial General Intelligence (AGI) or the holy grail of Artificial Intelligence.
+
+### [122. Struggling with Content Creation? I Built an AI Chatbot to Help You ](https://hackernoon.com/top-content-bot-the-road-to-content-creation-made-easier)
+![](https://cdn.hackernoon.com/images/a-road-made-of-green-code-sketch-artstyle-dxs4a04zpndgjn18v1uaakdz.png)
+The Top Content Bot is an AI chatbot designed to help people with social media strategies and content ideas.
+
+### [123. How to Combine a Workflow Engine with a Low-code Platform for Automated Task Execution](https://hackernoon.com/how-to-combine-a-workflow-engine-with-a-low-code-platform-for-automated-task-execution)
+![](https://cdn.hackernoon.com/images/fQBB8zRuoOdtVsWP9b3qXTePiey2-s0vo35be.jpeg)
+Here is a practical example of using low-code platform such as Linx and an open-source workflow engine like Camunda for rapid business process automation. 
+
+### [124. 7 Websites to Inspire Your Next Web Design](https://hackernoon.com/7-websites-to-inspire-next-level-web-design)
+![](https://cdn.hackernoon.com/images/uRTauF3LioZDGkbCBMkvP0si8Lr2-w893rtq.jpeg)
+As a developer or designer, it's always important to stay up-to-date on the latest trends and techniques in your field.
+
+### [125. Diagramming Tools: When Should You Use No Code, DSL, or Code?](https://hackernoon.com/diagramming-tools-when-should-you-use-no-code-dsl-or-code)
+![](https://cdn.hackernoon.com/images/8yLAicy3CnhVVpwKgFUlDokeHy43-53035k7.png)
+Choosing between diagramming tools: No Code, DSL, or Code
+
+### [126. How to Deploy ETL and ML Pipelines in the Fastest, Cheapest and Most Flexible Way Possible](https://hackernoon.com/how-to-deploy-etl-and-ml-pipelines-in-the-fastest-cheapest-and-most-flexible-way-possible)
+![](https://cdn.hackernoon.com/images/ngkl4PnLRsceESlYuHTfHgQgZ0K3-sv137ho.jpeg)
+Cost-Efficient and flexible ETL and ML pipelines deployment with a no-code solution. 
+
+### [127. The Noonification: Teaching Your Character to Run in Flame (2/28/2023)](https://hackernoon.com/2-28-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+2/28/2023: Top 5 stories on the Hackernoon homepage!
+
+### [128. No-code, No life](https://hackernoon.com/no-code-no-life)
+![](https://cdn.hackernoon.com/images/YCBODIkbiOhOFvKjKF9d12qFe812-mz82tia.png)
+No code is the emperor's new clothes.
+
+### [129. AI Has Become My Co-Founder](https://hackernoon.com/ai-has-become-my-co-founder)
+![](https://cdn.hackernoon.com/images/aWbxiVGKewaiuixfHkmVJApYpo13-7723lgz.png)
+From automating LinkedIn posts to building a full-scale enterprise platform, discover how AI evolved from tool to co-founder in the creation of Linkeme.ai.
+
+### [130. Developers Are Missing Out on the Low-Code Shift](https://hackernoon.com/developers-are-missing-out-on-the-low-code-shift)
+![](https://cdn.hackernoon.com/images/ltSU18V5HHNklBC0ZFPkb3h9XKz1-00039f0.webp)
+The world of development has changed. Yet many developers remain blind to it. 
+
+### [131. How I Build and Test AI App Ideas in 48 Hours with $50 (Without Being a Coder)](https://hackernoon.com/how-i-build-and-test-ai-app-ideas-in-48-hours-with-$50-without-being-a-coder)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6e02xis.jpeg)
+A non-coder’s guide to quickly testing AI product ideas using no-code tools, market research hacks, and Reddit ads — all for less than $50 and in under two days
+
+### [132. Low-code, No-code and the Future of Enterprise App Development](https://hackernoon.com/low-code-no-code-and-the-future-of-enterprise-app-development)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-x3036w1.jpeg)
+People working in the digital space have most likely heard the phrases “low-code” and “no-code” circulating lately in discussions regarding app development.
+
+### [133. Disposable Software Are Killing the App Store](https://hackernoon.com/disposable-software-are-killing-the-app-store)
+![](https://cdn.hackernoon.com/images/25wSLwpOYNYKfuwCiBECzAH9bHF3-ca032nj.png)
+You speak an idea, and an app appears - custom, fleeting, gone when you're done. The App Store’s bloated model is crumbling under this instant magic, says Huss.
+
+### [134. Launch Your Professional Website in Minutes: No Coding Required](https://hackernoon.com/launch-your-professional-website-in-minutes-no-coding-required)
+![](https://cdn.hackernoon.com/images/a-zoo-world-animated-a09x1wqt02hm8s4kjp6qkvno.png)
+I dreamed of creating Zootopia World — a platform where wildlife enthusiasts could connect and explore the animal kingdom, but website development seemed scary.
+
+### [135. The "No-Code" Scaling Paradox: Why Your Frankenstein Architecture Will Eventually Fail](https://hackernoon.com/the-no-code-scaling-paradox-why-your-frankenstein-architecture-will-eventually-fail)
+![](https://cdn.hackernoon.com/images/oV93AQV9DjVhuDFOoKFxEoC6PKz2-mi83ckj.png)
+An architectural analysis of why No-Code tools fail at scale, focusing on API latency, technical debt, and the ROI of custom software development. 
+
+### [136. I Didn’t Know How to Code. But I Knew What We Needed: An MVP](https://hackernoon.com/i-didnt-know-how-to-code-but-i-knew-what-we-needed-an-mvp)
+![](https://cdn.hackernoon.com/images/tRCdMTP1QOO8SNXPIJNUmIK3pZO2-8d13azb.png)
+Non-developer builds an MVP in 2 weeks with AI and no-code tools. A story of urgency, curiosity, and how small teams can move faster.
+
+### [137. Should Enterprises Consider No-code Tools?](https://hackernoon.com/should-enterprises-consider-no-code-tools)
+![](https://cdn.hackernoon.com/images/Y9f32VyCNLbK83pCb1o9XYm6GUO2-xre3301.jpeg)
+Explore the pros and cons of no-code tools for enterprises, including benefits like speed and cost savings, and challenges like customization and security.
+
+### [138. Why we Decided to Open Source our Company](https://hackernoon.com/why-we-decided-to-open-source-our-company-ci1y3um5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4VIcggRIeThKZhpWOm5Amv080hG2-wz1c3etd.jpeg?alt=media&token=2ec7118c-0db3-4179-a6c4-703747c43cbf)
+I like getting things done quickly, not just for the sense of accomplishment, but because I know I can also move on to other projects and collaborations in the wings. Since I was a kid, however, I heard that speed was dangerous, that it inherently meant cutting corners. “Isn’t it good enough?” I’d ask my mom after a quick, hacked attempt at making my bed. “If you’re going to do something, do it well,” she said. I thought my bed was perfectly fine. She did not.
+
+### [139. Debunking the Myths Around No-Code Technology](https://hackernoon.com/debunking-the-myths-around-no-code-technology)
+![](https://cdn.hackernoon.com/images/ZofzyshEh8QFZBZt36oNTm8w12j2-ih93m2x.jpeg)
+No-code tools have become a key enabler of the digital transformation age, allowing people without specialized skills to create apps and websites. 
+
+### [140. AI Marketing Tools in 2025: Ship Faster, Convert Better, Sleep More](https://hackernoon.com/ai-marketing-tools-in-2025-ship-faster-convert-better-sleep-more)
+![](https://cdn.hackernoon.com/images/1vQ6UmzaynWRRSMXjFIX7TLZBpe2-c703fhk.jpeg)
+Discover how AI marketing tools powered by GPT, Codex, and no-code automation are reshaping content creation, lead generation and growth strategies in 2025. 
+
+### [141. What Citizen Development Is, Why It's Important, and How It Can Benefit Your Business](https://hackernoon.com/what-citizen-development-is-why-its-important-and-how-it-can-benefit-your-business)
+![](https://cdn.hackernoon.com/images/DXz9GXTtgthREtyKJUCi1imAp443-gx832cz.jpeg)
+Citizen development is the practice of allowing non-technical employees within an organization to create software applications using low-code or no-code.
+
+### [142. The Ben Tossell Tech News Template: What's going on here? What does this mean? Why should I care?](https://hackernoon.com/the-ben-tossell-tech-news-template-whats-going-on-here-what-does-this-mean-why-should-i-care)
+![](https://cdn.hackernoon.com/images/the-tech-news-template-a5ocl6gq3yljhvzrjgisrxza.png)
+Write your own tech story via the Ben Tossell Tech News Template: What's going on here? What does this mean? Why should I care?
+
+### [143. The Pros and Cons of Low Code Development](https://hackernoon.com/the-pros-and-cons-of-low-code-development)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-gt3h3oxo.jpeg)
+The demand for software greatly surpasses the number of coders and  ‘no-code development solutions’ are helping organizations overcome the talent gap.
+
+### [144. The Business Case for No-Code AI Assistants](https://hackernoon.com/the-business-case-for-no-code-ai-assistants)
+![](https://cdn.hackernoon.com/images/9sk1RZ9hRoTmF1dwhC82n9OgiLJ3-ap03bio.png)
+Learn how to design and launch your own AI assistant using no-code tools, boosting efficiency and driving value in operations, support, and decision-making.
+
+### [145. Quickly Get Feedback and Data for Your App Using Pre-Filled Google Forms: A Guide](https://hackernoon.com/quickly-get-feedback-and-data-for-your-app-using-pre-filled-google-forms-a-guide)
+![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-qb03e8a.png)
+Ship faster by setting up a simple replacement for casual data collection
+
+### [146. Interview with Maxime Jumelle About Using n8n at Blent.ai 🚀](https://hackernoon.com/interview-with-maxime-jumelle-about-using-n8n-at-blentai-731i3u5n)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/avatars%2F8ny8A6OMq9MrF4hSYcyWtB2IfG93-3ez28nu?alt=media&token=48e9dd45-749c-4cf6-bc56-b6a3cd698226)
+Blent.ai has been using n8n for increasing customer engagement and improving customer experience. We talked with Maxime Jumelle, co-founder of Blent.ai to learn more.
+
+### [147. The HackerNoon Newsletter: Can ChatGPT Outperform the Market? Week 2 (8/25/2025)](https://hackernoon.com/8-25-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_365_w6c8uwkir16qmt0kmbz07wus.png)
+8/25/2025: Top 5 stories on the HackerNoon homepage!
+
+### [148. Vibe Coding Explained: The New Way to Build Apps with AI](https://hackernoon.com/vibe-coding-explained-the-new-way-to-build-apps-with-ai)
+![](https://cdn.hackernoon.com/images/vibe-coding-bb5gxnt4iuh8u73f997xh9gb.png)
+Vibe coding is the AI-powered way to build apps without writing every line yourself. Learn how it works, why it matters, and how pros and beginners are using it
+
+### [149. Can No-code Help Platform Cooperative Developers?](https://hackernoon.com/can-no-code-help-platform-cooperative-developers)
+![](https://cdn.hackernoon.com/images/UhXBeQy4RlXUxhf7tp32aWk2zE52-tea3gxo.jpeg)
+Is no-code a potential solution to break past the bottleneck inhibiting the development of platform cooperatives?
+
+### [150. Taking your Interactive Pixelated Game to the Next Level](https://hackernoon.com/taking-your-interactive-pixelated-game-to-the-next-level-jb2v345v)
+![](https://cdn.hackernoon.com/images/IpaLD1eWwvaXwSxDZSLMMjCWjEn2-l5lw3awp.jpeg)
+Add camera movement, music, a health status bar, and more to your first pixelated game!
+

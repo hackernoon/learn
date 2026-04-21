@@ -1,0 +1,41 @@
+<img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
+
+# Cybersecurity
+
+Stay safe online. Security vulnerabilities, ethical hacking, data privacy, and the ever-evolving cyber threat landscape.
+
+## Tags:
+
+* [authentication](./authentication.md) - Authentication is the process of verifying the identity of a user or system attempting to access a resource. It is a critical security measure that ensures only authorized individuals can gain access, protecting sensitive data and systems.
+* [authorization](./authorization.md) - Authorization is the process of determining whether a user, program, or process is permitted to access a resource or perform an action. It is a critical security mechanism, ensuring that only authorized entities can interact with sensitive data and systems.
+* [blockchain-security](./blockchain-security.md) - Blockchain security refers to the measures and protocols implemented to protect blockchain networks and their data from attacks and tampering. It matters for maintaining the integrity, immutability, and trustworthiness fundamental to blockchain technology.
+* [cryptography](./cryptography.md) - The art and science of encrypting your messages before sending them out. From Hitler's Enigma to your Whatsapp messages, cryptography has seen it all.
+* [cyber-security](./cyber-security.md) - Cyber Security encompasses anything and everything from encryption to network security and endpoint security.
+* [cyber-security-awareness](./cyber-security-awareness.md) - Cybersecurity awareness is the understanding of cyber threats and best practices to protect digital assets and information. It is crucial because a well-informed user base significantly reduces the risk of successful cyberattacks, safeguarding personal data and organizational systems.
+* [cyber-threats](./cyber-threats.md) - Cyber threats are more dangerous than ever. Learn how to protect yourself.
+* [cybercrime](./cybercrime.md) - Cybercrime refers to criminal activities carried out using computers or the internet. It matters as a growing threat to individuals, businesses, and governments, leading to financial losses, data theft, and erosion of trust in digital systems, making robust cybersecurity essential.
+* [cybersecurity](./cybersecurity.md) - Hacking is not a crime! Or is it? Well, it depends on which hat you are wearing. Find all about Offense-Defense dilemmas, theories, and practicals here!
+* [cybersecurity-writing-contest](./cybersecurity-writing-contest.md) - A cybersecurity writing contest is a competition where authors submit articles on cybersecurity-related topics. These contests promote awareness, foster knowledge sharing, and highlight emerging threats and solutions in the critical field of digital security.
+* [encryption](./encryption.md) - The process of converting information into a code to prevent unauthorized access, ensuring data privacy and security in communication and storage.
+* [ethical-hacking](./ethical-hacking.md) - Ethical hacking is the practice of identifying vulnerabilities in computer systems and networks to improve security, performed with the owner's permission. It's vital for proactively protecting digital assets against malicious attacks by simulating real-world threats.
+* [fraud](./fraud.md) - Fraud refers to deceptive practices or misrepresentations aimed at gaining an unfair advantage, often involving financial or data manipulation. Combating fraud is critical for maintaining trust, security, and financial integrity within digital systems.
+* [growth-hacking](./growth-hacking.md) - Learn, from people that walk the walk, how best to help new and existing companies acquire and retain customers. 
+* [hacking](./hacking.md) - Welcome home, OG Hackers. 
+* [information-security](./information-security.md) - The practice of protecting information systems from unauthorized access, use, disclosure, disruption, modification, or destruction, critical for safeguarding data in the digital age.
+* [internet-censorship](./internet-censorship.md) - Internet censorship refers to the control or suppression of what can be accessed, published, or viewed on the internet. It matters as it impacts freedom of expression, access to information, and can have significant political, social, and economic implications.
+* [internet-security](./internet-security.md) - Internet security encompasses measures used to protect data and information transmitted over the internet from unauthorized access, use, or disruption. It matters for maintaining privacy, protecting sensitive information, and ensuring the trustworthiness of online interactions.
+* [life-hacking](./life-hacking.md) - Learn to hack work, life, and everything in between via HackerNoon, with insights from tens of thousands of tech professionals worldwide.
+* [malware](./malware.md) - Malware is malicious software designed to disrupt computer operations, gather sensitive information, or gain unauthorized access to computer systems. Understanding and defending against malware is critical for cybersecurity and protecting digital assets.
+* [network-security](./network-security.md) - Network security refers to measures taken to protect computer networks and data from unauthorized access, misuse, modification, or denial. It is fundamental for safeguarding sensitive information and ensuring the integrity and availability of online operations.
+* [password-security](./password-security.md) - Practices and technologies aimed at protecting passwords from unauthorized access, crucial for safeguarding user accounts and sensitive data in the digital world.
+* [passwords](./passwords.md) - Passwords are secret strings of characters used to verify a user's identity and grant access to systems or accounts. They matter as a fundamental layer of digital security, protecting sensitive information and preventing unauthorized access in an increasingly connected world.
+* [penetration-testing](./penetration-testing.md) - Penetration testing, or pen testing, is a simulated cyberattack against a computer system to check for exploitable vulnerabilities. It matters for proactive cybersecurity, helping organizations identify and patch weaknesses before malicious actors can exploit them.
+* [phishing](./phishing.md) - Phishing is a type of cyberattack where attackers attempt to trick individuals into revealing sensitive information, often through deceptive emails or websites. It matters as a pervasive threat that can lead to data breaches, financial fraud, and identity theft, making cybersecurity awareness critical.
+* [piracy](./piracy.md) - Piracy, in a digital context, refers to the unauthorized reproduction or distribution of copyrighted material. It matters as it impacts intellectual property rights, creator revenue, and the economic sustainability of content industries, posing significant legal and ethical challenges.
+* [privacy](./privacy.md) - How hackers are hacking your stuff and stealing your data
+* [scam](./scam.md) - "The key to my success was my ability to be a chameleon, to adapt and become whoever I needed to be in order to pull off my schemes," Frank Abagnale Jr.
+* [scams](./scams.md) - Scams are fraudulent schemes designed to trick individuals into parting with money or sensitive information. They matter due to their significant financial and emotional impact on victims, posing a persistent threat in both digital and physical realms.
+* [security](./security.md) - According to technologists, "Privacy is a myth." but "Security is non-negotiable."
+* [smart-contract-security](./smart-contract-security.md) - Smart contract security is the practice of identifying and mitigating vulnerabilities in self-executing contracts on a blockchain. It matters immensely as flaws can lead to significant financial losses and undermine trust in decentralized applications.
+* [social-engineering](./social-engineering.md) - Social engineering is the psychological manipulation of people into performing actions or divulging confidential information, often used in cybersecurity attacks. Understanding it is crucial for individuals and organizations to defend against phishing, impersonation, and other deceptive tactics.
+* [vpn](./vpn.md) - VPN stands for Virtual Private Network. It gives you another layer of protection.
